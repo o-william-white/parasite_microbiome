@@ -27,7 +27,8 @@ rule all:
 # fastq-dl
 rule fastq_dl:
     params:
-        ena_id = "{sample}"
+        ena_id = "{sample}",
+        outdir = output_dir+"/fastq_dl"
     output:
         fwd = output_dir+"/fastq_dl/{sample}_1.fastq.gz",
         rev = output_dir+"/fastq_dl/{sample}_2.fastq.gz"
@@ -40,7 +41,7 @@ rule fastq_dl:
         """
         fastq-dl \
             --accession {params.ena_id} \
-            --outdir fastq_dl \
+            --outdir {params.outdir} \
             --provider ena \
             --cpus {threads} &> {log}
         """

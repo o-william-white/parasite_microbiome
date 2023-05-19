@@ -9,7 +9,7 @@ source activate parasite_microbiome
 
 snakemake \
    --cores 48 \
-   --use-conda 
+   --use-conda
 
 echo Complete!
 
