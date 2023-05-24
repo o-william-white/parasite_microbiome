@@ -5,7 +5,8 @@ configfile: "config/config.yaml"
 
 # configfile parameters
 output_dir = config["output_dir"]
-kraken_db = config["kraken_db"]
+kraken_silva = config["kraken_silva"]
+kraken_standard = config["kraken_standard"]
 threads = config["threads"]
 
 # read sample data
@@ -21,48 +22,63 @@ rule all:
         # expand(output_dir+"/fastq_dl/{sample}_1.fastq.gz", sample=samples),
         #expand(output_dir+"/fastq_dl/{sample}_2.fastq.gz", sample=samples)
         # kraken
-        expand(output_dir+"/kraken/{sample}.txt",        sample=samples),
-        expand(output_dir+"/kraken/{sample}_report.txt", sample=samples)
+        expand(output_dir+"/kraken_silva/{sample}.txt",           sample=samples),
+        expand(output_dir+"/kraken_silva/{sample}_report.txt",    sample=samples),
+        expand(output_dir+"/kraken_standard/{sample}.txt",        sample=samples),
+        expand(output_dir+"/kraken_standard/{sample}_report.txt", sample=samples)
 
-# fastq-dl
-rule fastq_dl:
+# sra-tools
+rule fastq_dump:
     params:
         ena_id = "{sample}",
-        outdir = output_dir+"/fastq_dl"
+        outdir = output_dir+"/fastq_dump"
     output:
-        fwd = output_dir+"/fastq_dl/{sample}_1.fastq.gz",
-        rev = output_dir+"/fastq_dl/{sample}_2.fastq.gz"
+        fwd = temp(output_dir+"/fastq_dump/{sample}_1.fastq"),
+        rev = temp(output_dir+"/fastq_dump/{sample}_2.fastq")
     log:
-        output_dir+"/logs/fastq_dl/{sample}.log"
+        output_dir+"/logs/fastq_dump/{sample}.log"
     conda:
-        "envs/fastq_dl.yaml"
+        "envs/sra_tools.yaml"
     threads: threads
     shell:
         """
-        fastq-dl \
-            --accession {params.ena_id} \
+        fastq-dump \
             --outdir {params.outdir} \
-            --provider ena \
-            --cpus {threads} &> {log}
+            --split-3 \
+            {params.ena_id} &> {log}
         """
 
-# kraken
-rule kraken:
+# gzip
+rule gzip:
     input:
-        fwd = output_dir+"/fastq_dl/{sample}_1.fastq.gz",
-        rev = output_dir+"/fastq_dl/{sample}_2.fastq.gz"
+        fwd = output_dir+"/fastq_dump/{sample}_1.fastq",
+        rev = output_dir+"/fastq_dump/{sample}_2.fastq"
     output:
-        out = output_dir+"/kraken/{sample}.txt",
-        rep = output_dir+"/kraken/{sample}_report.txt"
+        fwd = output_dir+"/fastq_dump/{sample}_1.fastq.gz",
+        rev = output_dir+"/fastq_dump/{sample}_2.fastq.gz"
+    shell:
+        """
+        gzip -c {input.fwd} > {output.fwd}
+        gzip -c {input.rev} > {output.rev}
+        """
+
+# kraken with silva db
+rule kraken_silva:
+    input:
+        fwd = output_dir+"/fastq_dump/{sample}_1.fastq.gz",
+        rev = output_dir+"/fastq_dump/{sample}_2.fastq.gz"
+    output:
+        out = output_dir+"/kraken_silva/{sample}.txt",
+        rep = output_dir+"/kraken_silva/{sample}_report.txt"
     conda:
         "envs/kraken2.yaml"
     log:
-        output_dir+"/logs/kraken/{sample}.log"
+        output_dir+"/logs/kraken_silva/{sample}.log"
     threads: threads
     shell:
         """
         kraken2 \
-            --db {kraken_db} \
+            --db {kraken_silva} \
             --paired \
             --gzip-compressed \
             --use-names \
@@ -70,8 +86,35 @@ rule kraken:
             --output {output.out} \
             --report {output.rep} \
             {input.fwd} \
-            {input.rev}
+            {input.rev} &> {log}
         """
 
+
+# kraken with standard db
+rule kraken_standard:
+    input:
+        fwd = output_dir+"/fastq_dump/{sample}_1.fastq.gz",
+        rev = output_dir+"/fastq_dump/{sample}_2.fastq.gz"
+    output:
+        out = output_dir+"/kraken_standard/{sample}.txt",
+        rep = output_dir+"/kraken_standard/{sample}_report.txt"
+    conda:
+        "envs/kraken2.yaml"
+    log:
+        output_dir+"/logs/kraken_standard/{sample}.log"
+    threads: threads
+    shell:
+        """
+        kraken2 \
+            --db {kraken_standard} \
+            --paired \
+            --gzip-compressed \
+            --use-names \
+            --threads {threads} \
+            --output {output.out} \
+            --report {output.rep} \
+            {input.fwd} \
+            {input.rev} &> {log}
+        """
 
 

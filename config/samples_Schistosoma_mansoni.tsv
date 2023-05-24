@@ -1,0 +1,1610 @@
+run_accession	experiment_title	experiment_accession	center_name	tax_id	library_strategy
+ERR103049	Illumina HiSeq 2000 paired end sequencing	ERX080485	SC	6183	WGS
+ERR103050	Illumina HiSeq 2000 paired end sequencing	ERX080486	SC	6183	WGS
+ERR562989	Illumina HiSeq 2000 paired end sequencing	ERX522014	SC	6183	WGS
+ERR676582	Illumina MiSeq paired end sequencing	ERX631549	SC	6183	WGS
+SRR13716338	Genome of Schistosoma mansoni: pool of males with enriched sensitive allele to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of males with enriched sensitive allele to praziquantel	SRX10104930	SUB9029076	6183	WGS
+SRR13716341	Genome of Schistosoma mansoni: pool of females with enriched sensitive allele to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of females with enriched sensitive allele to praziquantel	SRX10104927	SUB9029076	6183	WGS
+SRR13716345	Genome of Schistosoma mansoni: pool of females with enriched resistant allele to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of females with enriched resistant allele to praziquantel	SRX10104923	SUB9029076	6183	WGS
+SRR13716347	Genome of Schistosoma mansoni: pool of males with enriched sensitive allele to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of males with enriched sensitive allele to praziquantel	SRX10104921	SUB9029076	6183	WGS
+SRR13716348	Genome of Schistosoma mansoni: pool of females with enriched resistant allele to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of females with enriched resistant allele to praziquantel	SRX10104920	SUB9029076	6183	WGS
+SRR2533571	Illumina HiSeq 2500 paired end sequencing; Pool-Seq on cercariae of S.mansoni SmBRE from sympatric snail hosts;Pool-Seq on cercariae of S.mansoni SmBRE from sympatric snail hosts	SRX1292231		6183	WGS
+SRR2533572	Illumina HiSeq 2500 paired end sequencing; Pool-Seq on cercariae of S.mansoni SmBRE from allopatric snail hosts;Pool-Seq on cercariae of S.mansoni SmBRE from allopatric snail hosts	SRX1292232		6183	WGS
+SRR616967	Illumina HiSeq 2000 paired end sequencing; S. mansoni strain BRE genomic DNA sequencing;S. mansoni strain BRE genomic DNA sequencing	SRX196241	University of Perpignan	6183	WGS
+SRR617176	Illumina HiSeq 2000 paired end sequencing; S. mansoni strain BRE genomic DNA sequencing;S. mansoni strain BRE genomic DNA sequencing	SRX196241	University of Perpignan	6183	WGS
+SRR647744	Illumina HiSeq 2000 paired end sequencing; S. mansoni strain GH2 genomic DNA sequencing;S. mansoni strain GH2 genomic DNA sequencing	SRX212154	University of Perpignan	6183	WGS
+ERR021966	Illumina Genome Analyzer II paired end sequencing	ERX008534	SC	6183	WGS
+ERR021968	Illumina Genome Analyzer II paired end sequencing	ERX008531	SC	6183	WGS
+ERR021969	Illumina Genome Analyzer II paired end sequencing	ERX008533	SC	6183	WGS
+ERR021971	Illumina Genome Analyzer II paired end sequencing	ERX008532	SC	6183	WGS
+ERR022238	Illumina Genome Analyzer II paired end sequencing	ERX008692	SC	6183	WGS
+ERR022239	Illumina Genome Analyzer II paired end sequencing	ERX008696	SC	6183	WGS
+ERR022240	Illumina Genome Analyzer II paired end sequencing	ERX008693	SC	6183	WGS
+ERR022242	Illumina Genome Analyzer II paired end sequencing	ERX008694	SC	6183	WGS
+ERR022243	Illumina Genome Analyzer II paired end sequencing	ERX008695	SC	6183	WGS
+ERR026881	Illumina Genome Analyzer II paired end sequencing	ERX009900	SC	6183	WGS
+ERR026882	Illumina Genome Analyzer II paired end sequencing	ERX2004858	SC	6183	WGS
+ERR026884	Illumina Genome Analyzer II paired end sequencing	ERX2004868	SC	6183	WGS
+ERR026888	Illumina Genome Analyzer II paired end sequencing	ERX2004861	SC	6183	WGS
+ERR026889	Illumina Genome Analyzer II paired end sequencing	ERX2004862	SC	6183	WGS
+ERR026891	Illumina Genome Analyzer II paired end sequencing	ERX2004864	SC	6183	WGS
+ERR031494	Illumina Genome Analyzer II paired end sequencing	ERX1998360	SC	6183	WGS
+ERR031495	Illumina Genome Analyzer II paired end sequencing	ERX1998369	SC	6183	WGS
+ERR031499	Illumina Genome Analyzer II paired end sequencing	ERX1998362	SC	6183	WGS
+ERR031500	Illumina Genome Analyzer II paired end sequencing	ERX1998363	SC	6183	WGS
+ERR031501	Illumina Genome Analyzer II paired end sequencing	ERX1998364	SC	6183	WGS
+ERR031502	Illumina Genome Analyzer II paired end sequencing	ERX1998365	SC	6183	WGS
+ERR031503	Illumina Genome Analyzer II paired end sequencing	ERX1998366	SC	6183	WGS
+ERR031505	Illumina Genome Analyzer II paired end sequencing	ERX1998368	SC	6183	WGS
+ERR037212	Illumina Genome Analyzer II paired end sequencing	ERX014752	SC	6183	WGS
+ERR266714	Illumina HiSeq 2000 paired end sequencing	ERX241210	SC	6183	WGS
+ERR266715	Illumina HiSeq 2000 paired end sequencing	ERX241211	SC	6183	WGS
+ERR2720928	Illumina MiSeq paired end sequencing	ERX2734801	SC	6183	WGS
+ERR2720929	Illumina MiSeq paired end sequencing	ERX2734802	SC	6183	WGS
+ERR2720930	Illumina MiSeq paired end sequencing	ERX2734803	SC	6183	WGS
+ERR2720932	Illumina MiSeq paired end sequencing	ERX2734805	SC	6183	WGS
+ERR2720940	Illumina MiSeq paired end sequencing	ERX2734813	SC	6183	WGS
+ERR2720942	Illumina MiSeq paired end sequencing	ERX2734815	SC	6183	WGS
+ERR2720943	Illumina MiSeq paired end sequencing	ERX2734816	SC	6183	WGS
+ERR2720944	Illumina MiSeq paired end sequencing	ERX2734817	SC	6183	WGS
+ERR2720945	Illumina MiSeq paired end sequencing	ERX2734818	SC	6183	WGS
+ERR2720947	Illumina MiSeq paired end sequencing	ERX2734820	SC	6183	WGS
+ERR2720949	Illumina MiSeq paired end sequencing	ERX2734822	SC	6183	WGS
+ERR2720950	Illumina MiSeq paired end sequencing	ERX2734823	SC	6183	WGS
+ERR2720952	Illumina MiSeq paired end sequencing	ERX2734825	SC	6183	WGS
+ERR2720954	Illumina MiSeq paired end sequencing	ERX2734827	SC	6183	WGS
+ERR2720956	Illumina MiSeq paired end sequencing	ERX2734829	SC	6183	WGS
+ERR3173042	HiSeq X Ten paired end sequencing	ERX3200976	SC	6183	WGS
+ERR3173045	HiSeq X Ten paired end sequencing	ERX3200979	SC	6183	WGS
+ERR3173046	HiSeq X Ten paired end sequencing	ERX3200980	SC	6183	WGS
+ERR3173047	HiSeq X Ten paired end sequencing	ERX3200981	SC	6183	WGS
+ERR3173049	HiSeq X Ten paired end sequencing	ERX3200983	SC	6183	WGS
+ERR3173051	HiSeq X Ten paired end sequencing	ERX3200985	SC	6183	WGS
+ERR3173052	HiSeq X Ten paired end sequencing	ERX3200986	SC	6183	WGS
+ERR3173053	HiSeq X Ten paired end sequencing	ERX3200987	SC	6183	WGS
+ERR3173054	HiSeq X Ten paired end sequencing	ERX3200988	SC	6183	WGS
+ERR3173056	HiSeq X Ten paired end sequencing	ERX3200990	SC	6183	WGS
+ERR3173057	HiSeq X Ten paired end sequencing	ERX3200991	SC	6183	WGS
+ERR3173059	HiSeq X Ten paired end sequencing	ERX3200993	SC	6183	WGS
+ERR3173062	HiSeq X Ten paired end sequencing	ERX3200996	SC	6183	WGS
+ERR3173065	HiSeq X Ten paired end sequencing	ERX3200999	SC	6183	WGS
+ERR3173066	HiSeq X Ten paired end sequencing	ERX3201000	SC	6183	WGS
+ERR3173068	HiSeq X Ten paired end sequencing	ERX3201002	SC	6183	WGS
+ERR3173070	HiSeq X Ten paired end sequencing	ERX3201004	SC	6183	WGS
+ERR3173073	HiSeq X Ten paired end sequencing	ERX3201007	SC	6183	WGS
+ERR3173074	HiSeq X Ten paired end sequencing	ERX3201008	SC	6183	WGS
+ERR3173076	HiSeq X Ten paired end sequencing	ERX3201010	SC	6183	WGS
+ERR3173077	HiSeq X Ten paired end sequencing	ERX3201011	SC	6183	WGS
+ERR3173079	HiSeq X Ten paired end sequencing	ERX3201013	SC	6183	WGS
+ERR3173080	HiSeq X Ten paired end sequencing	ERX3201014	SC	6183	WGS
+ERR3173081	HiSeq X Ten paired end sequencing	ERX3201015	SC	6183	WGS
+ERR3173083	HiSeq X Ten paired end sequencing	ERX3201017	SC	6183	WGS
+ERR3173085	HiSeq X Ten paired end sequencing	ERX3201019	SC	6183	WGS
+ERR3173088	HiSeq X Ten paired end sequencing	ERX3201022	SC	6183	WGS
+ERR3173092	HiSeq X Ten paired end sequencing	ERX3201026	SC	6183	WGS
+ERR3173094	HiSeq X Ten paired end sequencing	ERX3201028	SC	6183	WGS
+ERR3173096	HiSeq X Ten paired end sequencing	ERX3201030	SC	6183	WGS
+ERR3173099	HiSeq X Ten paired end sequencing	ERX3201033	SC	6183	WGS
+ERR3173101	HiSeq X Ten paired end sequencing	ERX3201035	SC	6183	WGS
+ERR3173103	HiSeq X Ten paired end sequencing	ERX3201037	SC	6183	WGS
+ERR3173104	HiSeq X Ten paired end sequencing	ERX3201038	SC	6183	WGS
+ERR3173105	HiSeq X Ten paired end sequencing	ERX3201039	SC	6183	WGS
+ERR3173106	HiSeq X Ten paired end sequencing	ERX3201040	SC	6183	WGS
+ERR3173108	HiSeq X Ten paired end sequencing	ERX3201042	SC	6183	WGS
+ERR3173109	HiSeq X Ten paired end sequencing	ERX3201043	SC	6183	WGS
+ERR3173111	HiSeq X Ten paired end sequencing	ERX3201045	SC	6183	WGS
+ERR3173115	HiSeq X Ten paired end sequencing	ERX3201049	SC	6183	WGS
+ERR3173116	HiSeq X Ten paired end sequencing	ERX3201050	SC	6183	WGS
+ERR3173117	HiSeq X Ten paired end sequencing	ERX3201051	SC	6183	WGS
+ERR3173118	HiSeq X Ten paired end sequencing	ERX3201052	SC	6183	WGS
+ERR3173119	HiSeq X Ten paired end sequencing	ERX3201053	SC	6183	WGS
+ERR3173120	HiSeq X Ten paired end sequencing	ERX3201054	SC	6183	WGS
+ERR3173121	HiSeq X Ten paired end sequencing	ERX3201055	SC	6183	WGS
+ERR3173123	HiSeq X Ten paired end sequencing	ERX3201057	SC	6183	WGS
+ERR3173127	HiSeq X Ten paired end sequencing	ERX3201061	SC	6183	WGS
+ERR3173128	HiSeq X Ten paired end sequencing	ERX3201062	SC	6183	WGS
+ERR3173129	HiSeq X Ten paired end sequencing	ERX3201063	SC	6183	WGS
+ERR3173131	HiSeq X Ten paired end sequencing	ERX3201065	SC	6183	WGS
+ERR3173134	HiSeq X Ten paired end sequencing	ERX3201068	SC	6183	WGS
+ERR3173137	HiSeq X Ten paired end sequencing	ERX3201071	SC	6183	WGS
+ERR3173138	HiSeq X Ten paired end sequencing	ERX3201072	SC	6183	WGS
+ERR3173143	HiSeq X Ten paired end sequencing	ERX3201077	SC	6183	WGS
+ERR3173144	HiSeq X Ten paired end sequencing	ERX3201078	SC	6183	WGS
+ERR3173145	HiSeq X Ten paired end sequencing	ERX3201079	SC	6183	WGS
+ERR3173147	HiSeq X Ten paired end sequencing	ERX3201081	SC	6183	WGS
+ERR3173148	HiSeq X Ten paired end sequencing	ERX3201082	SC	6183	WGS
+ERR3173149	HiSeq X Ten paired end sequencing	ERX3201083	SC	6183	WGS
+ERR3173150	HiSeq X Ten paired end sequencing	ERX3201084	SC	6183	WGS
+ERR3173152	HiSeq X Ten paired end sequencing	ERX3201086	SC	6183	WGS
+ERR3173157	HiSeq X Ten paired end sequencing	ERX3201091	SC	6183	WGS
+ERR3173158	HiSeq X Ten paired end sequencing	ERX3201092	SC	6183	WGS
+ERR3173159	HiSeq X Ten paired end sequencing	ERX3201093	SC	6183	WGS
+ERR3173160	HiSeq X Ten paired end sequencing	ERX3201094	SC	6183	WGS
+ERR3173161	HiSeq X Ten paired end sequencing	ERX3201095	SC	6183	WGS
+ERR3173162	HiSeq X Ten paired end sequencing	ERX3201096	SC	6183	WGS
+ERR3173165	HiSeq X Ten paired end sequencing	ERX3201099	SC	6183	WGS
+ERR3173167	HiSeq X Ten paired end sequencing	ERX3201101	SC	6183	WGS
+ERR3173168	HiSeq X Ten paired end sequencing	ERX3201102	SC	6183	WGS
+ERR3173169	HiSeq X Ten paired end sequencing	ERX3201103	SC	6183	WGS
+ERR3173171	HiSeq X Ten paired end sequencing	ERX3201105	SC	6183	WGS
+ERR3173172	HiSeq X Ten paired end sequencing	ERX3201106	SC	6183	WGS
+ERR3173177	HiSeq X Ten paired end sequencing	ERX3201111	SC	6183	WGS
+ERR3173180	HiSeq X Ten paired end sequencing	ERX3201114	SC	6183	WGS
+ERR3173185	HiSeq X Ten paired end sequencing	ERX3201119	SC	6183	WGS
+ERR3173190	HiSeq X Ten paired end sequencing	ERX3201124	SC	6183	WGS
+ERR3173193	HiSeq X Ten paired end sequencing	ERX3201127	SC	6183	WGS
+ERR3173194	HiSeq X Ten paired end sequencing	ERX3201128	SC	6183	WGS
+ERR3173195	HiSeq X Ten paired end sequencing	ERX3201129	SC	6183	WGS
+ERR3173196	HiSeq X Ten paired end sequencing	ERX3201130	SC	6183	WGS
+ERR3173198	HiSeq X Ten paired end sequencing	ERX3201132	SC	6183	WGS
+ERR3173199	HiSeq X Ten paired end sequencing	ERX3201133	SC	6183	WGS
+ERR3173200	HiSeq X Ten paired end sequencing	ERX3201134	SC	6183	WGS
+ERR3173203	HiSeq X Ten paired end sequencing	ERX3201137	SC	6183	WGS
+ERR3173205	HiSeq X Ten paired end sequencing	ERX3201139	SC	6183	WGS
+ERR3173206	HiSeq X Ten paired end sequencing	ERX3201140	SC	6183	WGS
+ERR3173213	HiSeq X Ten paired end sequencing	ERX3201147	SC	6183	WGS
+ERR3173215	HiSeq X Ten paired end sequencing	ERX3201149	SC	6183	WGS
+ERR3173216	HiSeq X Ten paired end sequencing	ERX3201150	SC	6183	WGS
+ERR3173218	HiSeq X Ten paired end sequencing	ERX3201152	SC	6183	WGS
+ERR3173221	HiSeq X Ten paired end sequencing	ERX3201155	SC	6183	WGS
+ERR3173222	HiSeq X Ten paired end sequencing	ERX3201156	SC	6183	WGS
+ERR3173224	HiSeq X Ten paired end sequencing	ERX3201158	SC	6183	WGS
+ERR3173225	HiSeq X Ten paired end sequencing	ERX3201159	SC	6183	WGS
+ERR3173226	HiSeq X Ten paired end sequencing	ERX3201160	SC	6183	WGS
+ERR3173228	HiSeq X Ten paired end sequencing	ERX3201162	SC	6183	WGS
+ERR3173231	HiSeq X Ten paired end sequencing	ERX3201165	SC	6183	WGS
+ERR3173232	HiSeq X Ten paired end sequencing	ERX3201166	SC	6183	WGS
+ERR3173233	HiSeq X Ten paired end sequencing	ERX3201167	SC	6183	WGS
+ERR3173237	HiSeq X Ten paired end sequencing	ERX3201171	SC	6183	WGS
+ERR3173240	HiSeq X Ten paired end sequencing	ERX3201174	SC	6183	WGS
+ERR3173241	HiSeq X Ten paired end sequencing	ERX3201175	SC	6183	WGS
+ERR3173242	HiSeq X Ten paired end sequencing	ERX3201176	SC	6183	WGS
+ERR3173243	HiSeq X Ten paired end sequencing	ERX3201177	SC	6183	WGS
+ERR3173245	HiSeq X Ten paired end sequencing	ERX3201179	SC	6183	WGS
+ERR3173246	HiSeq X Ten paired end sequencing	ERX3201180	SC	6183	WGS
+ERR3173247	HiSeq X Ten paired end sequencing	ERX3201181	SC	6183	WGS
+ERR3173249	HiSeq X Ten paired end sequencing	ERX3201183	SC	6183	WGS
+ERR3173253	HiSeq X Ten paired end sequencing	ERX3201187	SC	6183	WGS
+ERR3173255	HiSeq X Ten paired end sequencing	ERX3201189	SC	6183	WGS
+ERR3173256	HiSeq X Ten paired end sequencing	ERX3201190	SC	6183	WGS
+ERR3173257	HiSeq X Ten paired end sequencing	ERX3201191	SC	6183	WGS
+ERR3173258	HiSeq X Ten paired end sequencing	ERX3201192	SC	6183	WGS
+ERR3173259	HiSeq X Ten paired end sequencing	ERX3201193	SC	6183	WGS
+ERR3173260	HiSeq X Ten paired end sequencing	ERX3201194	SC	6183	WGS
+ERR3293261	Illumina MiSeq paired end sequencing	ERX3319608	SC	6183	WGS
+ERR3293263	Illumina MiSeq paired end sequencing	ERX3319610	SC	6183	WGS
+ERR3293265	Illumina MiSeq paired end sequencing	ERX3319612	SC	6183	WGS
+ERR3293269	Illumina MiSeq paired end sequencing	ERX3319616	SC	6183	WGS
+ERR3293271	Illumina MiSeq paired end sequencing	ERX3319618	SC	6183	WGS
+ERR3293272	Illumina MiSeq paired end sequencing	ERX3319619	SC	6183	WGS
+ERR3293275	Illumina MiSeq paired end sequencing	ERX3319622	SC	6183	WGS
+ERR3293276	Illumina MiSeq paired end sequencing	ERX3319623	SC	6183	WGS
+ERR3293278	Illumina MiSeq paired end sequencing	ERX3319625	SC	6183	WGS
+ERR3293279	Illumina MiSeq paired end sequencing	ERX3319626	SC	6183	WGS
+ERR3293281	Illumina MiSeq paired end sequencing	ERX3319628	SC	6183	WGS
+ERR3293284	Illumina MiSeq paired end sequencing	ERX3319631	SC	6183	WGS
+ERR3293285	Illumina MiSeq paired end sequencing	ERX3319632	SC	6183	WGS
+ERR3293288	Illumina MiSeq paired end sequencing	ERX3319635	SC	6183	WGS
+ERR3293290	Illumina MiSeq paired end sequencing	ERX3319637	SC	6183	WGS
+ERR3293292	Illumina MiSeq paired end sequencing	ERX3319639	SC	6183	WGS
+ERR3293294	Illumina MiSeq paired end sequencing	ERX3319641	SC	6183	WGS
+ERR3293295	Illumina MiSeq paired end sequencing	ERX3319642	SC	6183	WGS
+ERR3293296	Illumina MiSeq paired end sequencing	ERX3319643	SC	6183	WGS
+ERR3293298	Illumina MiSeq paired end sequencing	ERX3319645	SC	6183	WGS
+ERR3293299	Illumina MiSeq paired end sequencing	ERX3319646	SC	6183	WGS
+ERR3293300	Illumina MiSeq paired end sequencing	ERX3319647	SC	6183	WGS
+ERR3293302	Illumina MiSeq paired end sequencing	ERX3319649	SC	6183	WGS
+ERR3293303	Illumina MiSeq paired end sequencing	ERX3319650	SC	6183	WGS
+ERR3293304	Illumina MiSeq paired end sequencing	ERX3319651	SC	6183	WGS
+ERR3293308	Illumina MiSeq paired end sequencing	ERX3319655	SC	6183	WGS
+ERR3293309	Illumina MiSeq paired end sequencing	ERX3319656	SC	6183	WGS
+ERR3293310	Illumina MiSeq paired end sequencing	ERX3319657	SC	6183	WGS
+ERR3293311	Illumina MiSeq paired end sequencing	ERX3319658	SC	6183	WGS
+ERR3293312	Illumina MiSeq paired end sequencing	ERX3319659	SC	6183	WGS
+ERR3293313	Illumina MiSeq paired end sequencing	ERX3319660	SC	6183	WGS
+ERR3293316	Illumina MiSeq paired end sequencing	ERX3319663	SC	6183	WGS
+ERR3293318	Illumina MiSeq paired end sequencing	ERX3319665	SC	6183	WGS
+ERR3293319	Illumina MiSeq paired end sequencing	ERX3319666	SC	6183	WGS
+ERR3293322	Illumina MiSeq paired end sequencing	ERX3319669	SC	6183	WGS
+ERR3293323	Illumina MiSeq paired end sequencing	ERX3319670	SC	6183	WGS
+ERR3293324	Illumina MiSeq paired end sequencing	ERX3319671	SC	6183	WGS
+ERR3293326	Illumina MiSeq paired end sequencing	ERX3319673	SC	6183	WGS
+ERR3293328	Illumina MiSeq paired end sequencing	ERX3319675	SC	6183	WGS
+ERR3293329	Illumina MiSeq paired end sequencing	ERX3319676	SC	6183	WGS
+ERR3293331	Illumina MiSeq paired end sequencing	ERX3319678	SC	6183	WGS
+ERR3293334	Illumina MiSeq paired end sequencing	ERX3319681	SC	6183	WGS
+ERR3293336	Illumina MiSeq paired end sequencing	ERX3319683	SC	6183	WGS
+ERR3293337	Illumina MiSeq paired end sequencing	ERX3319684	SC	6183	WGS
+ERR3293338	Illumina MiSeq paired end sequencing	ERX3319685	SC	6183	WGS
+ERR3293341	Illumina MiSeq paired end sequencing	ERX3319688	SC	6183	WGS
+ERR3293345	Illumina MiSeq paired end sequencing	ERX3319692	SC	6183	WGS
+ERR3293347	Illumina MiSeq paired end sequencing	ERX3319694	SC	6183	WGS
+ERR3293348	Illumina MiSeq paired end sequencing	ERX3319695	SC	6183	WGS
+ERR3293351	Illumina MiSeq paired end sequencing	ERX3319698	SC	6183	WGS
+ERR3293352	Illumina MiSeq paired end sequencing	ERX3319699	SC	6183	WGS
+ERR3293353	Illumina MiSeq paired end sequencing	ERX3319700	SC	6183	WGS
+ERR3304224	Illumina HiSeq 2500 paired end sequencing	ERX3330314	SC	6183	WGS
+ERR3304226	Illumina HiSeq 2500 paired end sequencing	ERX3330316	SC	6183	WGS
+ERR3304228	Illumina HiSeq 2500 paired end sequencing	ERX3330318	SC	6183	WGS
+ERR3304230	Illumina HiSeq 2500 paired end sequencing	ERX3330320	SC	6183	WGS
+ERR3304231	Illumina HiSeq 2500 paired end sequencing	ERX3330321	SC	6183	WGS
+ERR3304232	Illumina HiSeq 2500 paired end sequencing	ERX3330322	SC	6183	WGS
+ERR3304233	Illumina MiSeq paired end sequencing	ERX3330323	SC	6183	WGS
+ERR3304235	Illumina MiSeq paired end sequencing	ERX3330325	SC	6183	WGS
+ERR3304236	Illumina MiSeq paired end sequencing	ERX3330326	SC	6183	WGS
+ERR3304237	Illumina MiSeq paired end sequencing	ERX3330327	SC	6183	WGS
+ERR3304238	Illumina MiSeq paired end sequencing	ERX3330328	SC	6183	WGS
+ERR3304239	Illumina MiSeq paired end sequencing	ERX3330329	SC	6183	WGS
+ERR3304240	Illumina MiSeq paired end sequencing	ERX3330330	SC	6183	WGS
+ERR3304241	Illumina MiSeq paired end sequencing	ERX3330331	SC	6183	WGS
+ERR3304242	Illumina MiSeq paired end sequencing	ERX3330332	SC	6183	WGS
+ERR3304244	Illumina MiSeq paired end sequencing	ERX3330334	SC	6183	WGS
+ERR3304245	Illumina MiSeq paired end sequencing	ERX3330335	SC	6183	WGS
+ERR3304246	Illumina MiSeq paired end sequencing	ERX3330336	SC	6183	WGS
+ERR3304248	Illumina MiSeq paired end sequencing	ERX3330338	SC	6183	WGS
+ERR3304249	Illumina MiSeq paired end sequencing	ERX3330339	SC	6183	WGS
+ERR3304252	Illumina MiSeq paired end sequencing	ERX3330342	SC	6183	WGS
+ERR3304253	Illumina MiSeq paired end sequencing	ERX3330343	SC	6183	WGS
+ERR3304254	Illumina MiSeq paired end sequencing	ERX3330344	SC	6183	WGS
+ERR3304255	Illumina MiSeq paired end sequencing	ERX3330345	SC	6183	WGS
+ERR3304256	Illumina MiSeq paired end sequencing	ERX3330346	SC	6183	WGS
+ERR3304257	Illumina MiSeq paired end sequencing	ERX3330347	SC	6183	WGS
+ERR3304258	Illumina MiSeq paired end sequencing	ERX3330348	SC	6183	WGS
+ERR3304261	Illumina MiSeq paired end sequencing	ERX3330351	SC	6183	WGS
+ERR3304262	Illumina MiSeq paired end sequencing	ERX3330352	SC	6183	WGS
+ERR3304266	Illumina MiSeq paired end sequencing	ERX3330356	SC	6183	WGS
+ERR3304267	Illumina MiSeq paired end sequencing	ERX3330357	SC	6183	WGS
+ERR3304268	Illumina MiSeq paired end sequencing	ERX3330358	SC	6183	WGS
+ERR3304274	Illumina MiSeq paired end sequencing	ERX3330364	SC	6183	WGS
+ERR3304278	Illumina MiSeq paired end sequencing	ERX3330368	SC	6183	WGS
+ERR3304280	Illumina MiSeq paired end sequencing	ERX3330370	SC	6183	WGS
+ERR3304288	Illumina MiSeq paired end sequencing	ERX3330378	SC	6183	WGS
+ERR3304290	Illumina MiSeq paired end sequencing	ERX3330380	SC	6183	WGS
+ERR3304364	Illumina MiSeq paired end sequencing	ERX3330454	SC	6183	WGS
+ERR3304366	Illumina MiSeq paired end sequencing	ERX3330456	SC	6183	WGS
+ERR3304367	Illumina MiSeq paired end sequencing	ERX3330457	SC	6183	WGS
+ERR3304368	Illumina MiSeq paired end sequencing	ERX3330458	SC	6183	WGS
+ERR3304370	Illumina MiSeq paired end sequencing	ERX3330460	SC	6183	WGS
+ERR3304371	Illumina MiSeq paired end sequencing	ERX3330461	SC	6183	WGS
+ERR3304375	Illumina MiSeq paired end sequencing	ERX3330465	SC	6183	WGS
+ERR3304377	Illumina MiSeq paired end sequencing	ERX3330467	SC	6183	WGS
+ERR3304378	Illumina MiSeq paired end sequencing	ERX3330468	SC	6183	WGS
+ERR3304382	Illumina MiSeq paired end sequencing	ERX3330472	SC	6183	WGS
+ERR3304383	Illumina MiSeq paired end sequencing	ERX3330473	SC	6183	WGS
+ERR3304384	Illumina MiSeq paired end sequencing	ERX3330474	SC	6183	WGS
+ERR3304385	Illumina MiSeq paired end sequencing	ERX3330475	SC	6183	WGS
+ERR3304386	Illumina MiSeq paired end sequencing	ERX3330476	SC	6183	WGS
+ERR338747	Illumina HiSeq 2000 paired end sequencing	ERX311618	SC	6183	WGS
+ERR3467675	HiSeq X Ten paired end sequencing	ERX3489338	SC	6183	WGS
+ERR494725	Illumina HiSeq 2000 paired end sequencing	ERX460141	SC	6183	WGS
+ERR494726	Illumina HiSeq 2000 paired end sequencing	ERX460142	SC	6183	WGS
+ERR506094	Illumina HiSeq 2000 paired end sequencing	ERX471451	SC	6183	WGS
+ERR506118	Illumina HiSeq 2000 paired end sequencing	ERX471475	SC	6183	WGS
+ERR539843	Illumina HiSeq 2500 paired end sequencing	ERX505046	SC	6183	WGS
+ERR539844	Illumina HiSeq 2500 paired end sequencing	ERX505047	SC	6183	WGS
+ERR539849	Illumina HiSeq 2500 paired end sequencing	ERX505052	SC	6183	WGS
+ERR563569	Illumina HiSeq 2000 paired end sequencing	ERX522594	SC	6183	WGS
+ERR667120	Illumina HiSeq 2500 paired end sequencing	ERX622608	SC	6183	WGS
+ERR667144	Illumina HiSeq 2500 paired end sequencing	ERX622632	SC	6183	WGS
+ERR6798064	Illumina MiSeq paired end sequencing	ERX6421739	SC	6183	WGS
+ERR6798067	Illumina MiSeq paired end sequencing	ERX6421742	SC	6183	WGS
+ERR6798069	Illumina MiSeq paired end sequencing	ERX6421744	SC	6183	WGS
+ERR6798071	Illumina MiSeq paired end sequencing	ERX6421746	SC	6183	WGS
+ERR6798073	Illumina MiSeq paired end sequencing	ERX6421748	SC	6183	WGS
+ERR6798074	Illumina MiSeq paired end sequencing	ERX6421749	SC	6183	WGS
+ERR6798076	Illumina MiSeq paired end sequencing	ERX6421751	SC	6183	WGS
+ERR6798077	Illumina MiSeq paired end sequencing	ERX6421752	SC	6183	WGS
+ERR6798078	Illumina MiSeq paired end sequencing	ERX6421753	SC	6183	WGS
+ERR6798083	Illumina MiSeq paired end sequencing	ERX6421758	SC	6183	WGS
+ERR6798084	Illumina MiSeq paired end sequencing	ERX6421759	SC	6183	WGS
+ERR6798085	Illumina MiSeq paired end sequencing	ERX6421760	SC	6183	WGS
+ERR6798087	Illumina MiSeq paired end sequencing	ERX6421762	SC	6183	WGS
+ERR6798090	Illumina MiSeq paired end sequencing	ERX6421765	SC	6183	WGS
+ERR6798091	Illumina MiSeq paired end sequencing	ERX6421766	SC	6183	WGS
+ERR6798095	Illumina MiSeq paired end sequencing	ERX6421770	SC	6183	WGS
+ERR6798096	Illumina MiSeq paired end sequencing	ERX6421771	SC	6183	WGS
+ERR6798097	Illumina MiSeq paired end sequencing	ERX6421772	SC	6183	WGS
+ERR6798098	Illumina MiSeq paired end sequencing	ERX6421773	SC	6183	WGS
+ERR6798100	Illumina MiSeq paired end sequencing	ERX6421775	SC	6183	WGS
+ERR6798104	Illumina MiSeq paired end sequencing	ERX6421779	SC	6183	WGS
+ERR6798105	Illumina MiSeq paired end sequencing	ERX6421780	SC	6183	WGS
+ERR6798107	Illumina MiSeq paired end sequencing	ERX6421782	SC	6183	WGS
+ERR6798110	Illumina MiSeq paired end sequencing	ERX6421785	SC	6183	WGS
+ERR6798113	Illumina MiSeq paired end sequencing	ERX6421788	SC	6183	WGS
+ERR6798114	Illumina MiSeq paired end sequencing	ERX6421789	SC	6183	WGS
+ERR6798116	Illumina MiSeq paired end sequencing	ERX6421791	SC	6183	WGS
+ERR6798120	Illumina MiSeq paired end sequencing	ERX6421795	SC	6183	WGS
+ERR6798123	Illumina MiSeq paired end sequencing	ERX6421798	SC	6183	WGS
+ERR6798126	Illumina MiSeq paired end sequencing	ERX6421801	SC	6183	WGS
+ERR6798127	Illumina MiSeq paired end sequencing	ERX6421802	SC	6183	WGS
+ERR6798128	Illumina MiSeq paired end sequencing	ERX6421803	SC	6183	WGS
+ERR6798129	Illumina MiSeq paired end sequencing	ERX6421804	SC	6183	WGS
+ERR6798133	Illumina MiSeq paired end sequencing	ERX6421808	SC	6183	WGS
+ERR6798134	Illumina MiSeq paired end sequencing	ERX6421809	SC	6183	WGS
+ERR6798136	Illumina MiSeq paired end sequencing	ERX6421811	SC	6183	WGS
+ERR6798137	Illumina MiSeq paired end sequencing	ERX6421812	SC	6183	WGS
+ERR6798138	Illumina MiSeq paired end sequencing	ERX6421813	SC	6183	WGS
+ERR6798139	Illumina MiSeq paired end sequencing	ERX6421814	SC	6183	WGS
+SRR13624153	HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of resistant males to praziquantel;Genome of Schistosoma mansoni: pool of resistant males to praziquantel	SRX10017249	SUB9023758	6183	WGS
+ERR6798141	Illumina MiSeq paired end sequencing	ERX6421816	SC	6183	WGS
+ERR6798142	Illumina MiSeq paired end sequencing	ERX6421817	SC	6183	WGS
+ERR6798144	Illumina MiSeq paired end sequencing	ERX6421819	SC	6183	WGS
+SRR13624154	Genome of Schistosoma mansoni: pool of sensitive males to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of sensitive males to praziquantel	SRX10017248	SUB9023758	6183	WGS
+ERR6798146	Illumina MiSeq paired end sequencing	ERX6421821	SC	6183	WGS
+ERR6798150	Illumina MiSeq paired end sequencing	ERX6421825	SC	6183	WGS
+ERR6798151	Illumina MiSeq paired end sequencing	ERX6421826	SC	6183	WGS
+ERR6798152	Illumina MiSeq paired end sequencing	ERX6421827	SC	6183	WGS
+SRR13624160	Genome of Schistosoma mansoni: pool of sensitive males to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of sensitive males to praziquantel	SRX10017242	SUB9023758	6183	WGS
+ERR6798157	Illumina MiSeq paired end sequencing	ERX6421832	SC	6183	WGS
+ERR6798158	Illumina MiSeq paired end sequencing	ERX6421833	SC	6183	WGS
+SRR13624162	HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of resistant males to praziquantel;Genome of Schistosoma mansoni: pool of resistant males to praziquantel	SRX10017240	SUB9023758	6183	WGS
+ERR6798161	Illumina MiSeq paired end sequencing	ERX6421836	SC	6183	WGS
+SRR13624164	Genome of Schistosoma mansoni: pool of sensitive males to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of sensitive males to praziquantel	SRX10017238	SUB9023758	6183	WGS
+ERR6798162	Illumina MiSeq paired end sequencing	ERX6421837	SC	6183	WGS
+ERR6798163	Illumina MiSeq paired end sequencing	ERX6421838	SC	6183	WGS
+SRR611646	Illumina HiSeq 2000 paired end sequencing; S. mansoni strain BRE genomic DNA sequencing;S. mansoni strain BRE genomic DNA sequencing	SRX196241	University of Perpignan	6183	WGS
+ERR6798164	Illumina MiSeq paired end sequencing	ERX6421839	SC	6183	WGS
+ERR6798167	Illumina MiSeq paired end sequencing	ERX6421842	SC	6183	WGS
+ERR6798168	Illumina MiSeq paired end sequencing	ERX6421843	SC	6183	WGS
+SRR611840	Illumina HiSeq 2000 paired end sequencing; S. mansoni strain BRE genomic DNA sequencing;S. mansoni strain BRE genomic DNA sequencing	SRX196241	University of Perpignan	6183	WGS
+ERR6798171	Illumina MiSeq paired end sequencing	ERX6421846	SC	6183	WGS
+ERR6798172	Illumina MiSeq paired end sequencing	ERX6421847	SC	6183	WGS
+ERR6798173	Illumina MiSeq paired end sequencing	ERX6421848	SC	6183	WGS
+SRR638988	Illumina HiSeq 2000 paired end sequencing; S. mansoni strain GH2 genomic DNA sequencing;S. mansoni strain GH2 genomic DNA sequencing	SRX212154	University of Perpignan	6183	WGS
+ERR6798175	Illumina MiSeq paired end sequencing	ERX6421850	SC	6183	WGS
+ERR6798178	Illumina MiSeq paired end sequencing	ERX6421853	SC	6183	WGS
+ERR6798180	Illumina MiSeq paired end sequencing	ERX6421855	SC	6183	WGS
+ERR6798181	Illumina MiSeq paired end sequencing	ERX6421856	SC	6183	WGS
+SRR645832	Illumina HiSeq 2000 paired end sequencing; S. mansoni strain GH2 genomic DNA sequencing;S. mansoni strain GH2 genomic DNA sequencing	SRX212154	University of Perpignan	6183	WGS
+ERR6798185	Illumina MiSeq paired end sequencing	ERX6421860	SC	6183	WGS
+ERR6798186	Illumina MiSeq paired end sequencing	ERX6421861	SC	6183	WGS
+ERR6798187	Illumina MiSeq paired end sequencing	ERX6421862	SC	6183	WGS
+SRR646463	Illumina HiSeq 2000 paired end sequencing; S. mansoni strain GH2 genomic DNA sequencing;S. mansoni strain GH2 genomic DNA sequencing	SRX212154	University of Perpignan	6183	WGS
+ERR6798188	Illumina MiSeq paired end sequencing	ERX6421863	SC	6183	WGS
+ERR6798193	Illumina MiSeq paired end sequencing	ERX6421868	SC	6183	WGS
+ERR6798195	Illumina MiSeq paired end sequencing	ERX6421870	SC	6183	WGS
+SRR647054	Illumina HiSeq 2000 paired end sequencing; S. mansoni strain GH2 genomic DNA sequencing;S. mansoni strain GH2 genomic DNA sequencing	SRX212154	University of Perpignan	6183	WGS
+ERR6798197	Illumina MiSeq paired end sequencing	ERX6421872	SC	6183	WGS
+ERR021967	Illumina Genome Analyzer II paired end sequencing	ERX008529	SC	6183	WGS
+ERR6798198	Illumina MiSeq paired end sequencing	ERX6421873	SC	6183	WGS
+ERR6798207	Illumina MiSeq paired end sequencing	ERX6421882	SC	6183	WGS
+ERR021970	Illumina Genome Analyzer II paired end sequencing	ERX008530	SC	6183	WGS
+ERR6798209	Illumina MiSeq paired end sequencing	ERX6421884	SC	6183	WGS
+ERR022241	Illumina Genome Analyzer II paired end sequencing	ERX008691	SC	6183	WGS
+ERR6798212	Illumina MiSeq paired end sequencing	ERX6421887	SC	6183	WGS
+ERR6798218	Illumina MiSeq paired end sequencing	ERX6421893	SC	6183	WGS
+ERR022244	Illumina Genome Analyzer II paired end sequencing	ERX008698	SC	6183	WGS
+ERR022245	Illumina Genome Analyzer II paired end sequencing	ERX008697	SC	6183	WGS
+ERR6798220	Illumina MiSeq paired end sequencing	ERX6421895	SC	6183	WGS
+ERR6798221	Illumina MiSeq paired end sequencing	ERX6421896	SC	6183	WGS
+ERR026883	Illumina Genome Analyzer II paired end sequencing	ERX2004867	SC	6183	WGS
+ERR6798222	Illumina MiSeq paired end sequencing	ERX6421897	SC	6183	WGS
+ERR026885	Illumina Genome Analyzer II paired end sequencing	ERX2004869	SC	6183	WGS
+ERR6798223	Illumina MiSeq paired end sequencing	ERX6421898	SC	6183	WGS
+ERR026886	Illumina Genome Analyzer II paired end sequencing	ERX2004859	SC	6183	WGS
+ERR6798224	Illumina MiSeq paired end sequencing	ERX6421899	SC	6183	WGS
+ERR6798227	Illumina MiSeq paired end sequencing	ERX6421902	SC	6183	WGS
+ERR026887	Illumina Genome Analyzer II paired end sequencing	ERX2004860	SC	6183	WGS
+ERR6798228	Illumina MiSeq paired end sequencing	ERX6421903	SC	6183	WGS
+ERR6798229	Illumina MiSeq paired end sequencing	ERX6421904	SC	6183	WGS
+ERR026890	Illumina Genome Analyzer II paired end sequencing	ERX2004863	SC	6183	WGS
+ERR6798230	Illumina MiSeq paired end sequencing	ERX6421905	SC	6183	WGS
+ERR6798231	Illumina MiSeq paired end sequencing	ERX6421906	SC	6183	WGS
+ERR026892	Illumina Genome Analyzer II paired end sequencing	ERX2004865	SC	6183	WGS
+ERR6798232	Illumina MiSeq paired end sequencing	ERX6421907	SC	6183	WGS
+ERR6798233	Illumina MiSeq paired end sequencing	ERX6421908	SC	6183	WGS
+ERR026893	Illumina Genome Analyzer II paired end sequencing	ERX2004866	SC	6183	WGS
+ERR6798234	Illumina MiSeq paired end sequencing	ERX6421909	SC	6183	WGS
+ERR031493	Illumina Genome Analyzer II paired end sequencing	ERX011731	SC	6183	WGS
+ERR031496	Illumina Genome Analyzer II paired end sequencing	ERX1998370	SC	6183	WGS
+ERR6798237	Illumina MiSeq paired end sequencing	ERX6421912	SC	6183	WGS
+ERR031497	Illumina Genome Analyzer II paired end sequencing	ERX1998371	SC	6183	WGS
+ERR6798238	Illumina MiSeq paired end sequencing	ERX6421913	SC	6183	WGS
+ERR031498	Illumina Genome Analyzer II paired end sequencing	ERX1998361	SC	6183	WGS
+ERR6798239	Illumina MiSeq paired end sequencing	ERX6421914	SC	6183	WGS
+ERR6798241	Illumina MiSeq paired end sequencing	ERX6421916	SC	6183	WGS
+ERR031504	Illumina Genome Analyzer II paired end sequencing	ERX1998367	SC	6183	WGS
+ERR6798245	Illumina MiSeq paired end sequencing	ERX6421920	SC	6183	WGS
+ERR037210	Illumina Genome Analyzer II paired end sequencing	ERX014757	SC	6183	WGS
+ERR6798246	Illumina MiSeq paired end sequencing	ERX6421921	SC	6183	WGS
+ERR6798248	Illumina MiSeq paired end sequencing	ERX6421923	SC	6183	WGS
+ERR037211	Illumina Genome Analyzer II paired end sequencing	ERX014753	SC	6183	WGS
+ERR6798250	Illumina MiSeq paired end sequencing	ERX6421925	SC	6183	WGS
+ERR6798254	Illumina MiSeq paired end sequencing	ERX6421929	SC	6183	WGS
+ERR037213	Illumina Genome Analyzer II paired end sequencing	ERX014755	SC	6183	WGS
+ERR6798255	Illumina MiSeq paired end sequencing	ERX6421930	SC	6183	WGS
+ERR6798257	Illumina MiSeq paired end sequencing	ERX6421932	SC	6183	WGS
+ERR037214	Illumina Genome Analyzer II paired end sequencing	ERX014756	SC	6183	WGS
+ERR6798258	Illumina MiSeq paired end sequencing	ERX6421933	SC	6183	WGS
+ERR6798259	Illumina MiSeq paired end sequencing	ERX6421934	SC	6183	WGS
+ERR037215	Illumina Genome Analyzer II paired end sequencing	ERX014754	SC	6183	WGS
+ERR6798260	Illumina MiSeq paired end sequencing	ERX6421935	SC	6183	WGS
+ERR046038	Illumina HiSeq 2000 paired end sequencing	ERX023100	SC	6183	WGS
+ERR6798262	Illumina MiSeq paired end sequencing	ERX6421937	SC	6183	WGS
+ERR6798263	Illumina MiSeq paired end sequencing	ERX6421938	SC	6183	WGS
+ERR119614	Illumina HiSeq 2000 paired end sequencing	ERX095886	SC	6183	WGS
+ERR6798266	Illumina MiSeq paired end sequencing	ERX6421941	SC	6183	WGS
+ERR119615	Illumina HiSeq 2000 paired end sequencing	ERX095887	SC	6183	WGS
+ERR6798267	Illumina MiSeq paired end sequencing	ERX6421942	SC	6183	WGS
+ERR266713	Illumina HiSeq 2000 paired end sequencing	ERX241209	SC	6183	WGS
+ERR6798273	Illumina MiSeq paired end sequencing	ERX6421948	SC	6183	WGS
+ERR2720931	Illumina MiSeq paired end sequencing	ERX2734804	SC	6183	WGS
+ERR6798274	Illumina MiSeq paired end sequencing	ERX6421949	SC	6183	WGS
+ERR2720933	Illumina MiSeq paired end sequencing	ERX2734806	SC	6183	WGS
+ERR6798275	Illumina MiSeq paired end sequencing	ERX6421950	SC	6183	WGS
+ERR2720934	Illumina MiSeq paired end sequencing	ERX2734807	SC	6183	WGS
+ERR6798278	Illumina MiSeq paired end sequencing	ERX6421953	SC	6183	WGS
+ERR6798280	Illumina MiSeq paired end sequencing	ERX6421955	SC	6183	WGS
+ERR2720935	Illumina MiSeq paired end sequencing	ERX2734808	SC	6183	WGS
+ERR2720936	Illumina MiSeq paired end sequencing	ERX2734809	SC	6183	WGS
+ERR2720937	Illumina MiSeq paired end sequencing	ERX2734810	SC	6183	WGS
+ERR6798283	Illumina MiSeq paired end sequencing	ERX6421958	SC	6183	WGS
+ERR6798285	Illumina MiSeq paired end sequencing	ERX6421960	SC	6183	WGS
+ERR2720938	Illumina MiSeq paired end sequencing	ERX2734811	SC	6183	WGS
+ERR6798288	Illumina MiSeq paired end sequencing	ERX6421963	SC	6183	WGS
+ERR2720939	Illumina MiSeq paired end sequencing	ERX2734812	SC	6183	WGS
+ERR6798291	Illumina MiSeq paired end sequencing	ERX6421966	SC	6183	WGS
+ERR6798293	Illumina MiSeq paired end sequencing	ERX6421968	SC	6183	WGS
+ERR2720941	Illumina MiSeq paired end sequencing	ERX2734814	SC	6183	WGS
+ERR2720946	Illumina MiSeq paired end sequencing	ERX2734819	SC	6183	WGS
+ERR6798295	Illumina MiSeq paired end sequencing	ERX6421970	SC	6183	WGS
+ERR6798296	Illumina MiSeq paired end sequencing	ERX6421971	SC	6183	WGS
+ERR2720948	Illumina MiSeq paired end sequencing	ERX2734821	SC	6183	WGS
+ERR6798300	Illumina MiSeq paired end sequencing	ERX6421975	SC	6183	WGS
+ERR6798301	Illumina MiSeq paired end sequencing	ERX6421976	SC	6183	WGS
+ERR2720951	Illumina MiSeq paired end sequencing	ERX2734824	SC	6183	WGS
+ERR6798304	Illumina MiSeq paired end sequencing	ERX6421979	SC	6183	WGS
+ERR6798305	Illumina MiSeq paired end sequencing	ERX6421980	SC	6183	WGS
+ERR2720953	Illumina MiSeq paired end sequencing	ERX2734826	SC	6183	WGS
+ERR6798307	Illumina MiSeq paired end sequencing	ERX6421982	SC	6183	WGS
+ERR2720955	Illumina MiSeq paired end sequencing	ERX2734828	SC	6183	WGS
+ERR6798310	Illumina MiSeq paired end sequencing	ERX6421985	SC	6183	WGS
+ERR2720957	Illumina MiSeq paired end sequencing	ERX2734830	SC	6183	WGS
+ERR6798314	Illumina MiSeq paired end sequencing	ERX6421989	SC	6183	WGS
+ERR310936	Illumina HiSeq 2000 paired end sequencing	ERX284217	SC	6183	WGS
+ERR3173043	HiSeq X Ten paired end sequencing	ERX3200977	SC	6183	WGS
+ERR6798315	Illumina MiSeq paired end sequencing	ERX6421990	SC	6183	WGS
+ERR6798316	Illumina MiSeq paired end sequencing	ERX6421991	SC	6183	WGS
+ERR3173044	HiSeq X Ten paired end sequencing	ERX3200978	SC	6183	WGS
+ERR6798317	Illumina MiSeq paired end sequencing	ERX6421992	SC	6183	WGS
+ERR3173048	HiSeq X Ten paired end sequencing	ERX3200982	SC	6183	WGS
+ERR6798318	Illumina MiSeq paired end sequencing	ERX6421993	SC	6183	WGS
+ERR6798320	Illumina MiSeq paired end sequencing	ERX6421995	SC	6183	WGS
+ERR3173050	HiSeq X Ten paired end sequencing	ERX3200984	SC	6183	WGS
+ERR6798321	Illumina MiSeq paired end sequencing	ERX6421996	SC	6183	WGS
+ERR3173055	HiSeq X Ten paired end sequencing	ERX3200989	SC	6183	WGS
+ERR6798322	Illumina MiSeq paired end sequencing	ERX6421997	SC	6183	WGS
+ERR3173058	HiSeq X Ten paired end sequencing	ERX3200992	SC	6183	WGS
+ERR6798323	Illumina MiSeq paired end sequencing	ERX6421998	SC	6183	WGS
+ERR6798326	Illumina MiSeq paired end sequencing	ERX6422001	SC	6183	WGS
+ERR3173060	HiSeq X Ten paired end sequencing	ERX3200994	SC	6183	WGS
+ERR6798327	Illumina MiSeq paired end sequencing	ERX6422002	SC	6183	WGS
+ERR3173061	HiSeq X Ten paired end sequencing	ERX3200995	SC	6183	WGS
+ERR6798332	Illumina MiSeq paired end sequencing	ERX6422007	SC	6183	WGS
+ERR3173063	HiSeq X Ten paired end sequencing	ERX3200997	SC	6183	WGS
+ERR6798333	Illumina MiSeq paired end sequencing	ERX6422008	SC	6183	WGS
+ERR3173064	HiSeq X Ten paired end sequencing	ERX3200998	SC	6183	WGS
+ERR6798335	Illumina MiSeq paired end sequencing	ERX6422010	SC	6183	WGS
+ERR3173067	HiSeq X Ten paired end sequencing	ERX3201001	SC	6183	WGS
+ERR6798336	Illumina MiSeq paired end sequencing	ERX6422011	SC	6183	WGS
+ERR3173069	HiSeq X Ten paired end sequencing	ERX3201003	SC	6183	WGS
+ERR6798337	Illumina MiSeq paired end sequencing	ERX6422012	SC	6183	WGS
+ERR6798338	Illumina MiSeq paired end sequencing	ERX6422013	SC	6183	WGS
+ERR3173071	HiSeq X Ten paired end sequencing	ERX3201005	SC	6183	WGS
+ERR6798339	Illumina MiSeq paired end sequencing	ERX6422014	SC	6183	WGS
+ERR3173072	HiSeq X Ten paired end sequencing	ERX3201006	SC	6183	WGS
+ERR6798343	Illumina MiSeq paired end sequencing	ERX6422018	SC	6183	WGS
+ERR3173075	HiSeq X Ten paired end sequencing	ERX3201009	SC	6183	WGS
+ERR6798345	Illumina MiSeq paired end sequencing	ERX6422020	SC	6183	WGS
+ERR3173078	HiSeq X Ten paired end sequencing	ERX3201012	SC	6183	WGS
+ERR3173082	HiSeq X Ten paired end sequencing	ERX3201016	SC	6183	WGS
+ERR6798348	Illumina MiSeq paired end sequencing	ERX6422023	SC	6183	WGS
+ERR3173084	HiSeq X Ten paired end sequencing	ERX3201018	SC	6183	WGS
+ERR6798349	Illumina MiSeq paired end sequencing	ERX6422024	SC	6183	WGS
+ERR6798350	Illumina MiSeq paired end sequencing	ERX6422025	SC	6183	WGS
+ERR3173086	HiSeq X Ten paired end sequencing	ERX3201020	SC	6183	WGS
+ERR6798351	Illumina MiSeq paired end sequencing	ERX6422026	SC	6183	WGS
+ERR3173087	HiSeq X Ten paired end sequencing	ERX3201021	SC	6183	WGS
+ERR6798352	Illumina MiSeq paired end sequencing	ERX6422027	SC	6183	WGS
+ERR3173089	HiSeq X Ten paired end sequencing	ERX3201023	SC	6183	WGS
+ERR6798354	Illumina MiSeq paired end sequencing	ERX6422029	SC	6183	WGS
+ERR6798355	Illumina MiSeq paired end sequencing	ERX6422030	SC	6183	WGS
+ERR6798356	Illumina MiSeq paired end sequencing	ERX6422031	SC	6183	WGS
+ERR6798357	Illumina MiSeq paired end sequencing	ERX6422032	SC	6183	WGS
+ERR3173090	HiSeq X Ten paired end sequencing	ERX3201024	SC	6183	WGS
+ERR3173091	HiSeq X Ten paired end sequencing	ERX3201025	SC	6183	WGS
+ERR6798358	Illumina MiSeq paired end sequencing	ERX6422033	SC	6183	WGS
+ERR3173093	HiSeq X Ten paired end sequencing	ERX3201027	SC	6183	WGS
+ERR6798359	Illumina MiSeq paired end sequencing	ERX6422034	SC	6183	WGS
+ERR3173095	HiSeq X Ten paired end sequencing	ERX3201029	SC	6183	WGS
+ERR3173097	HiSeq X Ten paired end sequencing	ERX3201031	SC	6183	WGS
+ERR6798361	Illumina MiSeq paired end sequencing	ERX6422036	SC	6183	WGS
+ERR3173098	HiSeq X Ten paired end sequencing	ERX3201032	SC	6183	WGS
+ERR6798362	Illumina MiSeq paired end sequencing	ERX6422037	SC	6183	WGS
+ERR6798363	Illumina MiSeq paired end sequencing	ERX6422038	SC	6183	WGS
+ERR3173100	HiSeq X Ten paired end sequencing	ERX3201034	SC	6183	WGS
+ERR6798365	Illumina MiSeq paired end sequencing	ERX6422040	SC	6183	WGS
+ERR3173102	HiSeq X Ten paired end sequencing	ERX3201036	SC	6183	WGS
+ERR6798366	Illumina MiSeq paired end sequencing	ERX6422041	SC	6183	WGS
+ERR3173107	HiSeq X Ten paired end sequencing	ERX3201041	SC	6183	WGS
+ERR6798370	Illumina MiSeq paired end sequencing	ERX6422045	SC	6183	WGS
+ERR3173110	HiSeq X Ten paired end sequencing	ERX3201044	SC	6183	WGS
+ERR6798371	Illumina MiSeq paired end sequencing	ERX6422046	SC	6183	WGS
+ERR3173112	HiSeq X Ten paired end sequencing	ERX3201046	SC	6183	WGS
+ERR6798372	Illumina MiSeq paired end sequencing	ERX6422047	SC	6183	WGS
+ERR6798375	Illumina NovaSeq 6000 paired end sequencing	ERX6422050	SC	6183	WGS
+ERR3173113	HiSeq X Ten paired end sequencing	ERX3201047	SC	6183	WGS
+ERR6798376	Illumina NovaSeq 6000 paired end sequencing	ERX6422051	SC	6183	WGS
+ERR3173114	HiSeq X Ten paired end sequencing	ERX3201048	SC	6183	WGS
+ERR6798378	Illumina NovaSeq 6000 paired end sequencing	ERX6422053	SC	6183	WGS
+ERR3173122	HiSeq X Ten paired end sequencing	ERX3201056	SC	6183	WGS
+ERR6798379	Illumina NovaSeq 6000 paired end sequencing	ERX6422054	SC	6183	WGS
+ERR3173124	HiSeq X Ten paired end sequencing	ERX3201058	SC	6183	WGS
+ERR6798380	Illumina NovaSeq 6000 paired end sequencing	ERX6422055	SC	6183	WGS
+ERR3173125	HiSeq X Ten paired end sequencing	ERX3201059	SC	6183	WGS
+ERR6798384	Illumina NovaSeq 6000 paired end sequencing	ERX6422059	SC	6183	WGS
+ERR3173126	HiSeq X Ten paired end sequencing	ERX3201060	SC	6183	WGS
+ERR6798385	Illumina NovaSeq 6000 paired end sequencing	ERX6422060	SC	6183	WGS
+ERR3173130	HiSeq X Ten paired end sequencing	ERX3201064	SC	6183	WGS
+ERR6798387	Illumina NovaSeq 6000 paired end sequencing	ERX6422062	SC	6183	WGS
+ERR3173132	HiSeq X Ten paired end sequencing	ERX3201066	SC	6183	WGS
+ERR6798390	Illumina NovaSeq 6000 paired end sequencing	ERX6422065	SC	6183	WGS
+ERR6798391	Illumina NovaSeq 6000 paired end sequencing	ERX6422066	SC	6183	WGS
+ERR3173133	HiSeq X Ten paired end sequencing	ERX3201067	SC	6183	WGS
+ERR6798393	Illumina NovaSeq 6000 paired end sequencing	ERX6422068	SC	6183	WGS
+ERR6798396	Illumina NovaSeq 6000 paired end sequencing	ERX6422071	SC	6183	WGS
+ERR3173135	HiSeq X Ten paired end sequencing	ERX3201069	SC	6183	WGS
+ERR6798398	Illumina NovaSeq 6000 paired end sequencing	ERX6422073	SC	6183	WGS
+ERR6798399	Illumina NovaSeq 6000 paired end sequencing	ERX6422074	SC	6183	WGS
+ERR3173136	HiSeq X Ten paired end sequencing	ERX3201070	SC	6183	WGS
+ERR3173139	HiSeq X Ten paired end sequencing	ERX3201073	SC	6183	WGS
+ERR3173140	HiSeq X Ten paired end sequencing	ERX3201074	SC	6183	WGS
+ERR3173141	HiSeq X Ten paired end sequencing	ERX3201075	SC	6183	WGS
+ERR6798401	Illumina NovaSeq 6000 paired end sequencing	ERX6422076	SC	6183	WGS
+ERR6798404	Illumina NovaSeq 6000 paired end sequencing	ERX6422079	SC	6183	WGS
+ERR3173142	HiSeq X Ten paired end sequencing	ERX3201076	SC	6183	WGS
+ERR6798405	Illumina NovaSeq 6000 paired end sequencing	ERX6422080	SC	6183	WGS
+ERR6798406	Illumina NovaSeq 6000 paired end sequencing	ERX6422081	SC	6183	WGS
+ERR3173146	HiSeq X Ten paired end sequencing	ERX3201080	SC	6183	WGS
+ERR6798407	Illumina NovaSeq 6000 paired end sequencing	ERX6422082	SC	6183	WGS
+ERR3173151	HiSeq X Ten paired end sequencing	ERX3201085	SC	6183	WGS
+ERR6798415	Illumina NovaSeq 6000 paired end sequencing	ERX6422090	SC	6183	WGS
+ERR3173153	HiSeq X Ten paired end sequencing	ERX3201087	SC	6183	WGS
+ERR6798418	Illumina NovaSeq 6000 paired end sequencing	ERX6422093	SC	6183	WGS
+ERR3173154	HiSeq X Ten paired end sequencing	ERX3201088	SC	6183	WGS
+ERR6798422	Illumina NovaSeq 6000 paired end sequencing	ERX6422097	SC	6183	WGS
+ERR3173155	HiSeq X Ten paired end sequencing	ERX3201089	SC	6183	WGS
+ERR6798423	Illumina NovaSeq 6000 paired end sequencing	ERX6422098	SC	6183	WGS
+ERR3173156	HiSeq X Ten paired end sequencing	ERX3201090	SC	6183	WGS
+ERR6798424	Illumina NovaSeq 6000 paired end sequencing	ERX6422099	SC	6183	WGS
+ERR3173163	HiSeq X Ten paired end sequencing	ERX3201097	SC	6183	WGS
+ERR6798426	Illumina NovaSeq 6000 paired end sequencing	ERX6422101	SC	6183	WGS
+ERR3173164	HiSeq X Ten paired end sequencing	ERX3201098	SC	6183	WGS
+ERR6798429	Illumina NovaSeq 6000 paired end sequencing	ERX6422104	SC	6183	WGS
+ERR6798431	Illumina NovaSeq 6000 paired end sequencing	ERX6422106	SC	6183	WGS
+ERR3173166	HiSeq X Ten paired end sequencing	ERX3201100	SC	6183	WGS
+ERR6798432	Illumina NovaSeq 6000 paired end sequencing	ERX6422107	SC	6183	WGS
+ERR3173170	HiSeq X Ten paired end sequencing	ERX3201104	SC	6183	WGS
+ERR6798433	Illumina NovaSeq 6000 paired end sequencing	ERX6422108	SC	6183	WGS
+ERR6798434	Illumina NovaSeq 6000 paired end sequencing	ERX6422109	SC	6183	WGS
+ERR3173173	HiSeq X Ten paired end sequencing	ERX3201107	SC	6183	WGS
+ERR6798438	Illumina NovaSeq 6000 paired end sequencing	ERX6422113	SC	6183	WGS
+ERR3173174	HiSeq X Ten paired end sequencing	ERX3201108	SC	6183	WGS
+ERR6798439	Illumina NovaSeq 6000 paired end sequencing	ERX6422114	SC	6183	WGS
+ERR3173175	HiSeq X Ten paired end sequencing	ERX3201109	SC	6183	WGS
+ERR3173176	HiSeq X Ten paired end sequencing	ERX3201110	SC	6183	WGS
+ERR6798440	Illumina NovaSeq 6000 paired end sequencing	ERX6422115	SC	6183	WGS
+ERR3173178	HiSeq X Ten paired end sequencing	ERX3201112	SC	6183	WGS
+ERR6798441	Illumina NovaSeq 6000 paired end sequencing	ERX6422116	SC	6183	WGS
+ERR3173179	HiSeq X Ten paired end sequencing	ERX3201113	SC	6183	WGS
+ERR6798442	Illumina NovaSeq 6000 paired end sequencing	ERX6422117	SC	6183	WGS
+ERR3173181	HiSeq X Ten paired end sequencing	ERX3201115	SC	6183	WGS
+ERR6798444	Illumina NovaSeq 6000 paired end sequencing	ERX6422119	SC	6183	WGS
+ERR3173182	HiSeq X Ten paired end sequencing	ERX3201116	SC	6183	WGS
+ERR6798447	Illumina NovaSeq 6000 paired end sequencing	ERX6422122	SC	6183	WGS
+ERR3173183	HiSeq X Ten paired end sequencing	ERX3201117	SC	6183	WGS
+ERR6798448	Illumina NovaSeq 6000 paired end sequencing	ERX6422123	SC	6183	WGS
+ERR3173184	HiSeq X Ten paired end sequencing	ERX3201118	SC	6183	WGS
+ERR6798449	Illumina NovaSeq 6000 paired end sequencing	ERX6422124	SC	6183	WGS
+ERR3173186	HiSeq X Ten paired end sequencing	ERX3201120	SC	6183	WGS
+ERR6798450	Illumina NovaSeq 6000 paired end sequencing	ERX6422125	SC	6183	WGS
+ERR3173187	HiSeq X Ten paired end sequencing	ERX3201121	SC	6183	WGS
+ERR6798451	Illumina NovaSeq 6000 paired end sequencing	ERX6422126	SC	6183	WGS
+ERR3173188	HiSeq X Ten paired end sequencing	ERX3201122	SC	6183	WGS
+ERR6798453	Illumina NovaSeq 6000 paired end sequencing	ERX6422128	SC	6183	WGS
+ERR3173189	HiSeq X Ten paired end sequencing	ERX3201123	SC	6183	WGS
+ERR6798454	Illumina NovaSeq 6000 paired end sequencing	ERX6422129	SC	6183	WGS
+ERR6798456	Illumina NovaSeq 6000 paired end sequencing	ERX6422131	SC	6183	WGS
+ERR3173191	HiSeq X Ten paired end sequencing	ERX3201125	SC	6183	WGS
+ERR6798457	Illumina NovaSeq 6000 paired end sequencing	ERX6422132	SC	6183	WGS
+ERR6798458	Illumina NovaSeq 6000 paired end sequencing	ERX6422133	SC	6183	WGS
+ERR6798459	Illumina NovaSeq 6000 paired end sequencing	ERX6422134	SC	6183	WGS
+ERR6798461	Illumina NovaSeq 6000 paired end sequencing	ERX6422136	SC	6183	WGS
+ERR6798462	Illumina NovaSeq 6000 paired end sequencing	ERX6422137	SC	6183	WGS
+ERR6798463	Illumina NovaSeq 6000 paired end sequencing	ERX6422138	SC	6183	WGS
+ERR6798464	Illumina NovaSeq 6000 paired end sequencing	ERX6422139	SC	6183	WGS
+ERR3173192	HiSeq X Ten paired end sequencing	ERX3201126	SC	6183	WGS
+ERR6798465	Illumina NovaSeq 6000 paired end sequencing	ERX6422140	SC	6183	WGS
+ERR6798474	Illumina NovaSeq 6000 paired end sequencing	ERX6422149	SC	6183	WGS
+ERR3173197	HiSeq X Ten paired end sequencing	ERX3201131	SC	6183	WGS
+ERR6798476	Illumina NovaSeq 6000 paired end sequencing	ERX6422151	SC	6183	WGS
+ERR6798477	Illumina NovaSeq 6000 paired end sequencing	ERX6422152	SC	6183	WGS
+ERR3173201	HiSeq X Ten paired end sequencing	ERX3201135	SC	6183	WGS
+ERR6798479	Illumina NovaSeq 6000 paired end sequencing	ERX6422154	SC	6183	WGS
+ERR6798480	Illumina NovaSeq 6000 paired end sequencing	ERX6422155	SC	6183	WGS
+ERR3173202	HiSeq X Ten paired end sequencing	ERX3201136	SC	6183	WGS
+ERR6798482	Illumina NovaSeq 6000 paired end sequencing	ERX6422157	SC	6183	WGS
+ERR6798483	Illumina NovaSeq 6000 paired end sequencing	ERX6422158	SC	6183	WGS
+ERR3173204	HiSeq X Ten paired end sequencing	ERX3201138	SC	6183	WGS
+ERR6798484	Illumina NovaSeq 6000 paired end sequencing	ERX6422159	SC	6183	WGS
+ERR6798485	Illumina NovaSeq 6000 paired end sequencing	ERX6422160	SC	6183	WGS
+ERR3173207	HiSeq X Ten paired end sequencing	ERX3201141	SC	6183	WGS
+ERR6798486	Illumina NovaSeq 6000 paired end sequencing	ERX6422161	SC	6183	WGS
+ERR3173208	HiSeq X Ten paired end sequencing	ERX3201142	SC	6183	WGS
+ERR6798487	Illumina NovaSeq 6000 paired end sequencing	ERX6422162	SC	6183	WGS
+ERR3173209	HiSeq X Ten paired end sequencing	ERX3201143	SC	6183	WGS
+ERR6798488	Illumina NovaSeq 6000 paired end sequencing	ERX6422163	SC	6183	WGS
+ERR6798489	Illumina NovaSeq 6000 paired end sequencing	ERX6422164	SC	6183	WGS
+ERR3173210	HiSeq X Ten paired end sequencing	ERX3201144	SC	6183	WGS
+ERR6798491	Illumina NovaSeq 6000 paired end sequencing	ERX6422166	SC	6183	WGS
+ERR6798492	Illumina NovaSeq 6000 paired end sequencing	ERX6422167	SC	6183	WGS
+ERR6798494	Illumina NovaSeq 6000 paired end sequencing	ERX6422169	SC	6183	WGS
+ERR3173211	HiSeq X Ten paired end sequencing	ERX3201145	SC	6183	WGS
+ERR6798498	Illumina NovaSeq 6000 paired end sequencing	ERX6422173	SC	6183	WGS
+ERR6798499	Illumina NovaSeq 6000 paired end sequencing	ERX6422174	SC	6183	WGS
+ERR3173212	HiSeq X Ten paired end sequencing	ERX3201146	SC	6183	WGS
+ERR6798503	Illumina NovaSeq 6000 paired end sequencing	ERX6422178	SC	6183	WGS
+ERR6798505	Illumina NovaSeq 6000 paired end sequencing	ERX6422180	SC	6183	WGS
+ERR3173214	HiSeq X Ten paired end sequencing	ERX3201148	SC	6183	WGS
+ERR6798506	Illumina NovaSeq 6000 paired end sequencing	ERX6422181	SC	6183	WGS
+ERR3173217	HiSeq X Ten paired end sequencing	ERX3201151	SC	6183	WGS
+ERR6798507	Illumina NovaSeq 6000 paired end sequencing	ERX6422182	SC	6183	WGS
+ERR6798508	Illumina NovaSeq 6000 paired end sequencing	ERX6422183	SC	6183	WGS
+ERR3173219	HiSeq X Ten paired end sequencing	ERX3201153	SC	6183	WGS
+ERR6798509	Illumina NovaSeq 6000 paired end sequencing	ERX6422184	SC	6183	WGS
+ERR3173220	HiSeq X Ten paired end sequencing	ERX3201154	SC	6183	WGS
+ERR6798511	Illumina NovaSeq 6000 paired end sequencing	ERX6422186	SC	6183	WGS
+ERR6798515	Illumina NovaSeq 6000 paired end sequencing	ERX6422190	SC	6183	WGS
+ERR3173223	HiSeq X Ten paired end sequencing	ERX3201157	SC	6183	WGS
+ERR6798516	Illumina NovaSeq 6000 paired end sequencing	ERX6422191	SC	6183	WGS
+ERR3173227	HiSeq X Ten paired end sequencing	ERX3201161	SC	6183	WGS
+ERR6798517	Illumina NovaSeq 6000 paired end sequencing	ERX6422192	SC	6183	WGS
+ERR6798520	Illumina NovaSeq 6000 paired end sequencing	ERX6422195	SC	6183	WGS
+ERR6798522	Illumina NovaSeq 6000 paired end sequencing	ERX6422197	SC	6183	WGS
+ERR6798523	Illumina NovaSeq 6000 paired end sequencing	ERX6422198	SC	6183	WGS
+ERR6798524	Illumina NovaSeq 6000 paired end sequencing	ERX6422199	SC	6183	WGS
+ERR6798529	Illumina NovaSeq 6000 paired end sequencing	ERX6422204	SC	6183	WGS
+ERR6798530	Illumina NovaSeq 6000 paired end sequencing	ERX6422205	SC	6183	WGS
+ERR6798531	Illumina NovaSeq 6000 paired end sequencing	ERX6422206	SC	6183	WGS
+ERR3173229	HiSeq X Ten paired end sequencing	ERX3201163	SC	6183	WGS
+ERR6798536	Illumina NovaSeq 6000 paired end sequencing	ERX6422211	SC	6183	WGS
+ERR3173230	HiSeq X Ten paired end sequencing	ERX3201164	SC	6183	WGS
+ERR6798538	Illumina NovaSeq 6000 paired end sequencing	ERX6422213	SC	6183	WGS
+ERR6798541	Illumina NovaSeq 6000 paired end sequencing	ERX6422216	SC	6183	WGS
+ERR3173234	HiSeq X Ten paired end sequencing	ERX3201168	SC	6183	WGS
+ERR6798543	Illumina NovaSeq 6000 paired end sequencing	ERX6422218	SC	6183	WGS
+ERR6798545	Illumina NovaSeq 6000 paired end sequencing	ERX6422220	SC	6183	WGS
+ERR3173235	HiSeq X Ten paired end sequencing	ERX3201169	SC	6183	WGS
+ERR6798546	Illumina NovaSeq 6000 paired end sequencing	ERX6422221	SC	6183	WGS
+ERR697170	Illumina MiSeq paired end sequencing	ERX641609	SC	6183	WGS
+ERR3173236	HiSeq X Ten paired end sequencing	ERX3201170	SC	6183	WGS
+ERR7977659	Illumina MiSeq paired end sequencing	ERX7543806	SC	6183	WGS
+ERR3173238	HiSeq X Ten paired end sequencing	ERX3201172	SC	6183	WGS
+ERR7977660	Illumina MiSeq paired end sequencing	ERX7543807	SC	6183	WGS
+ERR3173239	HiSeq X Ten paired end sequencing	ERX3201173	SC	6183	WGS
+ERR7977661	Illumina MiSeq paired end sequencing	ERX7543808	SC	6183	WGS
+ERR7977663	Illumina MiSeq paired end sequencing	ERX7543810	SC	6183	WGS
+ERR3173244	HiSeq X Ten paired end sequencing	ERX3201178	SC	6183	WGS
+ERR7977665	Illumina MiSeq paired end sequencing	ERX7543812	SC	6183	WGS
+ERR3173248	HiSeq X Ten paired end sequencing	ERX3201182	SC	6183	WGS
+ERR7977669	Illumina MiSeq paired end sequencing	ERX7543816	SC	6183	WGS
+ERR7977671	Illumina MiSeq paired end sequencing	ERX7543818	SC	6183	WGS
+ERR3173250	HiSeq X Ten paired end sequencing	ERX3201184	SC	6183	WGS
+ERR7977676	Illumina MiSeq paired end sequencing	ERX7543823	SC	6183	WGS
+ERR3173251	HiSeq X Ten paired end sequencing	ERX3201185	SC	6183	WGS
+ERR3173252	HiSeq X Ten paired end sequencing	ERX3201186	SC	6183	WGS
+ERR7977678	Illumina MiSeq paired end sequencing	ERX7543825	SC	6183	WGS
+ERR3173254	HiSeq X Ten paired end sequencing	ERX3201188	SC	6183	WGS
+ERR7977680	Illumina MiSeq paired end sequencing	ERX7543827	SC	6183	WGS
+ERR7977681	Illumina MiSeq paired end sequencing	ERX7543828	SC	6183	WGS
+ERR7977682	Illumina MiSeq paired end sequencing	ERX7543829	SC	6183	WGS
+ERR7977684	Illumina MiSeq paired end sequencing	ERX7543831	SC	6183	WGS
+ERR3173261	HiSeq X Ten paired end sequencing	ERX3201195	SC	6183	WGS
+ERR7977685	Illumina MiSeq paired end sequencing	ERX7543832	SC	6183	WGS
+ERR3173262	HiSeq X Ten paired end sequencing	ERX3201196	SC	6183	WGS
+ERR7977686	Illumina MiSeq paired end sequencing	ERX7543833	SC	6183	WGS
+ERR7977687	Illumina MiSeq paired end sequencing	ERX7543834	SC	6183	WGS
+ERR7977689	Illumina MiSeq paired end sequencing	ERX7543836	SC	6183	WGS
+ERR3173263	HiSeq X Ten paired end sequencing	ERX3201197	SC	6183	WGS
+ERR7977690	Illumina MiSeq paired end sequencing	ERX7543837	SC	6183	WGS
+ERR7977692	Illumina MiSeq paired end sequencing	ERX7543839	SC	6183	WGS
+ERR3293259	Illumina MiSeq paired end sequencing	ERX3319606	SC	6183	WGS
+ERR7977694	Illumina MiSeq paired end sequencing	ERX7543841	SC	6183	WGS
+ERR3293260	Illumina MiSeq paired end sequencing	ERX3319607	SC	6183	WGS
+ERR7977695	Illumina MiSeq paired end sequencing	ERX7543842	SC	6183	WGS
+ERR7977696	Illumina MiSeq paired end sequencing	ERX7543843	SC	6183	WGS
+ERR3293262	Illumina MiSeq paired end sequencing	ERX3319609	SC	6183	WGS
+ERR7977699	Illumina MiSeq paired end sequencing	ERX7543846	SC	6183	WGS
+ERR7977701	Illumina MiSeq paired end sequencing	ERX7543848	SC	6183	WGS
+ERR3293264	Illumina MiSeq paired end sequencing	ERX3319611	SC	6183	WGS
+ERR3293266	Illumina MiSeq paired end sequencing	ERX3319613	SC	6183	WGS
+ERR7977703	Illumina MiSeq paired end sequencing	ERX7543850	SC	6183	WGS
+ERR3293267	Illumina MiSeq paired end sequencing	ERX3319614	SC	6183	WGS
+ERR7977704	Illumina MiSeq paired end sequencing	ERX7543851	SC	6183	WGS
+ERR3293268	Illumina MiSeq paired end sequencing	ERX3319615	SC	6183	WGS
+ERR7977706	Illumina MiSeq paired end sequencing	ERX7543853	SC	6183	WGS
+ERR7977708	Illumina MiSeq paired end sequencing	ERX7543855	SC	6183	WGS
+ERR3293270	Illumina MiSeq paired end sequencing	ERX3319617	SC	6183	WGS
+ERR7977712	Illumina MiSeq paired end sequencing	ERX7543859	SC	6183	WGS
+ERR7977713	Illumina MiSeq paired end sequencing	ERX7543860	SC	6183	WGS
+ERR3293273	Illumina MiSeq paired end sequencing	ERX3319620	SC	6183	WGS
+ERR7977715	Illumina MiSeq paired end sequencing	ERX7543862	SC	6183	WGS
+ERR3293274	Illumina MiSeq paired end sequencing	ERX3319621	SC	6183	WGS
+ERR7977718	Illumina MiSeq paired end sequencing	ERX7543865	SC	6183	WGS
+ERR7977720	Illumina MiSeq paired end sequencing	ERX7543867	SC	6183	WGS
+ERR3293277	Illumina MiSeq paired end sequencing	ERX3319624	SC	6183	WGS
+ERR7977722	Illumina MiSeq paired end sequencing	ERX7543869	SC	6183	WGS
+ERR7977723	Illumina MiSeq paired end sequencing	ERX7543870	SC	6183	WGS
+ERR3293280	Illumina MiSeq paired end sequencing	ERX3319627	SC	6183	WGS
+ERR7977726	Illumina MiSeq paired end sequencing	ERX7543873	SC	6183	WGS
+ERR3293282	Illumina MiSeq paired end sequencing	ERX3319629	SC	6183	WGS
+ERR7977727	Illumina MiSeq paired end sequencing	ERX7543874	SC	6183	WGS
+ERR3293283	Illumina MiSeq paired end sequencing	ERX3319630	SC	6183	WGS
+ERR7977728	Illumina MiSeq paired end sequencing	ERX7543875	SC	6183	WGS
+ERR7977732	Illumina MiSeq paired end sequencing	ERX7543879	SC	6183	WGS
+ERR3293286	Illumina MiSeq paired end sequencing	ERX3319633	SC	6183	WGS
+ERR7977734	Illumina MiSeq paired end sequencing	ERX7543881	SC	6183	WGS
+ERR7977736	Illumina MiSeq paired end sequencing	ERX7543883	SC	6183	WGS
+ERR3293287	Illumina MiSeq paired end sequencing	ERX3319634	SC	6183	WGS
+ERR7977737	Illumina MiSeq paired end sequencing	ERX7543884	SC	6183	WGS
+ERR3293289	Illumina MiSeq paired end sequencing	ERX3319636	SC	6183	WGS
+ERR7977739	Illumina MiSeq paired end sequencing	ERX7543886	SC	6183	WGS
+ERR3293291	Illumina MiSeq paired end sequencing	ERX3319638	SC	6183	WGS
+ERR7977740	Illumina MiSeq paired end sequencing	ERX7543887	SC	6183	WGS
+ERR3293293	Illumina MiSeq paired end sequencing	ERX3319640	SC	6183	WGS
+ERR7977741	Illumina MiSeq paired end sequencing	ERX7543888	SC	6183	WGS
+ERR3293297	Illumina MiSeq paired end sequencing	ERX3319644	SC	6183	WGS
+ERR7977743	Illumina MiSeq paired end sequencing	ERX7543890	SC	6183	WGS
+ERR3293301	Illumina MiSeq paired end sequencing	ERX3319648	SC	6183	WGS
+ERR7977745	Illumina MiSeq paired end sequencing	ERX7543892	SC	6183	WGS
+ERR7977748	Illumina MiSeq paired end sequencing	ERX7543895	SC	6183	WGS
+ERR3293305	Illumina MiSeq paired end sequencing	ERX3319652	SC	6183	WGS
+ERR7977750	Illumina MiSeq paired end sequencing	ERX7543897	SC	6183	WGS
+ERR3293306	Illumina MiSeq paired end sequencing	ERX3319653	SC	6183	WGS
+ERR7977751	Illumina MiSeq paired end sequencing	ERX7543898	SC	6183	WGS
+ERR7977757	Illumina NovaSeq 6000 paired end sequencing	ERX7543904	SC	6183	WGS
+ERR3293307	Illumina MiSeq paired end sequencing	ERX3319654	SC	6183	WGS
+ERR7977758	Illumina NovaSeq 6000 paired end sequencing	ERX7543905	SC	6183	WGS
+ERR3293314	Illumina MiSeq paired end sequencing	ERX3319661	SC	6183	WGS
+ERR3293315	Illumina MiSeq paired end sequencing	ERX3319662	SC	6183	WGS
+ERR3293317	Illumina MiSeq paired end sequencing	ERX3319664	SC	6183	WGS
+ERR7977760	Illumina NovaSeq 6000 paired end sequencing	ERX7543907	SC	6183	WGS
+ERR7977763	Illumina NovaSeq 6000 paired end sequencing	ERX7543910	SC	6183	WGS
+ERR3293320	Illumina MiSeq paired end sequencing	ERX3319667	SC	6183	WGS
+ERR3293321	Illumina MiSeq paired end sequencing	ERX3319668	SC	6183	WGS
+ERR7977766	Illumina NovaSeq 6000 paired end sequencing	ERX7543913	SC	6183	WGS
+ERR7977768	Illumina NovaSeq 6000 paired end sequencing	ERX7543915	SC	6183	WGS
+ERR3293325	Illumina MiSeq paired end sequencing	ERX3319672	SC	6183	WGS
+ERR3293327	Illumina MiSeq paired end sequencing	ERX3319674	SC	6183	WGS
+ERR7977769	Illumina NovaSeq 6000 paired end sequencing	ERX7543916	SC	6183	WGS
+ERR7977770	Illumina NovaSeq 6000 paired end sequencing	ERX7543917	SC	6183	WGS
+ERR3293330	Illumina MiSeq paired end sequencing	ERX3319677	SC	6183	WGS
+ERR7977772	Illumina NovaSeq 6000 paired end sequencing	ERX7543919	SC	6183	WGS
+ERR3293332	Illumina MiSeq paired end sequencing	ERX3319679	SC	6183	WGS
+ERR7977773	Illumina NovaSeq 6000 paired end sequencing	ERX7543920	SC	6183	WGS
+ERR7977775	Illumina NovaSeq 6000 paired end sequencing	ERX7543922	SC	6183	WGS
+ERR3293333	Illumina MiSeq paired end sequencing	ERX3319680	SC	6183	WGS
+ERR7977778	Illumina NovaSeq 6000 paired end sequencing	ERX7543925	SC	6183	WGS
+ERR3293335	Illumina MiSeq paired end sequencing	ERX3319682	SC	6183	WGS
+ERR7977779	Illumina NovaSeq 6000 paired end sequencing	ERX7543926	SC	6183	WGS
+ERR7977782	Illumina NovaSeq 6000 paired end sequencing	ERX7543929	SC	6183	WGS
+ERR3293339	Illumina MiSeq paired end sequencing	ERX3319686	SC	6183	WGS
+ERR7977783	Illumina NovaSeq 6000 paired end sequencing	ERX7543930	SC	6183	WGS
+ERR3293340	Illumina MiSeq paired end sequencing	ERX3319687	SC	6183	WGS
+ERR7977784	Illumina NovaSeq 6000 paired end sequencing	ERX7543931	SC	6183	WGS
+ERR7977785	Illumina NovaSeq 6000 paired end sequencing	ERX7543932	SC	6183	WGS
+ERR3293342	Illumina MiSeq paired end sequencing	ERX3319689	SC	6183	WGS
+ERR7977786	Illumina NovaSeq 6000 paired end sequencing	ERX7543933	SC	6183	WGS
+ERR7977792	Illumina NovaSeq 6000 paired end sequencing	ERX7543939	SC	6183	WGS
+ERR3293343	Illumina MiSeq paired end sequencing	ERX3319690	SC	6183	WGS
+ERR7977794	Illumina NovaSeq 6000 paired end sequencing	ERX7543941	SC	6183	WGS
+ERR7977797	Illumina NovaSeq 6000 paired end sequencing	ERX7543944	SC	6183	WGS
+ERR3293344	Illumina MiSeq paired end sequencing	ERX3319691	SC	6183	WGS
+ERR7977799	Illumina NovaSeq 6000 paired end sequencing	ERX7543946	SC	6183	WGS
+ERR3293346	Illumina MiSeq paired end sequencing	ERX3319693	SC	6183	WGS
+ERR7977800	Illumina NovaSeq 6000 paired end sequencing	ERX7543947	SC	6183	WGS
+ERR3293349	Illumina MiSeq paired end sequencing	ERX3319696	SC	6183	WGS
+ERR7977801	Illumina NovaSeq 6000 paired end sequencing	ERX7543948	SC	6183	WGS
+ERR7977802	Illumina NovaSeq 6000 paired end sequencing	ERX7543949	SC	6183	WGS
+ERR3293350	Illumina MiSeq paired end sequencing	ERX3319697	SC	6183	WGS
+ERR7977803	Illumina NovaSeq 6000 paired end sequencing	ERX7543950	SC	6183	WGS
+ERR3304223	Illumina HiSeq 2500 paired end sequencing	ERX3330313	SC	6183	WGS
+ERR7977804	Illumina NovaSeq 6000 paired end sequencing	ERX7543951	SC	6183	WGS
+ERR7977805	Illumina NovaSeq 6000 paired end sequencing	ERX7543952	SC	6183	WGS
+ERR3304225	Illumina HiSeq 2500 paired end sequencing	ERX3330315	SC	6183	WGS
+ERR7977807	Illumina NovaSeq 6000 paired end sequencing	ERX7543954	SC	6183	WGS
+ERR3304227	Illumina HiSeq 2500 paired end sequencing	ERX3330317	SC	6183	WGS
+ERR7977810	Illumina NovaSeq 6000 paired end sequencing	ERX7543957	SC	6183	WGS
+ERR3304229	Illumina HiSeq 2500 paired end sequencing	ERX3330319	SC	6183	WGS
+ERR7977811	Illumina NovaSeq 6000 paired end sequencing	ERX7543958	SC	6183	WGS
+ERR7977815	Illumina NovaSeq 6000 paired end sequencing	ERX7543962	SC	6183	WGS
+ERR3304234	Illumina MiSeq paired end sequencing	ERX3330324	SC	6183	WGS
+ERR7977817	Illumina NovaSeq 6000 paired end sequencing	ERX7543964	SC	6183	WGS
+ERR7977819	Illumina NovaSeq 6000 paired end sequencing	ERX7543966	SC	6183	WGS
+ERR3304243	Illumina MiSeq paired end sequencing	ERX3330333	SC	6183	WGS
+ERR7977820	Illumina NovaSeq 6000 paired end sequencing	ERX7543967	SC	6183	WGS
+ERR7977822	Illumina NovaSeq 6000 paired end sequencing	ERX7543969	SC	6183	WGS
+ERR7977823	Illumina NovaSeq 6000 paired end sequencing	ERX7543970	SC	6183	WGS
+ERR7977825	Illumina NovaSeq 6000 paired end sequencing	ERX7543972	SC	6183	WGS
+ERR3304247	Illumina MiSeq paired end sequencing	ERX3330337	SC	6183	WGS
+ERR7977826	Illumina NovaSeq 6000 paired end sequencing	ERX7543973	SC	6183	WGS
+ERR7977827	Illumina NovaSeq 6000 paired end sequencing	ERX7543974	SC	6183	WGS
+ERR3304250	Illumina MiSeq paired end sequencing	ERX3330340	SC	6183	WGS
+ERR7977828	Illumina NovaSeq 6000 paired end sequencing	ERX7543975	SC	6183	WGS
+ERR7977831	Illumina NovaSeq 6000 paired end sequencing	ERX7543978	SC	6183	WGS
+ERR3304251	Illumina MiSeq paired end sequencing	ERX3330341	SC	6183	WGS
+ERR7977832	Illumina NovaSeq 6000 paired end sequencing	ERX7543979	SC	6183	WGS
+ERR3304259	Illumina MiSeq paired end sequencing	ERX3330349	SC	6183	WGS
+ERR7977835	Illumina NovaSeq 6000 paired end sequencing	ERX7543982	SC	6183	WGS
+ERR7977836	Illumina NovaSeq 6000 paired end sequencing	ERX7543983	SC	6183	WGS
+ERR3304260	Illumina MiSeq paired end sequencing	ERX3330350	SC	6183	WGS
+ERR7977837	Illumina NovaSeq 6000 paired end sequencing	ERX7543984	SC	6183	WGS
+ERR7977838	Illumina NovaSeq 6000 paired end sequencing	ERX7543985	SC	6183	WGS
+ERR3304263	Illumina MiSeq paired end sequencing	ERX3330353	SC	6183	WGS
+ERR7977839	Illumina NovaSeq 6000 paired end sequencing	ERX7543986	SC	6183	WGS
+ERR7977842	Illumina NovaSeq 6000 paired end sequencing	ERX7543989	SC	6183	WGS
+ERR3304264	Illumina MiSeq paired end sequencing	ERX3330354	SC	6183	WGS
+ERR7977843	Illumina NovaSeq 6000 paired end sequencing	ERX7543990	SC	6183	WGS
+ERR3304265	Illumina MiSeq paired end sequencing	ERX3330355	SC	6183	WGS
+ERR7977845	Illumina NovaSeq 6000 paired end sequencing	ERX7543992	SC	6183	WGS
+ERR3304269	Illumina MiSeq paired end sequencing	ERX3330359	SC	6183	WGS
+ERR7977846	Illumina NovaSeq 6000 paired end sequencing	ERX7543993	SC	6183	WGS
+ERR3304270	Illumina MiSeq paired end sequencing	ERX3330360	SC	6183	WGS
+ERR7977848	Illumina NovaSeq 6000 paired end sequencing	ERX7543995	SC	6183	WGS
+ERR7977850	Illumina NovaSeq 6000 paired end sequencing	ERX7543997	SC	6183	WGS
+ERR3304271	Illumina MiSeq paired end sequencing	ERX3330361	SC	6183	WGS
+ERR3304272	Illumina MiSeq paired end sequencing	ERX3330362	SC	6183	WGS
+ERR7977854	Illumina NovaSeq 6000 paired end sequencing	ERX7544001	SC	6183	WGS
+ERR7977856	Illumina NovaSeq 6000 paired end sequencing	ERX7544003	SC	6183	WGS
+ERR3304273	Illumina MiSeq paired end sequencing	ERX3330363	SC	6183	WGS
+ERR7977858	Illumina NovaSeq 6000 paired end sequencing	ERX7544005	SC	6183	WGS
+ERR3304275	Illumina MiSeq paired end sequencing	ERX3330365	SC	6183	WGS
+ERR7977859	Illumina NovaSeq 6000 paired end sequencing	ERX7544006	SC	6183	WGS
+ERR3304276	Illumina MiSeq paired end sequencing	ERX3330366	SC	6183	WGS
+ERR3304277	Illumina MiSeq paired end sequencing	ERX3330367	SC	6183	WGS
+ERR7977862	Illumina NovaSeq 6000 paired end sequencing	ERX7544009	SC	6183	WGS
+ERR3304279	Illumina MiSeq paired end sequencing	ERX3330369	SC	6183	WGS
+ERR7977864	Illumina NovaSeq 6000 paired end sequencing	ERX7544011	SC	6183	WGS
+ERR3304281	Illumina MiSeq paired end sequencing	ERX3330371	SC	6183	WGS
+ERR7977865	Illumina NovaSeq 6000 paired end sequencing	ERX7544012	SC	6183	WGS
+ERR7977867	Illumina NovaSeq 6000 paired end sequencing	ERX7544014	SC	6183	WGS
+ERR7977868	Illumina NovaSeq 6000 paired end sequencing	ERX7544015	SC	6183	WGS
+ERR7977869	Illumina NovaSeq 6000 paired end sequencing	ERX7544016	SC	6183	WGS
+ERR7977875	Illumina NovaSeq 6000 paired end sequencing	ERX7544022	SC	6183	WGS
+ERR7977876	Illumina NovaSeq 6000 paired end sequencing	ERX7544023	SC	6183	WGS
+ERR3304282	Illumina MiSeq paired end sequencing	ERX3330372	SC	6183	WGS
+ERR7977878	Illumina NovaSeq 6000 paired end sequencing	ERX7544025	SC	6183	WGS
+ERR7977879	Illumina NovaSeq 6000 paired end sequencing	ERX7544026	SC	6183	WGS
+ERR3304283	Illumina MiSeq paired end sequencing	ERX3330373	SC	6183	WGS
+ERR7977882	Illumina NovaSeq 6000 paired end sequencing	ERX7544029	SC	6183	WGS
+ERR7977885	Illumina NovaSeq 6000 paired end sequencing	ERX7544032	SC	6183	WGS
+ERR3304284	Illumina MiSeq paired end sequencing	ERX3330374	SC	6183	WGS
+ERR7977887	Illumina NovaSeq 6000 paired end sequencing	ERX7544034	SC	6183	WGS
+ERR7977888	Illumina NovaSeq 6000 paired end sequencing	ERX7544035	SC	6183	WGS
+ERR3304285	Illumina MiSeq paired end sequencing	ERX3330375	SC	6183	WGS
+ERR7977889	Illumina NovaSeq 6000 paired end sequencing	ERX7544036	SC	6183	WGS
+ERR3304286	Illumina MiSeq paired end sequencing	ERX3330376	SC	6183	WGS
+ERR7977890	Illumina NovaSeq 6000 paired end sequencing	ERX7544037	SC	6183	WGS
+ERR7977891	Illumina NovaSeq 6000 paired end sequencing	ERX7544038	SC	6183	WGS
+ERR3304287	Illumina MiSeq paired end sequencing	ERX3330377	SC	6183	WGS
+ERR7977892	Illumina NovaSeq 6000 paired end sequencing	ERX7544039	SC	6183	WGS
+ERR3304289	Illumina MiSeq paired end sequencing	ERX3330379	SC	6183	WGS
+ERR3304365	Illumina MiSeq paired end sequencing	ERX3330455	SC	6183	WGS
+ERR3304369	Illumina MiSeq paired end sequencing	ERX3330459	SC	6183	WGS
+ERR7977894	Illumina NovaSeq 6000 paired end sequencing	ERX7544041	SC	6183	WGS
+ERR3304372	Illumina MiSeq paired end sequencing	ERX3330462	SC	6183	WGS
+ERR7977897	Illumina NovaSeq 6000 paired end sequencing	ERX7544044	SC	6183	WGS
+ERR3304373	Illumina MiSeq paired end sequencing	ERX3330463	SC	6183	WGS
+ERR7977900	Illumina NovaSeq 6000 paired end sequencing	ERX7544047	SC	6183	WGS
+ERR7977902	Illumina NovaSeq 6000 paired end sequencing	ERX7544049	SC	6183	WGS
+ERR7977903	Illumina NovaSeq 6000 paired end sequencing	ERX7544050	SC	6183	WGS
+ERR7977910	Illumina NovaSeq 6000 paired end sequencing	ERX7544057	SC	6183	WGS
+ERR7977911	Illumina NovaSeq 6000 paired end sequencing	ERX7544058	SC	6183	WGS
+ERR3304374	Illumina MiSeq paired end sequencing	ERX3330464	SC	6183	WGS
+ERR7977912	Illumina NovaSeq 6000 paired end sequencing	ERX7544059	SC	6183	WGS
+ERR7977913	Illumina NovaSeq 6000 paired end sequencing	ERX7544060	SC	6183	WGS
+ERR3304376	Illumina MiSeq paired end sequencing	ERX3330466	SC	6183	WGS
+ERR7977914	Illumina NovaSeq 6000 paired end sequencing	ERX7544061	SC	6183	WGS
+ERR3304379	Illumina MiSeq paired end sequencing	ERX3330469	SC	6183	WGS
+ERR7977919	Illumina NovaSeq 6000 paired end sequencing	ERX7544066	SC	6183	WGS
+ERR7977920	Illumina NovaSeq 6000 paired end sequencing	ERX7544067	SC	6183	WGS
+ERR3304380	Illumina MiSeq paired end sequencing	ERX3330470	SC	6183	WGS
+ERR7977924	Illumina NovaSeq 6000 paired end sequencing	ERX7544071	SC	6183	WGS
+ERR7977926	Illumina NovaSeq 6000 paired end sequencing	ERX7544073	SC	6183	WGS
+ERR3304381	Illumina MiSeq paired end sequencing	ERX3330471	SC	6183	WGS
+ERR7977928	Illumina NovaSeq 6000 paired end sequencing	ERX7544075	SC	6183	WGS
+ERR3304387	Illumina MiSeq paired end sequencing	ERX3330477	SC	6183	WGS
+ERR7977930	Illumina NovaSeq 6000 paired end sequencing	ERX7544077	SC	6183	WGS
+ERR7977931	Illumina NovaSeq 6000 paired end sequencing	ERX7544078	SC	6183	WGS
+ERR338338	Illumina HiSeq 2000 paired end sequencing	ERX311243	SC	6183	WGS
+ERR7977936	Illumina NovaSeq 6000 paired end sequencing	ERX7544083	SC	6183	WGS
+ERR7977937	Illumina NovaSeq 6000 paired end sequencing	ERX7544084	SC	6183	WGS
+ERR7977938	Illumina NovaSeq 6000 paired end sequencing	ERX7544085	SC	6183	WGS
+ERR338973	Illumina HiSeq 2000 paired end sequencing	ERX311844	SC	6183	WGS
+ERR7977941	Illumina NovaSeq 6000 paired end sequencing	ERX7544088	SC	6183	WGS
+ERR7977944	Illumina NovaSeq 6000 paired end sequencing	ERX7544091	SC	6183	WGS
+ERR3467676	HiSeq X Ten paired end sequencing	ERX3489339	SC	6183	WGS
+ERR7977946	Illumina NovaSeq 6000 paired end sequencing	ERX7544093	SC	6183	WGS
+ERR460391	Illumina HiSeq 2000 paired end sequencing	ERX426732	SC	6183	WGS
+ERR7977950	Illumina NovaSeq 6000 paired end sequencing	ERX7544097	SC	6183	WGS
+ERR494727	Illumina HiSeq 2000 paired end sequencing	ERX460143	SC	6183	WGS
+ERR7977952	Illumina NovaSeq 6000 paired end sequencing	ERX7544099	SC	6183	WGS
+ERR494728	Illumina HiSeq 2000 paired end sequencing	ERX460144	SC	6183	WGS
+ERR7977955	Illumina NovaSeq 6000 paired end sequencing	ERX7544102	SC	6183	WGS
+ERR7977956	Illumina NovaSeq 6000 paired end sequencing	ERX7544103	SC	6183	WGS
+ERR5161996	HiSeq X Ten paired end sequencing	ERX4966959	SC	6183	WGS
+ERR539842	Illumina HiSeq 2500 paired end sequencing	ERX505045	SC	6183	WGS
+ERR7977957	Illumina NovaSeq 6000 paired end sequencing	ERX7544104	SC	6183	WGS
+ERR539845	Illumina HiSeq 2500 paired end sequencing	ERX505048	SC	6183	WGS
+ERR7977958	Illumina NovaSeq 6000 paired end sequencing	ERX7544105	SC	6183	WGS
+ERR7977959	Illumina NovaSeq 6000 paired end sequencing	ERX7544106	SC	6183	WGS
+ERR539846	Illumina HiSeq 2500 paired end sequencing	ERX505049	SC	6183	WGS
+ERR7977960	Illumina NovaSeq 6000 paired end sequencing	ERX7544107	SC	6183	WGS
+ERR7977961	Illumina NovaSeq 6000 paired end sequencing	ERX7544108	SC	6183	WGS
+ERR539847	Illumina HiSeq 2500 paired end sequencing	ERX505050	SC	6183	WGS
+ERR7977963	Illumina NovaSeq 6000 paired end sequencing	ERX7544110	SC	6183	WGS
+ERR7977966	Illumina NovaSeq 6000 paired end sequencing	ERX7544113	SC	6183	WGS
+ERR539848	Illumina HiSeq 2500 paired end sequencing	ERX505051	SC	6183	WGS
+ERR7977967	Illumina NovaSeq 6000 paired end sequencing	ERX7544114	SC	6183	WGS
+ERR7977968	Illumina NovaSeq 6000 paired end sequencing	ERX7544115	SC	6183	WGS
+ERR562990	Illumina HiSeq 2000 paired end sequencing	ERX522015	SC	6183	WGS
+ERR7977969	Illumina NovaSeq 6000 paired end sequencing	ERX7544116	SC	6183	WGS
+ERR7977970	Illumina NovaSeq 6000 paired end sequencing	ERX7544117	SC	6183	WGS
+ERR667072	Illumina HiSeq 2500 paired end sequencing	ERX622560	SC	6183	WGS
+ERR7977972	Illumina NovaSeq 6000 paired end sequencing	ERX7544119	SC	6183	WGS
+ERR7977973	Illumina NovaSeq 6000 paired end sequencing	ERX7544120	SC	6183	WGS
+ERR7977975	Illumina NovaSeq 6000 paired end sequencing	ERX7544122	SC	6183	WGS
+ERR667096	Illumina HiSeq 2500 paired end sequencing	ERX622584	SC	6183	WGS
+ERR6798063	Illumina MiSeq paired end sequencing	ERX6421738	SC	6183	WGS
+ERR6798065	Illumina MiSeq paired end sequencing	ERX6421740	SC	6183	WGS
+ERR7977979	Illumina NovaSeq 6000 paired end sequencing	ERX7544126	SC	6183	WGS
+ERR6798066	Illumina MiSeq paired end sequencing	ERX6421741	SC	6183	WGS
+ERR6798068	Illumina MiSeq paired end sequencing	ERX6421743	SC	6183	WGS
+ERR7977980	Illumina NovaSeq 6000 paired end sequencing	ERX7544127	SC	6183	WGS
+ERR7977981	Illumina NovaSeq 6000 paired end sequencing	ERX7544128	SC	6183	WGS
+ERR6798070	Illumina MiSeq paired end sequencing	ERX6421745	SC	6183	WGS
+ERR7977982	Illumina NovaSeq 6000 paired end sequencing	ERX7544129	SC	6183	WGS
+ERR6798072	Illumina MiSeq paired end sequencing	ERX6421747	SC	6183	WGS
+ERR7977984	Illumina NovaSeq 6000 paired end sequencing	ERX7544131	SC	6183	WGS
+ERR7977985	Illumina NovaSeq 6000 paired end sequencing	ERX7544132	SC	6183	WGS
+ERR6798075	Illumina MiSeq paired end sequencing	ERX6421750	SC	6183	WGS
+ERR7977989	Illumina NovaSeq 6000 paired end sequencing	ERX7544136	SC	6183	WGS
+ERR6798079	Illumina MiSeq paired end sequencing	ERX6421754	SC	6183	WGS
+ERR7977991	Illumina NovaSeq 6000 paired end sequencing	ERX7544138	SC	6183	WGS
+ERR7977992	Illumina NovaSeq 6000 paired end sequencing	ERX7544139	SC	6183	WGS
+ERR6798080	Illumina MiSeq paired end sequencing	ERX6421755	SC	6183	WGS
+ERR7977995	Illumina NovaSeq 6000 paired end sequencing	ERX7544142	SC	6183	WGS
+ERR6798081	Illumina MiSeq paired end sequencing	ERX6421756	SC	6183	WGS
+ERR7977996	Illumina NovaSeq 6000 paired end sequencing	ERX7544143	SC	6183	WGS
+ERR7977998	Illumina NovaSeq 6000 paired end sequencing	ERX7544145	SC	6183	WGS
+ERR6798082	Illumina MiSeq paired end sequencing	ERX6421757	SC	6183	WGS
+ERR7978001	Illumina NovaSeq 6000 paired end sequencing	ERX7544148	SC	6183	WGS
+ERR6798086	Illumina MiSeq paired end sequencing	ERX6421761	SC	6183	WGS
+ERR7978004	Illumina NovaSeq 6000 paired end sequencing	ERX7544151	SC	6183	WGS
+ERR7978005	Illumina NovaSeq 6000 paired end sequencing	ERX7544152	SC	6183	WGS
+ERR6798088	Illumina MiSeq paired end sequencing	ERX6421763	SC	6183	WGS
+ERR7978006	Illumina NovaSeq 6000 paired end sequencing	ERX7544153	SC	6183	WGS
+ERR6798089	Illumina MiSeq paired end sequencing	ERX6421764	SC	6183	WGS
+ERR7978009	Illumina NovaSeq 6000 paired end sequencing	ERX7544156	SC	6183	WGS
+ERR6798092	Illumina MiSeq paired end sequencing	ERX6421767	SC	6183	WGS
+ERR7978011	Illumina NovaSeq 6000 paired end sequencing	ERX7544158	SC	6183	WGS
+ERR6798093	Illumina MiSeq paired end sequencing	ERX6421768	SC	6183	WGS
+ERR7978013	Illumina NovaSeq 6000 paired end sequencing	ERX7544160	SC	6183	WGS
+ERR6798094	Illumina MiSeq paired end sequencing	ERX6421769	SC	6183	WGS
+ERR7978015	Illumina NovaSeq 6000 paired end sequencing	ERX7544162	SC	6183	WGS
+ERR7978017	Illumina NovaSeq 6000 paired end sequencing	ERX7544164	SC	6183	WGS
+ERR7978019	Illumina NovaSeq 6000 paired end sequencing	ERX7544166	SC	6183	WGS
+ERR6798099	Illumina MiSeq paired end sequencing	ERX6421774	SC	6183	WGS
+ERR7978020	Illumina NovaSeq 6000 paired end sequencing	ERX7544167	SC	6183	WGS
+ERR6798101	Illumina MiSeq paired end sequencing	ERX6421776	SC	6183	WGS
+ERR7978023	Illumina NovaSeq 6000 paired end sequencing	ERX7544170	SC	6183	WGS
+ERR7978027	Illumina NovaSeq 6000 paired end sequencing	ERX7544174	SC	6183	WGS
+ERR6798102	Illumina MiSeq paired end sequencing	ERX6421777	SC	6183	WGS
+ERR7978029	Illumina NovaSeq 6000 paired end sequencing	ERX7544176	SC	6183	WGS
+ERR7978030	Illumina NovaSeq 6000 paired end sequencing	ERX7544177	SC	6183	WGS
+ERR6798103	Illumina MiSeq paired end sequencing	ERX6421778	SC	6183	WGS
+ERR7978034	Illumina NovaSeq 6000 paired end sequencing	ERX7544181	SC	6183	WGS
+ERR7978035	Illumina NovaSeq 6000 paired end sequencing	ERX7544182	SC	6183	WGS
+ERR6798106	Illumina MiSeq paired end sequencing	ERX6421781	SC	6183	WGS
+ERR7978036	Illumina NovaSeq 6000 paired end sequencing	ERX7544183	SC	6183	WGS
+ERR6798108	Illumina MiSeq paired end sequencing	ERX6421783	SC	6183	WGS
+ERR7978037	Illumina NovaSeq 6000 paired end sequencing	ERX7544184	SC	6183	WGS
+ERR7978041	Illumina NovaSeq 6000 paired end sequencing	ERX7544188	SC	6183	WGS
+ERR6798109	Illumina MiSeq paired end sequencing	ERX6421784	SC	6183	WGS
+ERR7978043	Illumina NovaSeq 6000 paired end sequencing	ERX7544190	SC	6183	WGS
+ERR6798111	Illumina MiSeq paired end sequencing	ERX6421786	SC	6183	WGS
+ERR7978046	Illumina NovaSeq 6000 paired end sequencing	ERX7544193	SC	6183	WGS
+ERR7978047	Illumina NovaSeq 6000 paired end sequencing	ERX7544194	SC	6183	WGS
+ERR7978048	Illumina NovaSeq 6000 paired end sequencing	ERX7544195	SC	6183	WGS
+ERR7978049	Illumina NovaSeq 6000 paired end sequencing	ERX7544196	SC	6183	WGS
+ERR7978051	Illumina NovaSeq 6000 paired end sequencing	ERX7544198	SC	6183	WGS
+ERR7978054	Illumina NovaSeq 6000 paired end sequencing	ERX7544201	SC	6183	WGS
+ERR7978055	Illumina NovaSeq 6000 paired end sequencing	ERX7544202	SC	6183	WGS
+ERR7978056	Illumina NovaSeq 6000 paired end sequencing	ERX7544203	SC	6183	WGS
+ERR7978062	Illumina NovaSeq 6000 paired end sequencing	ERX7544209	SC	6183	WGS
+ERR7978063	Illumina NovaSeq 6000 paired end sequencing	ERX7544210	SC	6183	WGS
+ERR7978064	Illumina NovaSeq 6000 paired end sequencing	ERX7544211	SC	6183	WGS
+ERR7978065	Illumina NovaSeq 6000 paired end sequencing	ERX7544212	SC	6183	WGS
+ERR7978066	Illumina NovaSeq 6000 paired end sequencing	ERX7544213	SC	6183	WGS
+ERR7978067	Illumina NovaSeq 6000 paired end sequencing	ERX7544214	SC	6183	WGS
+ERR7978069	Illumina NovaSeq 6000 paired end sequencing	ERX7544216	SC	6183	WGS
+ERR7978074	Illumina NovaSeq 6000 paired end sequencing	ERX7544221	SC	6183	WGS
+ERR7978077	Illumina NovaSeq 6000 paired end sequencing	ERX7544224	SC	6183	WGS
+ERR7978082	Illumina NovaSeq 6000 paired end sequencing	ERX7544229	SC	6183	WGS
+ERR7978084	Illumina NovaSeq 6000 paired end sequencing	ERX7544231	SC	6183	WGS
+ERR7978085	Illumina NovaSeq 6000 paired end sequencing	ERX7544232	SC	6183	WGS
+ERR7978087	Illumina NovaSeq 6000 paired end sequencing	ERX7544234	SC	6183	WGS
+ERR7978088	Illumina NovaSeq 6000 paired end sequencing	ERX7544235	SC	6183	WGS
+ERR7978090	Illumina NovaSeq 6000 paired end sequencing	ERX7544237	SC	6183	WGS
+ERR7978091	Illumina NovaSeq 6000 paired end sequencing	ERX7544238	SC	6183	WGS
+ERR7978093	Illumina NovaSeq 6000 paired end sequencing	ERX7544240	SC	6183	WGS
+ERR7978095	Illumina NovaSeq 6000 paired end sequencing	ERX7544242	SC	6183	WGS
+ERR7978097	Illumina NovaSeq 6000 paired end sequencing	ERX7544244	SC	6183	WGS
+ERR7978098	Illumina NovaSeq 6000 paired end sequencing	ERX7544245	SC	6183	WGS
+ERR7978102	Illumina NovaSeq 6000 paired end sequencing	ERX7544249	SC	6183	WGS
+ERR7978104	Illumina NovaSeq 6000 paired end sequencing	ERX7544251	SC	6183	WGS
+ERR7978106	Illumina NovaSeq 6000 paired end sequencing	ERX7544253	SC	6183	WGS
+ERR7978107	Illumina NovaSeq 6000 paired end sequencing	ERX7544254	SC	6183	WGS
+ERR7978108	Illumina NovaSeq 6000 paired end sequencing	ERX7544255	SC	6183	WGS
+ERR7978109	Illumina NovaSeq 6000 paired end sequencing	ERX7544256	SC	6183	WGS
+ERR7978110	Illumina NovaSeq 6000 paired end sequencing	ERX7544257	SC	6183	WGS
+ERR7978111	Illumina NovaSeq 6000 paired end sequencing	ERX7544258	SC	6183	WGS
+ERR7978112	Illumina NovaSeq 6000 paired end sequencing	ERX7544259	SC	6183	WGS
+ERR7978118	Illumina NovaSeq 6000 paired end sequencing	ERX7544265	SC	6183	WGS
+ERR7978119	Illumina NovaSeq 6000 paired end sequencing	ERX7544266	SC	6183	WGS
+ERR7978120	Illumina NovaSeq 6000 paired end sequencing	ERX7544267	SC	6183	WGS
+ERR7978121	Illumina NovaSeq 6000 paired end sequencing	ERX7544268	SC	6183	WGS
+ERR7978124	Illumina NovaSeq 6000 paired end sequencing	ERX7544271	SC	6183	WGS
+ERR7978127	Illumina NovaSeq 6000 paired end sequencing	ERX7544274	SC	6183	WGS
+ERR7978128	Illumina NovaSeq 6000 paired end sequencing	ERX7544275	SC	6183	WGS
+ERR7978137	Illumina NovaSeq 6000 paired end sequencing	ERX7544284	SC	6183	WGS
+ERR7978139	Illumina NovaSeq 6000 paired end sequencing	ERX7544286	SC	6183	WGS
+ERR7978145	Illumina NovaSeq 6000 paired end sequencing	ERX7544292	SC	6183	WGS
+ERR7978146	Illumina NovaSeq 6000 paired end sequencing	ERX7544293	SC	6183	WGS
+ERR7978147	Illumina NovaSeq 6000 paired end sequencing	ERX7544294	SC	6183	WGS
+ERR7978149	Illumina NovaSeq 6000 paired end sequencing	ERX7544296	SC	6183	WGS
+ERR7978150	Illumina NovaSeq 6000 paired end sequencing	ERX7544297	SC	6183	WGS
+ERR7978152	Illumina NovaSeq 6000 paired end sequencing	ERX7544299	SC	6183	WGS
+ERR7978154	Illumina NovaSeq 6000 paired end sequencing	ERX7544301	SC	6183	WGS
+ERR7978155	Illumina NovaSeq 6000 paired end sequencing	ERX7544302	SC	6183	WGS
+ERR7978158	Illumina NovaSeq 6000 paired end sequencing	ERX7544305	SC	6183	WGS
+ERR7978160	Illumina NovaSeq 6000 paired end sequencing	ERX7544307	SC	6183	WGS
+ERR7978161	Illumina NovaSeq 6000 paired end sequencing	ERX7544308	SC	6183	WGS
+ERR7978162	Illumina NovaSeq 6000 paired end sequencing	ERX7544309	SC	6183	WGS
+ERR7978165	Illumina NovaSeq 6000 paired end sequencing	ERX7544312	SC	6183	WGS
+ERR7978166	Illumina NovaSeq 6000 paired end sequencing	ERX7544313	SC	6183	WGS
+ERR7978169	Illumina NovaSeq 6000 paired end sequencing	ERX7544316	SC	6183	WGS
+ERR7978171	Illumina NovaSeq 6000 paired end sequencing	ERX7544318	SC	6183	WGS
+ERR7978174	Illumina NovaSeq 6000 paired end sequencing	ERX7544321	SC	6183	WGS
+ERR7978175	Illumina NovaSeq 6000 paired end sequencing	ERX7544322	SC	6183	WGS
+ERR7978176	Illumina NovaSeq 6000 paired end sequencing	ERX7544323	SC	6183	WGS
+ERR7978178	Illumina NovaSeq 6000 paired end sequencing	ERX7544325	SC	6183	WGS
+ERR7978179	Illumina NovaSeq 6000 paired end sequencing	ERX7544326	SC	6183	WGS
+ERR7978181	Illumina NovaSeq 6000 paired end sequencing	ERX7544328	SC	6183	WGS
+ERR7978183	Illumina NovaSeq 6000 paired end sequencing	ERX7544330	SC	6183	WGS
+ERR7978185	Illumina NovaSeq 6000 paired end sequencing	ERX7544332	SC	6183	WGS
+ERR7978190	Illumina NovaSeq 6000 paired end sequencing	ERX7544337	SC	6183	WGS
+ERR7978193	Illumina NovaSeq 6000 paired end sequencing	ERX7544340	SC	6183	WGS
+ERR7978195	Illumina NovaSeq 6000 paired end sequencing	ERX7544342	SC	6183	WGS
+ERR7978198	Illumina NovaSeq 6000 paired end sequencing	ERX7544345	SC	6183	WGS
+ERR7978199	Illumina NovaSeq 6000 paired end sequencing	ERX7544346	SC	6183	WGS
+ERR7978202	Illumina NovaSeq 6000 paired end sequencing	ERX7544349	SC	6183	WGS
+ERR6798112	Illumina MiSeq paired end sequencing	ERX6421787	SC	6183	WGS
+ERR7978203	Illumina NovaSeq 6000 paired end sequencing	ERX7544350	SC	6183	WGS
+ERR6798115	Illumina MiSeq paired end sequencing	ERX6421790	SC	6183	WGS
+ERR6798117	Illumina MiSeq paired end sequencing	ERX6421792	SC	6183	WGS
+ERR7978205	Illumina NovaSeq 6000 paired end sequencing	ERX7544352	SC	6183	WGS
+ERR6798118	Illumina MiSeq paired end sequencing	ERX6421793	SC	6183	WGS
+ERR7978206	Illumina NovaSeq 6000 paired end sequencing	ERX7544353	SC	6183	WGS
+ERR6798119	Illumina MiSeq paired end sequencing	ERX6421794	SC	6183	WGS
+ERR7978207	Illumina NovaSeq 6000 paired end sequencing	ERX7544354	SC	6183	WGS
+ERR6798121	Illumina MiSeq paired end sequencing	ERX6421796	SC	6183	WGS
+ERR7978208	Illumina NovaSeq 6000 paired end sequencing	ERX7544355	SC	6183	WGS
+ERR6798122	Illumina MiSeq paired end sequencing	ERX6421797	SC	6183	WGS
+ERR7978209	Illumina NovaSeq 6000 paired end sequencing	ERX7544356	SC	6183	WGS
+ERR6798124	Illumina MiSeq paired end sequencing	ERX6421799	SC	6183	WGS
+ERR7978210	Illumina NovaSeq 6000 paired end sequencing	ERX7544357	SC	6183	WGS
+ERR6798125	Illumina MiSeq paired end sequencing	ERX6421800	SC	6183	WGS
+ERR7978213	Illumina NovaSeq 6000 paired end sequencing	ERX7544360	SC	6183	WGS
+ERR6798130	Illumina MiSeq paired end sequencing	ERX6421805	SC	6183	WGS
+ERR7978215	Illumina NovaSeq 6000 paired end sequencing	ERX7544362	SC	6183	WGS
+ERR6798131	Illumina MiSeq paired end sequencing	ERX6421806	SC	6183	WGS
+ERR7978216	Illumina NovaSeq 6000 paired end sequencing	ERX7544363	SC	6183	WGS
+ERR997461	Illumina HiSeq 2000 paired end sequencing	ERX1076497	SC	6183	WGS
+ERR6798132	Illumina MiSeq paired end sequencing	ERX6421807	SC	6183	WGS
+ERR6798135	Illumina MiSeq paired end sequencing	ERX6421810	SC	6183	WGS
+SRR12780909	Illumina HiSeq 2500 sequencing; Genome of Schistosoma mansoni adults: F0 females (cross B  SmBRE2);Genome of Schistosoma mansoni adults: F0 females (cross B  SmBRE2)	SRX9250217	SUB8146048	6183	WGS
+ERR6798140	Illumina MiSeq paired end sequencing	ERX6421815	SC	6183	WGS
+ERR6798143	Illumina MiSeq paired end sequencing	ERX6421818	SC	6183	WGS
+ERR6798145	Illumina MiSeq paired end sequencing	ERX6421820	SC	6183	WGS
+SRR12780926	Genome of Schistosoma mansoni adults: F0 females (cross A  SmLE19);Illumina HiSeq 2500 sequencing; Genome of Schistosoma mansoni adults: F0 females (cross A  SmLE19)	SRX9250200	SUB8146048	6183	WGS
+ERR6798147	Illumina MiSeq paired end sequencing	ERX6421822	SC	6183	WGS
+SRR13624155	Genome of Schistosoma mansoni: pool of sensitive males to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of sensitive males to praziquantel	SRX10017247	SUB9023758	6183	WGS
+ERR6798148	Illumina MiSeq paired end sequencing	ERX6421823	SC	6183	WGS
+SRR13624156	Genome of Schistosoma mansoni: pool of sensitive males to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of sensitive males to praziquantel	SRX10017246	SUB9023758	6183	WGS
+ERR6798149	Illumina MiSeq paired end sequencing	ERX6421824	SC	6183	WGS
+SRR13624157	HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of resistant males to praziquantel;Genome of Schistosoma mansoni: pool of resistant males to praziquantel	SRX10017245	SUB9023758	6183	WGS
+ERR6798153	Illumina MiSeq paired end sequencing	ERX6421828	SC	6183	WGS
+ERR6798154	Illumina MiSeq paired end sequencing	ERX6421829	SC	6183	WGS
+SRR13624158	HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of resistant males to praziquantel;Genome of Schistosoma mansoni: pool of resistant males to praziquantel	SRX10017244	SUB9023758	6183	WGS
+SRR13624159	HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of resistant males to praziquantel;Genome of Schistosoma mansoni: pool of resistant males to praziquantel	SRX10017243	SUB9023758	6183	WGS
+ERR6798155	Illumina MiSeq paired end sequencing	ERX6421830	SC	6183	WGS
+SRR13624161	HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of resistant males to praziquantel;Genome of Schistosoma mansoni: pool of resistant males to praziquantel	SRX10017241	SUB9023758	6183	WGS
+ERR6798156	Illumina MiSeq paired end sequencing	ERX6421831	SC	6183	WGS
+SRR13624163	Genome of Schistosoma mansoni: pool of sensitive males to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of sensitive males to praziquantel	SRX10017239	SUB9023758	6183	WGS
+ERR6798159	Illumina MiSeq paired end sequencing	ERX6421834	SC	6183	WGS
+SRR648402	Illumina HiSeq 2000 paired end sequencing; S. mansoni strain GH2 genomic DNA sequencing;S. mansoni strain GH2 genomic DNA sequencing	SRX212154	University of Perpignan	6183	WGS
+ERR6798160	Illumina MiSeq paired end sequencing	ERX6421835	SC	6183	WGS
+ERR6798165	Illumina MiSeq paired end sequencing	ERX6421840	SC	6183	WGS
+ERR6798166	Illumina MiSeq paired end sequencing	ERX6421841	SC	6183	WGS
+ERR6798169	Illumina MiSeq paired end sequencing	ERX6421844	SC	6183	WGS
+ERR6798170	Illumina MiSeq paired end sequencing	ERX6421845	SC	6183	WGS
+ERR6798174	Illumina MiSeq paired end sequencing	ERX6421849	SC	6183	WGS
+ERR6798176	Illumina MiSeq paired end sequencing	ERX6421851	SC	6183	WGS
+ERR6798177	Illumina MiSeq paired end sequencing	ERX6421852	SC	6183	WGS
+ERR6798179	Illumina MiSeq paired end sequencing	ERX6421854	SC	6183	WGS
+ERR6798182	Illumina MiSeq paired end sequencing	ERX6421857	SC	6183	WGS
+ERR6798183	Illumina MiSeq paired end sequencing	ERX6421858	SC	6183	WGS
+ERR6798184	Illumina MiSeq paired end sequencing	ERX6421859	SC	6183	WGS
+ERR6798189	Illumina MiSeq paired end sequencing	ERX6421864	SC	6183	WGS
+ERR6798190	Illumina MiSeq paired end sequencing	ERX6421865	SC	6183	WGS
+ERR6798191	Illumina MiSeq paired end sequencing	ERX6421866	SC	6183	WGS
+ERR6798192	Illumina MiSeq paired end sequencing	ERX6421867	SC	6183	WGS
+ERR6798194	Illumina MiSeq paired end sequencing	ERX6421869	SC	6183	WGS
+ERR6798196	Illumina MiSeq paired end sequencing	ERX6421871	SC	6183	WGS
+ERR6798199	Illumina MiSeq paired end sequencing	ERX6421874	SC	6183	WGS
+ERR6798200	Illumina MiSeq paired end sequencing	ERX6421875	SC	6183	WGS
+ERR6798201	Illumina MiSeq paired end sequencing	ERX6421876	SC	6183	WGS
+ERR6798202	Illumina MiSeq paired end sequencing	ERX6421877	SC	6183	WGS
+ERR6798203	Illumina MiSeq paired end sequencing	ERX6421878	SC	6183	WGS
+ERR6798204	Illumina MiSeq paired end sequencing	ERX6421879	SC	6183	WGS
+ERR6798205	Illumina MiSeq paired end sequencing	ERX6421880	SC	6183	WGS
+ERR6798206	Illumina MiSeq paired end sequencing	ERX6421881	SC	6183	WGS
+ERR6798208	Illumina MiSeq paired end sequencing	ERX6421883	SC	6183	WGS
+ERR6798210	Illumina MiSeq paired end sequencing	ERX6421885	SC	6183	WGS
+ERR6798211	Illumina MiSeq paired end sequencing	ERX6421886	SC	6183	WGS
+ERR6798213	Illumina MiSeq paired end sequencing	ERX6421888	SC	6183	WGS
+ERR6798214	Illumina MiSeq paired end sequencing	ERX6421889	SC	6183	WGS
+ERR6798215	Illumina MiSeq paired end sequencing	ERX6421890	SC	6183	WGS
+ERR6798216	Illumina MiSeq paired end sequencing	ERX6421891	SC	6183	WGS
+ERR6798217	Illumina MiSeq paired end sequencing	ERX6421892	SC	6183	WGS
+ERR6798219	Illumina MiSeq paired end sequencing	ERX6421894	SC	6183	WGS
+ERR6798225	Illumina MiSeq paired end sequencing	ERX6421900	SC	6183	WGS
+ERR6798226	Illumina MiSeq paired end sequencing	ERX6421901	SC	6183	WGS
+ERR6798235	Illumina MiSeq paired end sequencing	ERX6421910	SC	6183	WGS
+ERR6798236	Illumina MiSeq paired end sequencing	ERX6421911	SC	6183	WGS
+ERR6798240	Illumina MiSeq paired end sequencing	ERX6421915	SC	6183	WGS
+ERR6798242	Illumina MiSeq paired end sequencing	ERX6421917	SC	6183	WGS
+ERR6798243	Illumina MiSeq paired end sequencing	ERX6421918	SC	6183	WGS
+ERR6798244	Illumina MiSeq paired end sequencing	ERX6421919	SC	6183	WGS
+ERR6798247	Illumina MiSeq paired end sequencing	ERX6421922	SC	6183	WGS
+ERR6798249	Illumina MiSeq paired end sequencing	ERX6421924	SC	6183	WGS
+ERR6798251	Illumina MiSeq paired end sequencing	ERX6421926	SC	6183	WGS
+ERR6798252	Illumina MiSeq paired end sequencing	ERX6421927	SC	6183	WGS
+ERR6798253	Illumina MiSeq paired end sequencing	ERX6421928	SC	6183	WGS
+ERR6798256	Illumina MiSeq paired end sequencing	ERX6421931	SC	6183	WGS
+ERR6798261	Illumina MiSeq paired end sequencing	ERX6421936	SC	6183	WGS
+ERR6798264	Illumina MiSeq paired end sequencing	ERX6421939	SC	6183	WGS
+ERR6798265	Illumina MiSeq paired end sequencing	ERX6421940	SC	6183	WGS
+ERR6798268	Illumina MiSeq paired end sequencing	ERX6421943	SC	6183	WGS
+ERR6798269	Illumina MiSeq paired end sequencing	ERX6421944	SC	6183	WGS
+ERR6798270	Illumina MiSeq paired end sequencing	ERX6421945	SC	6183	WGS
+ERR6798271	Illumina MiSeq paired end sequencing	ERX6421946	SC	6183	WGS
+ERR6798272	Illumina MiSeq paired end sequencing	ERX6421947	SC	6183	WGS
+ERR6798276	Illumina MiSeq paired end sequencing	ERX6421951	SC	6183	WGS
+ERR6798277	Illumina MiSeq paired end sequencing	ERX6421952	SC	6183	WGS
+ERR6798279	Illumina MiSeq paired end sequencing	ERX6421954	SC	6183	WGS
+ERR6798281	Illumina MiSeq paired end sequencing	ERX6421956	SC	6183	WGS
+ERR6798282	Illumina MiSeq paired end sequencing	ERX6421957	SC	6183	WGS
+ERR6798284	Illumina MiSeq paired end sequencing	ERX6421959	SC	6183	WGS
+ERR6798286	Illumina MiSeq paired end sequencing	ERX6421961	SC	6183	WGS
+ERR6798287	Illumina MiSeq paired end sequencing	ERX6421962	SC	6183	WGS
+ERR6798289	Illumina MiSeq paired end sequencing	ERX6421964	SC	6183	WGS
+ERR6798290	Illumina MiSeq paired end sequencing	ERX6421965	SC	6183	WGS
+ERR6798292	Illumina MiSeq paired end sequencing	ERX6421967	SC	6183	WGS
+ERR6798294	Illumina MiSeq paired end sequencing	ERX6421969	SC	6183	WGS
+ERR6798297	Illumina MiSeq paired end sequencing	ERX6421972	SC	6183	WGS
+ERR6798298	Illumina MiSeq paired end sequencing	ERX6421973	SC	6183	WGS
+ERR6798299	Illumina MiSeq paired end sequencing	ERX6421974	SC	6183	WGS
+ERR6798302	Illumina MiSeq paired end sequencing	ERX6421977	SC	6183	WGS
+ERR6798303	Illumina MiSeq paired end sequencing	ERX6421978	SC	6183	WGS
+ERR6798306	Illumina MiSeq paired end sequencing	ERX6421981	SC	6183	WGS
+ERR6798308	Illumina MiSeq paired end sequencing	ERX6421983	SC	6183	WGS
+ERR6798309	Illumina MiSeq paired end sequencing	ERX6421984	SC	6183	WGS
+ERR6798311	Illumina MiSeq paired end sequencing	ERX6421986	SC	6183	WGS
+ERR6798312	Illumina MiSeq paired end sequencing	ERX6421987	SC	6183	WGS
+ERR6798313	Illumina MiSeq paired end sequencing	ERX6421988	SC	6183	WGS
+ERR6798319	Illumina MiSeq paired end sequencing	ERX6421994	SC	6183	WGS
+ERR6798324	Illumina MiSeq paired end sequencing	ERX6421999	SC	6183	WGS
+ERR6798325	Illumina MiSeq paired end sequencing	ERX6422000	SC	6183	WGS
+ERR6798328	Illumina MiSeq paired end sequencing	ERX6422003	SC	6183	WGS
+ERR6798329	Illumina MiSeq paired end sequencing	ERX6422004	SC	6183	WGS
+ERR6798330	Illumina MiSeq paired end sequencing	ERX6422005	SC	6183	WGS
+ERR6798331	Illumina MiSeq paired end sequencing	ERX6422006	SC	6183	WGS
+ERR6798334	Illumina MiSeq paired end sequencing	ERX6422009	SC	6183	WGS
+ERR6798340	Illumina MiSeq paired end sequencing	ERX6422015	SC	6183	WGS
+ERR6798341	Illumina MiSeq paired end sequencing	ERX6422016	SC	6183	WGS
+ERR6798342	Illumina MiSeq paired end sequencing	ERX6422017	SC	6183	WGS
+ERR6798344	Illumina MiSeq paired end sequencing	ERX6422019	SC	6183	WGS
+ERR6798346	Illumina MiSeq paired end sequencing	ERX6422021	SC	6183	WGS
+ERR6798347	Illumina MiSeq paired end sequencing	ERX6422022	SC	6183	WGS
+ERR6798353	Illumina MiSeq paired end sequencing	ERX6422028	SC	6183	WGS
+ERR6798360	Illumina MiSeq paired end sequencing	ERX6422035	SC	6183	WGS
+ERR6798364	Illumina MiSeq paired end sequencing	ERX6422039	SC	6183	WGS
+ERR6798367	Illumina MiSeq paired end sequencing	ERX6422042	SC	6183	WGS
+ERR6798368	Illumina MiSeq paired end sequencing	ERX6422043	SC	6183	WGS
+ERR6798369	Illumina MiSeq paired end sequencing	ERX6422044	SC	6183	WGS
+ERR6798373	Illumina NovaSeq 6000 paired end sequencing	ERX6422048	SC	6183	WGS
+ERR6798374	Illumina NovaSeq 6000 paired end sequencing	ERX6422049	SC	6183	WGS
+ERR6798377	Illumina NovaSeq 6000 paired end sequencing	ERX6422052	SC	6183	WGS
+ERR6798381	Illumina NovaSeq 6000 paired end sequencing	ERX6422056	SC	6183	WGS
+ERR6798382	Illumina NovaSeq 6000 paired end sequencing	ERX6422057	SC	6183	WGS
+ERR6798383	Illumina NovaSeq 6000 paired end sequencing	ERX6422058	SC	6183	WGS
+ERR6798386	Illumina NovaSeq 6000 paired end sequencing	ERX6422061	SC	6183	WGS
+ERR6798388	Illumina NovaSeq 6000 paired end sequencing	ERX6422063	SC	6183	WGS
+ERR6798389	Illumina NovaSeq 6000 paired end sequencing	ERX6422064	SC	6183	WGS
+ERR6798392	Illumina NovaSeq 6000 paired end sequencing	ERX6422067	SC	6183	WGS
+ERR6798394	Illumina NovaSeq 6000 paired end sequencing	ERX6422069	SC	6183	WGS
+ERR6798395	Illumina NovaSeq 6000 paired end sequencing	ERX6422070	SC	6183	WGS
+ERR6798397	Illumina NovaSeq 6000 paired end sequencing	ERX6422072	SC	6183	WGS
+ERR6798400	Illumina NovaSeq 6000 paired end sequencing	ERX6422075	SC	6183	WGS
+ERR6798402	Illumina NovaSeq 6000 paired end sequencing	ERX6422077	SC	6183	WGS
+ERR6798403	Illumina NovaSeq 6000 paired end sequencing	ERX6422078	SC	6183	WGS
+ERR6798408	Illumina NovaSeq 6000 paired end sequencing	ERX6422083	SC	6183	WGS
+ERR6798409	Illumina NovaSeq 6000 paired end sequencing	ERX6422084	SC	6183	WGS
+ERR6798410	Illumina NovaSeq 6000 paired end sequencing	ERX6422085	SC	6183	WGS
+ERR6798411	Illumina NovaSeq 6000 paired end sequencing	ERX6422086	SC	6183	WGS
+ERR6798412	Illumina NovaSeq 6000 paired end sequencing	ERX6422087	SC	6183	WGS
+ERR6798413	Illumina NovaSeq 6000 paired end sequencing	ERX6422088	SC	6183	WGS
+ERR6798414	Illumina NovaSeq 6000 paired end sequencing	ERX6422089	SC	6183	WGS
+ERR6798416	Illumina NovaSeq 6000 paired end sequencing	ERX6422091	SC	6183	WGS
+ERR6798417	Illumina NovaSeq 6000 paired end sequencing	ERX6422092	SC	6183	WGS
+ERR6798419	Illumina NovaSeq 6000 paired end sequencing	ERX6422094	SC	6183	WGS
+ERR6798420	Illumina NovaSeq 6000 paired end sequencing	ERX6422095	SC	6183	WGS
+ERR6798421	Illumina NovaSeq 6000 paired end sequencing	ERX6422096	SC	6183	WGS
+ERR6798425	Illumina NovaSeq 6000 paired end sequencing	ERX6422100	SC	6183	WGS
+ERR6798427	Illumina NovaSeq 6000 paired end sequencing	ERX6422102	SC	6183	WGS
+ERR6798428	Illumina NovaSeq 6000 paired end sequencing	ERX6422103	SC	6183	WGS
+ERR6798430	Illumina NovaSeq 6000 paired end sequencing	ERX6422105	SC	6183	WGS
+ERR6798435	Illumina NovaSeq 6000 paired end sequencing	ERX6422110	SC	6183	WGS
+ERR6798436	Illumina NovaSeq 6000 paired end sequencing	ERX6422111	SC	6183	WGS
+ERR6798437	Illumina NovaSeq 6000 paired end sequencing	ERX6422112	SC	6183	WGS
+ERR6798443	Illumina NovaSeq 6000 paired end sequencing	ERX6422118	SC	6183	WGS
+ERR6798445	Illumina NovaSeq 6000 paired end sequencing	ERX6422120	SC	6183	WGS
+ERR6798446	Illumina NovaSeq 6000 paired end sequencing	ERX6422121	SC	6183	WGS
+ERR6798452	Illumina NovaSeq 6000 paired end sequencing	ERX6422127	SC	6183	WGS
+ERR6798455	Illumina NovaSeq 6000 paired end sequencing	ERX6422130	SC	6183	WGS
+ERR6798460	Illumina NovaSeq 6000 paired end sequencing	ERX6422135	SC	6183	WGS
+ERR6798466	Illumina NovaSeq 6000 paired end sequencing	ERX6422141	SC	6183	WGS
+ERR6798467	Illumina NovaSeq 6000 paired end sequencing	ERX6422142	SC	6183	WGS
+ERR6798468	Illumina NovaSeq 6000 paired end sequencing	ERX6422143	SC	6183	WGS
+ERR6798469	Illumina NovaSeq 6000 paired end sequencing	ERX6422144	SC	6183	WGS
+ERR6798470	Illumina NovaSeq 6000 paired end sequencing	ERX6422145	SC	6183	WGS
+ERR6798471	Illumina NovaSeq 6000 paired end sequencing	ERX6422146	SC	6183	WGS
+ERR6798472	Illumina NovaSeq 6000 paired end sequencing	ERX6422147	SC	6183	WGS
+ERR6798473	Illumina NovaSeq 6000 paired end sequencing	ERX6422148	SC	6183	WGS
+ERR6798475	Illumina NovaSeq 6000 paired end sequencing	ERX6422150	SC	6183	WGS
+ERR6798478	Illumina NovaSeq 6000 paired end sequencing	ERX6422153	SC	6183	WGS
+ERR6798481	Illumina NovaSeq 6000 paired end sequencing	ERX6422156	SC	6183	WGS
+ERR6798490	Illumina NovaSeq 6000 paired end sequencing	ERX6422165	SC	6183	WGS
+ERR6798493	Illumina NovaSeq 6000 paired end sequencing	ERX6422168	SC	6183	WGS
+ERR6798495	Illumina NovaSeq 6000 paired end sequencing	ERX6422170	SC	6183	WGS
+ERR6798496	Illumina NovaSeq 6000 paired end sequencing	ERX6422171	SC	6183	WGS
+ERR6798497	Illumina NovaSeq 6000 paired end sequencing	ERX6422172	SC	6183	WGS
+ERR6798500	Illumina NovaSeq 6000 paired end sequencing	ERX6422175	SC	6183	WGS
+ERR6798501	Illumina NovaSeq 6000 paired end sequencing	ERX6422176	SC	6183	WGS
+ERR6798502	Illumina NovaSeq 6000 paired end sequencing	ERX6422177	SC	6183	WGS
+ERR6798504	Illumina NovaSeq 6000 paired end sequencing	ERX6422179	SC	6183	WGS
+ERR6798510	Illumina NovaSeq 6000 paired end sequencing	ERX6422185	SC	6183	WGS
+ERR6798512	Illumina NovaSeq 6000 paired end sequencing	ERX6422187	SC	6183	WGS
+ERR6798513	Illumina NovaSeq 6000 paired end sequencing	ERX6422188	SC	6183	WGS
+ERR6798514	Illumina NovaSeq 6000 paired end sequencing	ERX6422189	SC	6183	WGS
+ERR6798518	Illumina NovaSeq 6000 paired end sequencing	ERX6422193	SC	6183	WGS
+ERR6798519	Illumina NovaSeq 6000 paired end sequencing	ERX6422194	SC	6183	WGS
+ERR6798521	Illumina NovaSeq 6000 paired end sequencing	ERX6422196	SC	6183	WGS
+ERR6798525	Illumina NovaSeq 6000 paired end sequencing	ERX6422200	SC	6183	WGS
+ERR6798526	Illumina NovaSeq 6000 paired end sequencing	ERX6422201	SC	6183	WGS
+ERR6798527	Illumina NovaSeq 6000 paired end sequencing	ERX6422202	SC	6183	WGS
+ERR6798528	Illumina NovaSeq 6000 paired end sequencing	ERX6422203	SC	6183	WGS
+ERR6798532	Illumina NovaSeq 6000 paired end sequencing	ERX6422207	SC	6183	WGS
+ERR6798533	Illumina NovaSeq 6000 paired end sequencing	ERX6422208	SC	6183	WGS
+ERR6798534	Illumina NovaSeq 6000 paired end sequencing	ERX6422209	SC	6183	WGS
+ERR6798535	Illumina NovaSeq 6000 paired end sequencing	ERX6422210	SC	6183	WGS
+ERR6798537	Illumina NovaSeq 6000 paired end sequencing	ERX6422212	SC	6183	WGS
+ERR6798539	Illumina NovaSeq 6000 paired end sequencing	ERX6422214	SC	6183	WGS
+ERR6798540	Illumina NovaSeq 6000 paired end sequencing	ERX6422215	SC	6183	WGS
+ERR6798542	Illumina NovaSeq 6000 paired end sequencing	ERX6422217	SC	6183	WGS
+ERR6798544	Illumina NovaSeq 6000 paired end sequencing	ERX6422219	SC	6183	WGS
+ERR697169	Illumina MiSeq paired end sequencing	ERX641608	SC	6183	WGS
+ERR7977662	Illumina MiSeq paired end sequencing	ERX7543809	SC	6183	WGS
+ERR7977664	Illumina MiSeq paired end sequencing	ERX7543811	SC	6183	WGS
+ERR7977666	Illumina MiSeq paired end sequencing	ERX7543813	SC	6183	WGS
+ERR7977667	Illumina MiSeq paired end sequencing	ERX7543814	SC	6183	WGS
+ERR7977668	Illumina MiSeq paired end sequencing	ERX7543815	SC	6183	WGS
+ERR7977670	Illumina MiSeq paired end sequencing	ERX7543817	SC	6183	WGS
+ERR7977672	Illumina MiSeq paired end sequencing	ERX7543819	SC	6183	WGS
+ERR7977673	Illumina MiSeq paired end sequencing	ERX7543820	SC	6183	WGS
+ERR7977674	Illumina MiSeq paired end sequencing	ERX7543821	SC	6183	WGS
+ERR7977675	Illumina MiSeq paired end sequencing	ERX7543822	SC	6183	WGS
+ERR7977677	Illumina MiSeq paired end sequencing	ERX7543824	SC	6183	WGS
+ERR7977679	Illumina MiSeq paired end sequencing	ERX7543826	SC	6183	WGS
+ERR7977683	Illumina MiSeq paired end sequencing	ERX7543830	SC	6183	WGS
+ERR7977688	Illumina MiSeq paired end sequencing	ERX7543835	SC	6183	WGS
+ERR7977691	Illumina MiSeq paired end sequencing	ERX7543838	SC	6183	WGS
+ERR7977693	Illumina MiSeq paired end sequencing	ERX7543840	SC	6183	WGS
+ERR7977697	Illumina MiSeq paired end sequencing	ERX7543844	SC	6183	WGS
+ERR7977698	Illumina MiSeq paired end sequencing	ERX7543845	SC	6183	WGS
+ERR7977700	Illumina MiSeq paired end sequencing	ERX7543847	SC	6183	WGS
+ERR7977702	Illumina MiSeq paired end sequencing	ERX7543849	SC	6183	WGS
+ERR7977705	Illumina MiSeq paired end sequencing	ERX7543852	SC	6183	WGS
+ERR7977707	Illumina MiSeq paired end sequencing	ERX7543854	SC	6183	WGS
+ERR7977709	Illumina MiSeq paired end sequencing	ERX7543856	SC	6183	WGS
+ERR7977710	Illumina MiSeq paired end sequencing	ERX7543857	SC	6183	WGS
+ERR7977711	Illumina MiSeq paired end sequencing	ERX7543858	SC	6183	WGS
+ERR7977714	Illumina MiSeq paired end sequencing	ERX7543861	SC	6183	WGS
+ERR7977716	Illumina MiSeq paired end sequencing	ERX7543863	SC	6183	WGS
+ERR7977717	Illumina MiSeq paired end sequencing	ERX7543864	SC	6183	WGS
+ERR7977719	Illumina MiSeq paired end sequencing	ERX7543866	SC	6183	WGS
+ERR7977721	Illumina MiSeq paired end sequencing	ERX7543868	SC	6183	WGS
+ERR7977724	Illumina MiSeq paired end sequencing	ERX7543871	SC	6183	WGS
+ERR7977725	Illumina MiSeq paired end sequencing	ERX7543872	SC	6183	WGS
+ERR7977729	Illumina MiSeq paired end sequencing	ERX7543876	SC	6183	WGS
+ERR7977730	Illumina MiSeq paired end sequencing	ERX7543877	SC	6183	WGS
+ERR7977731	Illumina MiSeq paired end sequencing	ERX7543878	SC	6183	WGS
+ERR7977733	Illumina MiSeq paired end sequencing	ERX7543880	SC	6183	WGS
+ERR7977735	Illumina MiSeq paired end sequencing	ERX7543882	SC	6183	WGS
+ERR7977738	Illumina MiSeq paired end sequencing	ERX7543885	SC	6183	WGS
+ERR7977742	Illumina MiSeq paired end sequencing	ERX7543889	SC	6183	WGS
+ERR7977744	Illumina MiSeq paired end sequencing	ERX7543891	SC	6183	WGS
+ERR7977746	Illumina MiSeq paired end sequencing	ERX7543893	SC	6183	WGS
+ERR7977747	Illumina MiSeq paired end sequencing	ERX7543894	SC	6183	WGS
+ERR7977749	Illumina MiSeq paired end sequencing	ERX7543896	SC	6183	WGS
+ERR7977752	Illumina MiSeq paired end sequencing	ERX7543899	SC	6183	WGS
+ERR7977753	Illumina MiSeq paired end sequencing	ERX7543900	SC	6183	WGS
+ERR7977754	Illumina NovaSeq 6000 paired end sequencing	ERX7543901	SC	6183	WGS
+ERR7977755	Illumina NovaSeq 6000 paired end sequencing	ERX7543902	SC	6183	WGS
+ERR7977756	Illumina NovaSeq 6000 paired end sequencing	ERX7543903	SC	6183	WGS
+ERR7977759	Illumina NovaSeq 6000 paired end sequencing	ERX7543906	SC	6183	WGS
+ERR7977761	Illumina NovaSeq 6000 paired end sequencing	ERX7543908	SC	6183	WGS
+ERR7977762	Illumina NovaSeq 6000 paired end sequencing	ERX7543909	SC	6183	WGS
+ERR7977764	Illumina NovaSeq 6000 paired end sequencing	ERX7543911	SC	6183	WGS
+ERR7977765	Illumina NovaSeq 6000 paired end sequencing	ERX7543912	SC	6183	WGS
+ERR7977767	Illumina NovaSeq 6000 paired end sequencing	ERX7543914	SC	6183	WGS
+ERR7977771	Illumina NovaSeq 6000 paired end sequencing	ERX7543918	SC	6183	WGS
+ERR7977774	Illumina NovaSeq 6000 paired end sequencing	ERX7543921	SC	6183	WGS
+ERR7977776	Illumina NovaSeq 6000 paired end sequencing	ERX7543923	SC	6183	WGS
+ERR7977777	Illumina NovaSeq 6000 paired end sequencing	ERX7543924	SC	6183	WGS
+ERR7977780	Illumina NovaSeq 6000 paired end sequencing	ERX7543927	SC	6183	WGS
+ERR7977781	Illumina NovaSeq 6000 paired end sequencing	ERX7543928	SC	6183	WGS
+ERR7977787	Illumina NovaSeq 6000 paired end sequencing	ERX7543934	SC	6183	WGS
+ERR7977788	Illumina NovaSeq 6000 paired end sequencing	ERX7543935	SC	6183	WGS
+ERR7977789	Illumina NovaSeq 6000 paired end sequencing	ERX7543936	SC	6183	WGS
+ERR7977790	Illumina NovaSeq 6000 paired end sequencing	ERX7543937	SC	6183	WGS
+ERR7977791	Illumina NovaSeq 6000 paired end sequencing	ERX7543938	SC	6183	WGS
+ERR7977793	Illumina NovaSeq 6000 paired end sequencing	ERX7543940	SC	6183	WGS
+ERR7977795	Illumina NovaSeq 6000 paired end sequencing	ERX7543942	SC	6183	WGS
+ERR7977796	Illumina NovaSeq 6000 paired end sequencing	ERX7543943	SC	6183	WGS
+ERR7977798	Illumina NovaSeq 6000 paired end sequencing	ERX7543945	SC	6183	WGS
+ERR7977806	Illumina NovaSeq 6000 paired end sequencing	ERX7543953	SC	6183	WGS
+ERR7977808	Illumina NovaSeq 6000 paired end sequencing	ERX7543955	SC	6183	WGS
+ERR7977809	Illumina NovaSeq 6000 paired end sequencing	ERX7543956	SC	6183	WGS
+ERR7977812	Illumina NovaSeq 6000 paired end sequencing	ERX7543959	SC	6183	WGS
+ERR7977813	Illumina NovaSeq 6000 paired end sequencing	ERX7543960	SC	6183	WGS
+ERR7977814	Illumina NovaSeq 6000 paired end sequencing	ERX7543961	SC	6183	WGS
+ERR7977816	Illumina NovaSeq 6000 paired end sequencing	ERX7543963	SC	6183	WGS
+ERR7977818	Illumina NovaSeq 6000 paired end sequencing	ERX7543965	SC	6183	WGS
+ERR7977821	Illumina NovaSeq 6000 paired end sequencing	ERX7543968	SC	6183	WGS
+ERR7977824	Illumina NovaSeq 6000 paired end sequencing	ERX7543971	SC	6183	WGS
+ERR7977829	Illumina NovaSeq 6000 paired end sequencing	ERX7543976	SC	6183	WGS
+ERR7977830	Illumina NovaSeq 6000 paired end sequencing	ERX7543977	SC	6183	WGS
+ERR7977833	Illumina NovaSeq 6000 paired end sequencing	ERX7543980	SC	6183	WGS
+ERR7977834	Illumina NovaSeq 6000 paired end sequencing	ERX7543981	SC	6183	WGS
+ERR7977840	Illumina NovaSeq 6000 paired end sequencing	ERX7543987	SC	6183	WGS
+ERR7977841	Illumina NovaSeq 6000 paired end sequencing	ERX7543988	SC	6183	WGS
+ERR7977844	Illumina NovaSeq 6000 paired end sequencing	ERX7543991	SC	6183	WGS
+ERR7977847	Illumina NovaSeq 6000 paired end sequencing	ERX7543994	SC	6183	WGS
+ERR7977849	Illumina NovaSeq 6000 paired end sequencing	ERX7543996	SC	6183	WGS
+ERR7977851	Illumina NovaSeq 6000 paired end sequencing	ERX7543998	SC	6183	WGS
+ERR7977852	Illumina NovaSeq 6000 paired end sequencing	ERX7543999	SC	6183	WGS
+ERR7977853	Illumina NovaSeq 6000 paired end sequencing	ERX7544000	SC	6183	WGS
+ERR7977855	Illumina NovaSeq 6000 paired end sequencing	ERX7544002	SC	6183	WGS
+ERR7977857	Illumina NovaSeq 6000 paired end sequencing	ERX7544004	SC	6183	WGS
+ERR7977860	Illumina NovaSeq 6000 paired end sequencing	ERX7544007	SC	6183	WGS
+ERR7977861	Illumina NovaSeq 6000 paired end sequencing	ERX7544008	SC	6183	WGS
+ERR7977863	Illumina NovaSeq 6000 paired end sequencing	ERX7544010	SC	6183	WGS
+ERR7977866	Illumina NovaSeq 6000 paired end sequencing	ERX7544013	SC	6183	WGS
+ERR7977870	Illumina NovaSeq 6000 paired end sequencing	ERX7544017	SC	6183	WGS
+ERR7977871	Illumina NovaSeq 6000 paired end sequencing	ERX7544018	SC	6183	WGS
+ERR7977872	Illumina NovaSeq 6000 paired end sequencing	ERX7544019	SC	6183	WGS
+ERR7977873	Illumina NovaSeq 6000 paired end sequencing	ERX7544020	SC	6183	WGS
+ERR7977874	Illumina NovaSeq 6000 paired end sequencing	ERX7544021	SC	6183	WGS
+ERR7977877	Illumina NovaSeq 6000 paired end sequencing	ERX7544024	SC	6183	WGS
+ERR7977880	Illumina NovaSeq 6000 paired end sequencing	ERX7544027	SC	6183	WGS
+ERR7977881	Illumina NovaSeq 6000 paired end sequencing	ERX7544028	SC	6183	WGS
+ERR7977883	Illumina NovaSeq 6000 paired end sequencing	ERX7544030	SC	6183	WGS
+ERR7977884	Illumina NovaSeq 6000 paired end sequencing	ERX7544031	SC	6183	WGS
+ERR7977886	Illumina NovaSeq 6000 paired end sequencing	ERX7544033	SC	6183	WGS
+ERR7977893	Illumina NovaSeq 6000 paired end sequencing	ERX7544040	SC	6183	WGS
+ERR7977895	Illumina NovaSeq 6000 paired end sequencing	ERX7544042	SC	6183	WGS
+ERR7977896	Illumina NovaSeq 6000 paired end sequencing	ERX7544043	SC	6183	WGS
+ERR7977898	Illumina NovaSeq 6000 paired end sequencing	ERX7544045	SC	6183	WGS
+ERR7977899	Illumina NovaSeq 6000 paired end sequencing	ERX7544046	SC	6183	WGS
+ERR7977901	Illumina NovaSeq 6000 paired end sequencing	ERX7544048	SC	6183	WGS
+ERR7977904	Illumina NovaSeq 6000 paired end sequencing	ERX7544051	SC	6183	WGS
+ERR7977905	Illumina NovaSeq 6000 paired end sequencing	ERX7544052	SC	6183	WGS
+ERR7977906	Illumina NovaSeq 6000 paired end sequencing	ERX7544053	SC	6183	WGS
+ERR7977907	Illumina NovaSeq 6000 paired end sequencing	ERX7544054	SC	6183	WGS
+ERR7977908	Illumina NovaSeq 6000 paired end sequencing	ERX7544055	SC	6183	WGS
+ERR7977909	Illumina NovaSeq 6000 paired end sequencing	ERX7544056	SC	6183	WGS
+ERR7977915	Illumina NovaSeq 6000 paired end sequencing	ERX7544062	SC	6183	WGS
+ERR7977916	Illumina NovaSeq 6000 paired end sequencing	ERX7544063	SC	6183	WGS
+ERR7977917	Illumina NovaSeq 6000 paired end sequencing	ERX7544064	SC	6183	WGS
+ERR7977918	Illumina NovaSeq 6000 paired end sequencing	ERX7544065	SC	6183	WGS
+ERR7977921	Illumina NovaSeq 6000 paired end sequencing	ERX7544068	SC	6183	WGS
+ERR7977922	Illumina NovaSeq 6000 paired end sequencing	ERX7544069	SC	6183	WGS
+ERR7977923	Illumina NovaSeq 6000 paired end sequencing	ERX7544070	SC	6183	WGS
+ERR7977925	Illumina NovaSeq 6000 paired end sequencing	ERX7544072	SC	6183	WGS
+ERR7977927	Illumina NovaSeq 6000 paired end sequencing	ERX7544074	SC	6183	WGS
+ERR7977929	Illumina NovaSeq 6000 paired end sequencing	ERX7544076	SC	6183	WGS
+ERR7977932	Illumina NovaSeq 6000 paired end sequencing	ERX7544079	SC	6183	WGS
+ERR7977933	Illumina NovaSeq 6000 paired end sequencing	ERX7544080	SC	6183	WGS
+ERR7977934	Illumina NovaSeq 6000 paired end sequencing	ERX7544081	SC	6183	WGS
+ERR7977935	Illumina NovaSeq 6000 paired end sequencing	ERX7544082	SC	6183	WGS
+ERR7977939	Illumina NovaSeq 6000 paired end sequencing	ERX7544086	SC	6183	WGS
+ERR7977940	Illumina NovaSeq 6000 paired end sequencing	ERX7544087	SC	6183	WGS
+ERR7977942	Illumina NovaSeq 6000 paired end sequencing	ERX7544089	SC	6183	WGS
+ERR7977943	Illumina NovaSeq 6000 paired end sequencing	ERX7544090	SC	6183	WGS
+ERR7977945	Illumina NovaSeq 6000 paired end sequencing	ERX7544092	SC	6183	WGS
+ERR7977947	Illumina NovaSeq 6000 paired end sequencing	ERX7544094	SC	6183	WGS
+ERR7977948	Illumina NovaSeq 6000 paired end sequencing	ERX7544095	SC	6183	WGS
+ERR7977949	Illumina NovaSeq 6000 paired end sequencing	ERX7544096	SC	6183	WGS
+ERR7977951	Illumina NovaSeq 6000 paired end sequencing	ERX7544098	SC	6183	WGS
+ERR7977953	Illumina NovaSeq 6000 paired end sequencing	ERX7544100	SC	6183	WGS
+ERR7977954	Illumina NovaSeq 6000 paired end sequencing	ERX7544101	SC	6183	WGS
+ERR7977962	Illumina NovaSeq 6000 paired end sequencing	ERX7544109	SC	6183	WGS
+ERR7977964	Illumina NovaSeq 6000 paired end sequencing	ERX7544111	SC	6183	WGS
+ERR7977965	Illumina NovaSeq 6000 paired end sequencing	ERX7544112	SC	6183	WGS
+ERR7977971	Illumina NovaSeq 6000 paired end sequencing	ERX7544118	SC	6183	WGS
+ERR7977974	Illumina NovaSeq 6000 paired end sequencing	ERX7544121	SC	6183	WGS
+ERR7977976	Illumina NovaSeq 6000 paired end sequencing	ERX7544123	SC	6183	WGS
+ERR7977977	Illumina NovaSeq 6000 paired end sequencing	ERX7544124	SC	6183	WGS
+ERR7977978	Illumina NovaSeq 6000 paired end sequencing	ERX7544125	SC	6183	WGS
+ERR7977983	Illumina NovaSeq 6000 paired end sequencing	ERX7544130	SC	6183	WGS
+ERR7977986	Illumina NovaSeq 6000 paired end sequencing	ERX7544133	SC	6183	WGS
+ERR7977987	Illumina NovaSeq 6000 paired end sequencing	ERX7544134	SC	6183	WGS
+ERR7977988	Illumina NovaSeq 6000 paired end sequencing	ERX7544135	SC	6183	WGS
+ERR7977990	Illumina NovaSeq 6000 paired end sequencing	ERX7544137	SC	6183	WGS
+ERR7977993	Illumina NovaSeq 6000 paired end sequencing	ERX7544140	SC	6183	WGS
+ERR7977994	Illumina NovaSeq 6000 paired end sequencing	ERX7544141	SC	6183	WGS
+ERR7977997	Illumina NovaSeq 6000 paired end sequencing	ERX7544144	SC	6183	WGS
+ERR7977999	Illumina NovaSeq 6000 paired end sequencing	ERX7544146	SC	6183	WGS
+ERR7978000	Illumina NovaSeq 6000 paired end sequencing	ERX7544147	SC	6183	WGS
+ERR7978002	Illumina NovaSeq 6000 paired end sequencing	ERX7544149	SC	6183	WGS
+ERR7978003	Illumina NovaSeq 6000 paired end sequencing	ERX7544150	SC	6183	WGS
+ERR7978007	Illumina NovaSeq 6000 paired end sequencing	ERX7544154	SC	6183	WGS
+ERR7978008	Illumina NovaSeq 6000 paired end sequencing	ERX7544155	SC	6183	WGS
+ERR7978010	Illumina NovaSeq 6000 paired end sequencing	ERX7544157	SC	6183	WGS
+ERR7978012	Illumina NovaSeq 6000 paired end sequencing	ERX7544159	SC	6183	WGS
+ERR7978014	Illumina NovaSeq 6000 paired end sequencing	ERX7544161	SC	6183	WGS
+ERR7978016	Illumina NovaSeq 6000 paired end sequencing	ERX7544163	SC	6183	WGS
+ERR7978018	Illumina NovaSeq 6000 paired end sequencing	ERX7544165	SC	6183	WGS
+ERR7978021	Illumina NovaSeq 6000 paired end sequencing	ERX7544168	SC	6183	WGS
+ERR7978022	Illumina NovaSeq 6000 paired end sequencing	ERX7544169	SC	6183	WGS
+ERR7978024	Illumina NovaSeq 6000 paired end sequencing	ERX7544171	SC	6183	WGS
+ERR7978025	Illumina NovaSeq 6000 paired end sequencing	ERX7544172	SC	6183	WGS
+ERR7978026	Illumina NovaSeq 6000 paired end sequencing	ERX7544173	SC	6183	WGS
+ERR7978028	Illumina NovaSeq 6000 paired end sequencing	ERX7544175	SC	6183	WGS
+ERR7978031	Illumina NovaSeq 6000 paired end sequencing	ERX7544178	SC	6183	WGS
+ERR7978032	Illumina NovaSeq 6000 paired end sequencing	ERX7544179	SC	6183	WGS
+ERR7978033	Illumina NovaSeq 6000 paired end sequencing	ERX7544180	SC	6183	WGS
+ERR7978038	Illumina NovaSeq 6000 paired end sequencing	ERX7544185	SC	6183	WGS
+ERR7978039	Illumina NovaSeq 6000 paired end sequencing	ERX7544186	SC	6183	WGS
+ERR7978040	Illumina NovaSeq 6000 paired end sequencing	ERX7544187	SC	6183	WGS
+ERR7978042	Illumina NovaSeq 6000 paired end sequencing	ERX7544189	SC	6183	WGS
+ERR7978044	Illumina NovaSeq 6000 paired end sequencing	ERX7544191	SC	6183	WGS
+ERR7978045	Illumina NovaSeq 6000 paired end sequencing	ERX7544192	SC	6183	WGS
+ERR7978050	Illumina NovaSeq 6000 paired end sequencing	ERX7544197	SC	6183	WGS
+ERR7978052	Illumina NovaSeq 6000 paired end sequencing	ERX7544199	SC	6183	WGS
+ERR7978053	Illumina NovaSeq 6000 paired end sequencing	ERX7544200	SC	6183	WGS
+ERR7978057	Illumina NovaSeq 6000 paired end sequencing	ERX7544204	SC	6183	WGS
+ERR7978058	Illumina NovaSeq 6000 paired end sequencing	ERX7544205	SC	6183	WGS
+ERR7978059	Illumina NovaSeq 6000 paired end sequencing	ERX7544206	SC	6183	WGS
+ERR7978060	Illumina NovaSeq 6000 paired end sequencing	ERX7544207	SC	6183	WGS
+ERR7978061	Illumina NovaSeq 6000 paired end sequencing	ERX7544208	SC	6183	WGS
+ERR7978068	Illumina NovaSeq 6000 paired end sequencing	ERX7544215	SC	6183	WGS
+ERR7978070	Illumina NovaSeq 6000 paired end sequencing	ERX7544217	SC	6183	WGS
+ERR7978071	Illumina NovaSeq 6000 paired end sequencing	ERX7544218	SC	6183	WGS
+ERR7978072	Illumina NovaSeq 6000 paired end sequencing	ERX7544219	SC	6183	WGS
+ERR7978073	Illumina NovaSeq 6000 paired end sequencing	ERX7544220	SC	6183	WGS
+ERR7978075	Illumina NovaSeq 6000 paired end sequencing	ERX7544222	SC	6183	WGS
+ERR7978076	Illumina NovaSeq 6000 paired end sequencing	ERX7544223	SC	6183	WGS
+ERR7978078	Illumina NovaSeq 6000 paired end sequencing	ERX7544225	SC	6183	WGS
+ERR7978079	Illumina NovaSeq 6000 paired end sequencing	ERX7544226	SC	6183	WGS
+ERR7978080	Illumina NovaSeq 6000 paired end sequencing	ERX7544227	SC	6183	WGS
+ERR7978081	Illumina NovaSeq 6000 paired end sequencing	ERX7544228	SC	6183	WGS
+ERR7978083	Illumina NovaSeq 6000 paired end sequencing	ERX7544230	SC	6183	WGS
+ERR7978086	Illumina NovaSeq 6000 paired end sequencing	ERX7544233	SC	6183	WGS
+ERR7978089	Illumina NovaSeq 6000 paired end sequencing	ERX7544236	SC	6183	WGS
+ERR7978092	Illumina NovaSeq 6000 paired end sequencing	ERX7544239	SC	6183	WGS
+ERR7978094	Illumina NovaSeq 6000 paired end sequencing	ERX7544241	SC	6183	WGS
+ERR7978096	Illumina NovaSeq 6000 paired end sequencing	ERX7544243	SC	6183	WGS
+ERR7978099	Illumina NovaSeq 6000 paired end sequencing	ERX7544246	SC	6183	WGS
+ERR7978100	Illumina NovaSeq 6000 paired end sequencing	ERX7544247	SC	6183	WGS
+ERR7978101	Illumina NovaSeq 6000 paired end sequencing	ERX7544248	SC	6183	WGS
+ERR7978103	Illumina NovaSeq 6000 paired end sequencing	ERX7544250	SC	6183	WGS
+ERR7978105	Illumina NovaSeq 6000 paired end sequencing	ERX7544252	SC	6183	WGS
+ERR7978113	Illumina NovaSeq 6000 paired end sequencing	ERX7544260	SC	6183	WGS
+ERR7978114	Illumina NovaSeq 6000 paired end sequencing	ERX7544261	SC	6183	WGS
+ERR7978115	Illumina NovaSeq 6000 paired end sequencing	ERX7544262	SC	6183	WGS
+ERR7978116	Illumina NovaSeq 6000 paired end sequencing	ERX7544263	SC	6183	WGS
+ERR7978117	Illumina NovaSeq 6000 paired end sequencing	ERX7544264	SC	6183	WGS
+ERR7978122	Illumina NovaSeq 6000 paired end sequencing	ERX7544269	SC	6183	WGS
+ERR7978123	Illumina NovaSeq 6000 paired end sequencing	ERX7544270	SC	6183	WGS
+ERR7978125	Illumina NovaSeq 6000 paired end sequencing	ERX7544272	SC	6183	WGS
+ERR7978126	Illumina NovaSeq 6000 paired end sequencing	ERX7544273	SC	6183	WGS
+ERR7978129	Illumina NovaSeq 6000 paired end sequencing	ERX7544276	SC	6183	WGS
+ERR7978130	Illumina NovaSeq 6000 paired end sequencing	ERX7544277	SC	6183	WGS
+ERR7978131	Illumina NovaSeq 6000 paired end sequencing	ERX7544278	SC	6183	WGS
+ERR7978132	Illumina NovaSeq 6000 paired end sequencing	ERX7544279	SC	6183	WGS
+ERR7978133	Illumina NovaSeq 6000 paired end sequencing	ERX7544280	SC	6183	WGS
+ERR7978136	Illumina NovaSeq 6000 paired end sequencing	ERX7544283	SC	6183	WGS
+ERR7978138	Illumina NovaSeq 6000 paired end sequencing	ERX7544285	SC	6183	WGS
+ERR7978140	Illumina NovaSeq 6000 paired end sequencing	ERX7544287	SC	6183	WGS
+ERR7978141	Illumina NovaSeq 6000 paired end sequencing	ERX7544288	SC	6183	WGS
+ERR7978142	Illumina NovaSeq 6000 paired end sequencing	ERX7544289	SC	6183	WGS
+ERR7978143	Illumina NovaSeq 6000 paired end sequencing	ERX7544290	SC	6183	WGS
+ERR7978148	Illumina NovaSeq 6000 paired end sequencing	ERX7544295	SC	6183	WGS
+ERR7978151	Illumina NovaSeq 6000 paired end sequencing	ERX7544298	SC	6183	WGS
+ERR7978153	Illumina NovaSeq 6000 paired end sequencing	ERX7544300	SC	6183	WGS
+ERR7978156	Illumina NovaSeq 6000 paired end sequencing	ERX7544303	SC	6183	WGS
+ERR7978157	Illumina NovaSeq 6000 paired end sequencing	ERX7544304	SC	6183	WGS
+ERR7978159	Illumina NovaSeq 6000 paired end sequencing	ERX7544306	SC	6183	WGS
+ERR7978163	Illumina NovaSeq 6000 paired end sequencing	ERX7544310	SC	6183	WGS
+ERR7978164	Illumina NovaSeq 6000 paired end sequencing	ERX7544311	SC	6183	WGS
+ERR7978167	Illumina NovaSeq 6000 paired end sequencing	ERX7544314	SC	6183	WGS
+ERR7978168	Illumina NovaSeq 6000 paired end sequencing	ERX7544315	SC	6183	WGS
+ERR7978170	Illumina NovaSeq 6000 paired end sequencing	ERX7544317	SC	6183	WGS
+ERR7978172	Illumina NovaSeq 6000 paired end sequencing	ERX7544319	SC	6183	WGS
+ERR7978173	Illumina NovaSeq 6000 paired end sequencing	ERX7544320	SC	6183	WGS
+ERR7978177	Illumina NovaSeq 6000 paired end sequencing	ERX7544324	SC	6183	WGS
+ERR7978180	Illumina NovaSeq 6000 paired end sequencing	ERX7544327	SC	6183	WGS
+ERR7978182	Illumina NovaSeq 6000 paired end sequencing	ERX7544329	SC	6183	WGS
+ERR7978184	Illumina NovaSeq 6000 paired end sequencing	ERX7544331	SC	6183	WGS
+ERR7978186	Illumina NovaSeq 6000 paired end sequencing	ERX7544333	SC	6183	WGS
+ERR7978187	Illumina NovaSeq 6000 paired end sequencing	ERX7544334	SC	6183	WGS
+ERR7978188	Illumina NovaSeq 6000 paired end sequencing	ERX7544335	SC	6183	WGS
+ERR7978189	Illumina NovaSeq 6000 paired end sequencing	ERX7544336	SC	6183	WGS
+ERR7978191	Illumina NovaSeq 6000 paired end sequencing	ERX7544338	SC	6183	WGS
+ERR7978192	Illumina NovaSeq 6000 paired end sequencing	ERX7544339	SC	6183	WGS
+ERR7978194	Illumina NovaSeq 6000 paired end sequencing	ERX7544341	SC	6183	WGS
+ERR7978196	Illumina NovaSeq 6000 paired end sequencing	ERX7544343	SC	6183	WGS
+ERR7978197	Illumina NovaSeq 6000 paired end sequencing	ERX7544344	SC	6183	WGS
+ERR7978200	Illumina NovaSeq 6000 paired end sequencing	ERX7544347	SC	6183	WGS
+ERR7978201	Illumina NovaSeq 6000 paired end sequencing	ERX7544348	SC	6183	WGS
+ERR7978204	Illumina NovaSeq 6000 paired end sequencing	ERX7544351	SC	6183	WGS
+ERR7978211	Illumina NovaSeq 6000 paired end sequencing	ERX7544358	SC	6183	WGS
+ERR7978212	Illumina NovaSeq 6000 paired end sequencing	ERX7544359	SC	6183	WGS
+ERR7978214	Illumina NovaSeq 6000 paired end sequencing	ERX7544361	SC	6183	WGS
+ERR966645	Illumina MiSeq paired end sequencing	ERX1043623	SC	6183	WGS
+ERR966646	Illumina MiSeq paired end sequencing	ERX1043624	SC	6183	WGS
+SRR12780701	Illumina HiSeq 2500 sequencing; Genome of Schistosoma mansoni adults: F0 males (cross B  SmLE15);Genome of Schistosoma mansoni adults: F0 males (cross B  SmLE15)	SRX9250425	SUB8146048	6183	WGS
+SRR12780908	Illumina HiSeq 2500 sequencing; Genome of Schistosoma mansoni adults: F0 males (cross A  SmBRE4);Genome of Schistosoma mansoni adults: F0 males (cross A  SmBRE4)	SRX9250218	SUB8146048	6183	WGS
+SRR13716339	Genome of Schistosoma mansoni: pool of females with enriched sensitive allele to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of females with enriched sensitive allele to praziquantel	SRX10104929	SUB9029076	6183	WGS
+SRR13716340	Genome of Schistosoma mansoni: pool of females with enriched sensitive allele to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of females with enriched sensitive allele to praziquantel	SRX10104928	SUB9029076	6183	WGS
+SRR13716342	Genome of Schistosoma mansoni: pool of males with enriched resistant allele to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of males with enriched resistant allele to praziquantel	SRX10104926	SUB9029076	6183	WGS
+SRR13716343	Genome of Schistosoma mansoni: pool of males with enriched resistant allele to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of males with enriched resistant allele to praziquantel	SRX10104925	SUB9029076	6183	WGS
+SRR13716344	Genome of Schistosoma mansoni: pool of males with enriched resistant allele to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of males with enriched resistant allele to praziquantel	SRX10104924	SUB9029076	6183	WGS
+SRR13716346	Genome of Schistosoma mansoni: pool of males with enriched sensitive allele to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of males with enriched sensitive allele to praziquantel	SRX10104922	SUB9029076	6183	WGS
+SRR13716349	Genome of Schistosoma mansoni: pool of females with enriched resistant allele to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of females with enriched resistant allele to praziquantel	SRX10104919	SUB9029076	6183	WGS
+SRR605655	Illumina HiSeq 2000 paired end sequencing; S. mansoni strain BRE genomic DNA sequencing;S. mansoni strain BRE genomic DNA sequencing	SRX196241	University of Perpignan	6183	WGS
+SRR611647	Illumina HiSeq 2000 paired end sequencing; S. mansoni strain BRE genomic DNA sequencing;S. mansoni strain BRE genomic DNA sequencing	SRX196241	University of Perpignan	6183	WGS

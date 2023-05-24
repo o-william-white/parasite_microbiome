@@ -1,0 +1,56 @@
+run_accession	experiment_title	experiment_accession	center_name	tax_id	library_strategy
+SRR3111318	Illumina HiSeq 2500 paired end sequencing	SRX1539611		6279	WGS
+SRR3111488	Illumina HiSeq 2500 paired end sequencing	SRX1539728		6279	WGS
+SRR3111493	Illumina HiSeq 2500 paired end sequencing	SRX1539733		6279	WGS
+SRR3111510	Illumina HiSeq 2500 paired end sequencing	SRX1539749		6279	WGS
+SRR3111514	Illumina HiSeq 2500 paired end sequencing	SRX1539753		6279	WGS
+SRR3111581	Illumina HiSeq 2500 paired end sequencing	SRX1539820		6279	WGS
+SRR3111636	Illumina HiSeq 2500 paired end sequencing	SRX1539870		6279	WGS
+SRR3111640	Illumina HiSeq 2500 paired end sequencing	SRX1539872		6279	WGS
+SRR3111738	Illumina HiSeq 2500 paired end sequencing	SRX1539955		6279	WGS
+SRR3111864	Illumina HiSeq 2500 paired end sequencing	SRX1540012		6279	WGS
+SRR488253	Illumina HiSeq 2000 sequencing; Illumina sequencing of BMalayi;Illumina sequencing of BMalayi	SRX142902	UMIGS	6279	WGS
+SRR488256	Illumina Genome Analyzer IIx sequencing; Illumina GAII seuqencing of BMalayi;Illumina GAII seuqencing of BMalayi	SRX142903	UMIGS	6279	WGS
+SRR5190289	Illumina HiSeq 2500 paired end sequencing	SRX2506110		6279	WGS
+SRR5190290	Illumina HiSeq 4000 paired end sequencing	SRX2506109		6279	WGS
+SRR5572473	Illumina HiSeq 2500 paired end sequencing; Brugia_malayi_FR3_pop_2_ng_no_TMAC;Brugia_malayi_FR3_pop_2_ng_no_TMAC	SRX2831152		6279	WGS
+SRR5572474	Illumina HiSeq 2500 paired end sequencing; Brugia_malayi_FR3_pop_2_ng_no_TMAC;Brugia_malayi_FR3_pop_2_ng_no_TMAC	SRX2831151		6279	WGS
+SRR5582039	Illumina HiSeq 2500 paired end sequencing; Brugia_malayi_FR3_pop_2_ng_rep2;Brugia_malayi_FR3_pop_2_ng_rep2	SRX2840100		6279	WGS
+SRR5582040	Illumina HiSeq 2500 paired end sequencing; Brugia_malayi_FR3_pop_2_ng_rep2;Brugia_malayi_FR3_pop_2_ng_rep2	SRX2840099		6279	WGS
+SRR5582055	Brugia_malayi_FR3_pop_50_ng_rep1;Illumina HiSeq 2500 paired end sequencing; Brugia_malayi_FR3_pop_50_ng_rep1	SRX2840115		6279	WGS
+SRR5582350	Illumina HiSeq 2500 paired end sequencing; Brugia_malayi_FR3_pop_5_ng_rep1;Brugia_malayi_FR3_pop_5_ng_rep1	SRX2840410		6279	WGS
+ERR1333959	Illumina HiSeq 2000 paired end sequencing	ERX1405551	SC	6279	WGS
+SRR11388332	Illumina NovaSeq 6000 sequencing; Whole genome seq of Brugia malayi;Whole genome seq of Brugia malayi	SRX7967466	SUB7178408	6279	WGS
+SRR12884291	Illumina sequencing of Brugia malayi individual adult male;Illumina HiSeq 4000 sequencing; Illumina sequencing of Brugia malayi individual adult male	SRX9350143	SUB8378168	6279	WGS
+SRR12884293	Illumina sequencing of Brugia malayi individual adult male;Illumina HiSeq 4000 sequencing; Illumina sequencing of Brugia malayi individual adult male	SRX9350141	SUB8378168	6279	WGS
+SRR12884294	Illumina sequencing of Brugia malayi individual adult male;Illumina HiSeq 4000 sequencing; Illumina sequencing of Brugia malayi individual adult male	SRX9350140	SUB8378168	6279	WGS
+SRR5582038	Illumina HiSeq 2500 paired end sequencing; Brugia_malayi_FR3_pop_2_ng_rep1;Brugia_malayi_FR3_pop_2_ng_rep1	SRX2840098		6279	WGS
+SRR5582052	Brugia_malayi_FR3_pop_500_ng_rep1;Illumina HiSeq 2500 paired end sequencing; Brugia_malayi_FR3_pop_500_ng_rep1	SRX2840112		6279	WGS
+SRR5582056	Brugia_malayi_FR3_pop_50_ng_rep2;Illumina HiSeq 2500 paired end sequencing; Brugia_malayi_FR3_pop_50_ng_rep2	SRX2840116		6279	WGS
+SRR5582368	Illumina HiSeq 2500 paired end sequencing; Brugia_malayi_FR3_stand_prot;Brugia_malayi_FR3_stand_prot	SRX2840428		6279	WGS
+SRR5582369	Illumina HiSeq 2500 paired end sequencing; Brugia_malayi_FR3_stand_prot;Brugia_malayi_FR3_stand_prot	SRX2840429		6279	WGS
+SRR3111319	Illumina HiSeq 2500 paired end sequencing	SRX1539612		6279	WGS
+SRR3111498	Illumina HiSeq 2500 paired end sequencing	SRX1539738		6279	WGS
+SRR3111504	Illumina HiSeq 2500 paired end sequencing	SRX1539743		6279	WGS
+SRR3111517	Illumina HiSeq 2500 paired end sequencing	SRX1539756		6279	WGS
+SRR3111544	Illumina HiSeq 2500 paired end sequencing	SRX1539796		6279	WGS
+SRR3111568	Illumina HiSeq 2500 paired end sequencing	SRX1539812		6279	WGS
+SRR3111579	Illumina HiSeq 2500 paired end sequencing	SRX1539818		6279	WGS
+SRR3111629	Illumina HiSeq 2500 paired end sequencing	SRX1539863		6279	WGS
+SRR3111630	Illumina HiSeq 2500 paired end sequencing	SRX1539864		6279	WGS
+SRR3111634	Illumina HiSeq 2500 paired end sequencing	SRX1539868		6279	WGS
+SRR3111731	Illumina HiSeq 2500 paired end sequencing	SRX1539948		6279	WGS
+SRR3112012	Illumina HiSeq 2500 paired end sequencing	SRX1540136		6279	WGS
+SRR5188379	Brugia_malayi_FR3_pop_2_ng_TMAC;Illumina HiSeq 2500 paired end sequencing; Brugia_malayi_FR3_pop_2_ng_TMAC	SRX2504301		6279	WGS
+SRR5190287	Illumina HiSeq 2500 paired end sequencing	SRX2506107		6279	WGS
+SRR5190288	Illumina HiSeq 4000 paired end sequencing	SRX2506108		6279	WGS
+SRR5571238	Brugia_malayi_FR3_pop_2_ng_TMAC;Illumina HiSeq 2500 paired end sequencing; Brugia_malayi_FR3_pop_2_ng_TMAC	SRX2830418		6279	WGS
+SRR5573659	Brugia_malayi_FR3_pop_5_ng_TMAC;Illumina HiSeq 2500 paired end sequencing; Brugia_malayi_FR3_pop_5_ng_TMAC	SRX2832000		6279	WGS
+SRR5573989	Brugia_malayi_FR3_pop_5_ng_no_TMAC;Illumina HiSeq 2500 paired end sequencing; Brugia_malayi_FR3_pop_5_ng_no_TMAC	SRX2832328		6279	WGS
+SRR5582051	Brugia_malayi_FR3_pop_500_ng_rep1;Illumina HiSeq 2500 paired end sequencing; Brugia_malayi_FR3_pop_500_ng_rep1	SRX2840111		6279	WGS
+SRR5582053	Brugia_malayi_FR3_pop_500_ng_rep2;Illumina HiSeq 2500 paired end sequencing; Brugia_malayi_FR3_pop_500_ng_rep2	SRX2840113		6279	WGS
+SRR5582054	Brugia_malayi_FR3_pop_500_ng_rep2;Illumina HiSeq 2500 paired end sequencing; Brugia_malayi_FR3_pop_500_ng_rep2	SRX2840114		6279	WGS
+SRR5582355	Illumina HiSeq 2500 paired end sequencing; Brugia_malayi_FR3_pop_5_ng_rep2;Brugia_malayi_FR3_pop_5_ng_rep2	SRX2840415		6279	WGS
+SRR11388331	Illumina NovaSeq 6000 sequencing; Whole genome seq of Brugia malayi;Whole genome seq of Brugia malayi	SRX7967467	SUB7178408	6279	WGS
+SRR11388333	Illumina NovaSeq 6000 sequencing; Whole genome seq of Brugia malayi;Whole genome seq of Brugia malayi	SRX7967465	SUB7178408	6279	WGS
+SRR12884292	Illumina sequencing of Brugia malayi individual adult male;Illumina HiSeq 4000 sequencing; Illumina sequencing of Brugia malayi individual adult male	SRX9350142	SUB8378168	6279	WGS

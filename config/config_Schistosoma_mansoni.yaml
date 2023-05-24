@@ -1,0 +1,16 @@
+
+# path to sample sheet
+samples: config/samples_Schistosoma_mansoni_subset.tsv
+
+# name of output directory
+output_dir: results_Schistosoma_mansoni
+
+# path of kraken standard db
+kraken_standard: /workspaces/groups/database/kraken2-standard-db/kraken2_standard
+
+# path of kraken silva database
+kraken_silva: /workspaces/groups/database/silva132-2023-05-24-kraken/16S_SILVA132_k2db/
+
+# number of threads to use
+threads: 6
+

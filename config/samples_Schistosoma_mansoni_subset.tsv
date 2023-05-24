@@ -1,0 +1,163 @@
+run_accession	experiment_title	experiment_accession	center_name	tax_id	library_strategy
+SRR12780926	Genome of Schistosoma mansoni adults: F0 females (cross A  SmLE19);Illumina HiSeq 2500 sequencing; Genome of Schistosoma mansoni adults: F0 females (cross A  SmLE19)	SRX9250200	SUB8146048	6183	WGS
+SRR13716345	Genome of Schistosoma mansoni: pool of females with enriched resistant allele to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of females with enriched resistant allele to praziquantel	SRX10104923	SUB9029076	6183	WGS
+SRR13716348	Genome of Schistosoma mansoni: pool of females with enriched resistant allele to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of females with enriched resistant allele to praziquantel	SRX10104920	SUB9029076	6183	WGS
+SRR13716349	Genome of Schistosoma mansoni: pool of females with enriched resistant allele to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of females with enriched resistant allele to praziquantel	SRX10104919	SUB9029076	6183	WGS
+SRR13716341	Genome of Schistosoma mansoni: pool of females with enriched sensitive allele to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of females with enriched sensitive allele to praziquantel	SRX10104927	SUB9029076	6183	WGS
+SRR13716339	Genome of Schistosoma mansoni: pool of females with enriched sensitive allele to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of females with enriched sensitive allele to praziquantel	SRX10104929	SUB9029076	6183	WGS
+SRR13716340	Genome of Schistosoma mansoni: pool of females with enriched sensitive allele to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of females with enriched sensitive allele to praziquantel	SRX10104928	SUB9029076	6183	WGS
+SRR13716342	Genome of Schistosoma mansoni: pool of males with enriched resistant allele to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of males with enriched resistant allele to praziquantel	SRX10104926	SUB9029076	6183	WGS
+SRR13716343	Genome of Schistosoma mansoni: pool of males with enriched resistant allele to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of males with enriched resistant allele to praziquantel	SRX10104925	SUB9029076	6183	WGS
+SRR13716344	Genome of Schistosoma mansoni: pool of males with enriched resistant allele to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of males with enriched resistant allele to praziquantel	SRX10104924	SUB9029076	6183	WGS
+SRR13716338	Genome of Schistosoma mansoni: pool of males with enriched sensitive allele to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of males with enriched sensitive allele to praziquantel	SRX10104930	SUB9029076	6183	WGS
+SRR13716347	Genome of Schistosoma mansoni: pool of males with enriched sensitive allele to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of males with enriched sensitive allele to praziquantel	SRX10104921	SUB9029076	6183	WGS
+SRR13716346	Genome of Schistosoma mansoni: pool of males with enriched sensitive allele to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of males with enriched sensitive allele to praziquantel	SRX10104922	SUB9029076	6183	WGS
+SRR13624154	Genome of Schistosoma mansoni: pool of sensitive males to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of sensitive males to praziquantel	SRX10017248	SUB9023758	6183	WGS
+SRR13624160	Genome of Schistosoma mansoni: pool of sensitive males to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of sensitive males to praziquantel	SRX10017242	SUB9023758	6183	WGS
+SRR13624164	Genome of Schistosoma mansoni: pool of sensitive males to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of sensitive males to praziquantel	SRX10017238	SUB9023758	6183	WGS
+SRR13624155	Genome of Schistosoma mansoni: pool of sensitive males to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of sensitive males to praziquantel	SRX10017247	SUB9023758	6183	WGS
+SRR13624156	Genome of Schistosoma mansoni: pool of sensitive males to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of sensitive males to praziquantel	SRX10017246	SUB9023758	6183	WGS
+SRR13624163	Genome of Schistosoma mansoni: pool of sensitive males to praziquantel;HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of sensitive males to praziquantel	SRX10017239	SUB9023758	6183	WGS
+ERR3173042	HiSeq X Ten paired end sequencing	ERX3200976	SC	6183	WGS
+ERR3173045	HiSeq X Ten paired end sequencing	ERX3200979	SC	6183	WGS
+ERR3173046	HiSeq X Ten paired end sequencing	ERX3200980	SC	6183	WGS
+ERR3173047	HiSeq X Ten paired end sequencing	ERX3200981	SC	6183	WGS
+ERR3173049	HiSeq X Ten paired end sequencing	ERX3200983	SC	6183	WGS
+ERR3173051	HiSeq X Ten paired end sequencing	ERX3200985	SC	6183	WGS
+ERR3173052	HiSeq X Ten paired end sequencing	ERX3200986	SC	6183	WGS
+ERR3173053	HiSeq X Ten paired end sequencing	ERX3200987	SC	6183	WGS
+ERR3173054	HiSeq X Ten paired end sequencing	ERX3200988	SC	6183	WGS
+ERR3173056	HiSeq X Ten paired end sequencing	ERX3200990	SC	6183	WGS
+ERR3173057	HiSeq X Ten paired end sequencing	ERX3200991	SC	6183	WGS
+ERR3173059	HiSeq X Ten paired end sequencing	ERX3200993	SC	6183	WGS
+ERR3173062	HiSeq X Ten paired end sequencing	ERX3200996	SC	6183	WGS
+ERR3173065	HiSeq X Ten paired end sequencing	ERX3200999	SC	6183	WGS
+ERR3173066	HiSeq X Ten paired end sequencing	ERX3201000	SC	6183	WGS
+ERR3173068	HiSeq X Ten paired end sequencing	ERX3201002	SC	6183	WGS
+ERR3173070	HiSeq X Ten paired end sequencing	ERX3201004	SC	6183	WGS
+ERR3173073	HiSeq X Ten paired end sequencing	ERX3201007	SC	6183	WGS
+ERR3173074	HiSeq X Ten paired end sequencing	ERX3201008	SC	6183	WGS
+ERR3173076	HiSeq X Ten paired end sequencing	ERX3201010	SC	6183	WGS
+SRR13624153	HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of resistant males to praziquantel;Genome of Schistosoma mansoni: pool of resistant males to praziquantel	SRX10017249	SUB9023758	6183	WGS
+SRR13624162	HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of resistant males to praziquantel;Genome of Schistosoma mansoni: pool of resistant males to praziquantel	SRX10017240	SUB9023758	6183	WGS
+SRR13624157	HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of resistant males to praziquantel;Genome of Schistosoma mansoni: pool of resistant males to praziquantel	SRX10017245	SUB9023758	6183	WGS
+SRR13624158	HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of resistant males to praziquantel;Genome of Schistosoma mansoni: pool of resistant males to praziquantel	SRX10017244	SUB9023758	6183	WGS
+SRR13624159	HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of resistant males to praziquantel;Genome of Schistosoma mansoni: pool of resistant males to praziquantel	SRX10017243	SUB9023758	6183	WGS
+SRR13624161	HiSeq X Ten sequencing; Genome of Schistosoma mansoni: pool of resistant males to praziquantel;Genome of Schistosoma mansoni: pool of resistant males to praziquantel	SRX10017241	SUB9023758	6183	WGS
+ERR021966	Illumina Genome Analyzer II paired end sequencing	ERX008534	SC	6183	WGS
+ERR021968	Illumina Genome Analyzer II paired end sequencing	ERX008531	SC	6183	WGS
+ERR021969	Illumina Genome Analyzer II paired end sequencing	ERX008533	SC	6183	WGS
+ERR021971	Illumina Genome Analyzer II paired end sequencing	ERX008532	SC	6183	WGS
+ERR022238	Illumina Genome Analyzer II paired end sequencing	ERX008692	SC	6183	WGS
+ERR022239	Illumina Genome Analyzer II paired end sequencing	ERX008696	SC	6183	WGS
+ERR022240	Illumina Genome Analyzer II paired end sequencing	ERX008693	SC	6183	WGS
+ERR022242	Illumina Genome Analyzer II paired end sequencing	ERX008694	SC	6183	WGS
+ERR022243	Illumina Genome Analyzer II paired end sequencing	ERX008695	SC	6183	WGS
+ERR026881	Illumina Genome Analyzer II paired end sequencing	ERX009900	SC	6183	WGS
+ERR026882	Illumina Genome Analyzer II paired end sequencing	ERX2004858	SC	6183	WGS
+ERR026884	Illumina Genome Analyzer II paired end sequencing	ERX2004868	SC	6183	WGS
+ERR026888	Illumina Genome Analyzer II paired end sequencing	ERX2004861	SC	6183	WGS
+ERR026889	Illumina Genome Analyzer II paired end sequencing	ERX2004862	SC	6183	WGS
+ERR026891	Illumina Genome Analyzer II paired end sequencing	ERX2004864	SC	6183	WGS
+ERR031494	Illumina Genome Analyzer II paired end sequencing	ERX1998360	SC	6183	WGS
+ERR031495	Illumina Genome Analyzer II paired end sequencing	ERX1998369	SC	6183	WGS
+ERR031499	Illumina Genome Analyzer II paired end sequencing	ERX1998362	SC	6183	WGS
+ERR031500	Illumina Genome Analyzer II paired end sequencing	ERX1998363	SC	6183	WGS
+ERR031501	Illumina Genome Analyzer II paired end sequencing	ERX1998364	SC	6183	WGS
+ERR103049	Illumina HiSeq 2000 paired end sequencing	ERX080485	SC	6183	WGS
+ERR103050	Illumina HiSeq 2000 paired end sequencing	ERX080486	SC	6183	WGS
+ERR562989	Illumina HiSeq 2000 paired end sequencing	ERX522014	SC	6183	WGS
+SRR616967	Illumina HiSeq 2000 paired end sequencing; S. mansoni strain BRE genomic DNA sequencing;S. mansoni strain BRE genomic DNA sequencing	SRX196241	University of Perpignan	6183	WGS
+SRR617176	Illumina HiSeq 2000 paired end sequencing; S. mansoni strain BRE genomic DNA sequencing;S. mansoni strain BRE genomic DNA sequencing	SRX196241	University of Perpignan	6183	WGS
+SRR647744	Illumina HiSeq 2000 paired end sequencing; S. mansoni strain GH2 genomic DNA sequencing;S. mansoni strain GH2 genomic DNA sequencing	SRX212154	University of Perpignan	6183	WGS
+ERR266714	Illumina HiSeq 2000 paired end sequencing	ERX241210	SC	6183	WGS
+ERR266715	Illumina HiSeq 2000 paired end sequencing	ERX241211	SC	6183	WGS
+ERR338747	Illumina HiSeq 2000 paired end sequencing	ERX311618	SC	6183	WGS
+ERR494725	Illumina HiSeq 2000 paired end sequencing	ERX460141	SC	6183	WGS
+ERR494726	Illumina HiSeq 2000 paired end sequencing	ERX460142	SC	6183	WGS
+ERR506094	Illumina HiSeq 2000 paired end sequencing	ERX471451	SC	6183	WGS
+ERR506118	Illumina HiSeq 2000 paired end sequencing	ERX471475	SC	6183	WGS
+ERR563569	Illumina HiSeq 2000 paired end sequencing	ERX522594	SC	6183	WGS
+SRR611646	Illumina HiSeq 2000 paired end sequencing; S. mansoni strain BRE genomic DNA sequencing;S. mansoni strain BRE genomic DNA sequencing	SRX196241	University of Perpignan	6183	WGS
+SRR611840	Illumina HiSeq 2000 paired end sequencing; S. mansoni strain BRE genomic DNA sequencing;S. mansoni strain BRE genomic DNA sequencing	SRX196241	University of Perpignan	6183	WGS
+SRR638988	Illumina HiSeq 2000 paired end sequencing; S. mansoni strain GH2 genomic DNA sequencing;S. mansoni strain GH2 genomic DNA sequencing	SRX212154	University of Perpignan	6183	WGS
+SRR645832	Illumina HiSeq 2000 paired end sequencing; S. mansoni strain GH2 genomic DNA sequencing;S. mansoni strain GH2 genomic DNA sequencing	SRX212154	University of Perpignan	6183	WGS
+SRR646463	Illumina HiSeq 2000 paired end sequencing; S. mansoni strain GH2 genomic DNA sequencing;S. mansoni strain GH2 genomic DNA sequencing	SRX212154	University of Perpignan	6183	WGS
+SRR647054	Illumina HiSeq 2000 paired end sequencing; S. mansoni strain GH2 genomic DNA sequencing;S. mansoni strain GH2 genomic DNA sequencing	SRX212154	University of Perpignan	6183	WGS
+SRR616967	Illumina HiSeq 2000 paired end sequencing; S. mansoni strain BRE genomic DNA sequencing;S. mansoni strain BRE genomic DNA sequencing	SRX196241	University of Perpignan	6183	WGS
+SRR617176	Illumina HiSeq 2000 paired end sequencing; S. mansoni strain BRE genomic DNA sequencing;S. mansoni strain BRE genomic DNA sequencing	SRX196241	University of Perpignan	6183	WGS
+SRR611646	Illumina HiSeq 2000 paired end sequencing; S. mansoni strain BRE genomic DNA sequencing;S. mansoni strain BRE genomic DNA sequencing	SRX196241	University of Perpignan	6183	WGS
+SRR611840	Illumina HiSeq 2000 paired end sequencing; S. mansoni strain BRE genomic DNA sequencing;S. mansoni strain BRE genomic DNA sequencing	SRX196241	University of Perpignan	6183	WGS
+SRR605655	Illumina HiSeq 2000 paired end sequencing; S. mansoni strain BRE genomic DNA sequencing;S. mansoni strain BRE genomic DNA sequencing	SRX196241	University of Perpignan	6183	WGS
+SRR611647	Illumina HiSeq 2000 paired end sequencing; S. mansoni strain BRE genomic DNA sequencing;S. mansoni strain BRE genomic DNA sequencing	SRX196241	University of Perpignan	6183	WGS
+SRR647744	Illumina HiSeq 2000 paired end sequencing; S. mansoni strain GH2 genomic DNA sequencing;S. mansoni strain GH2 genomic DNA sequencing	SRX212154	University of Perpignan	6183	WGS
+SRR638988	Illumina HiSeq 2000 paired end sequencing; S. mansoni strain GH2 genomic DNA sequencing;S. mansoni strain GH2 genomic DNA sequencing	SRX212154	University of Perpignan	6183	WGS
+SRR645832	Illumina HiSeq 2000 paired end sequencing; S. mansoni strain GH2 genomic DNA sequencing;S. mansoni strain GH2 genomic DNA sequencing	SRX212154	University of Perpignan	6183	WGS
+SRR646463	Illumina HiSeq 2000 paired end sequencing; S. mansoni strain GH2 genomic DNA sequencing;S. mansoni strain GH2 genomic DNA sequencing	SRX212154	University of Perpignan	6183	WGS
+SRR647054	Illumina HiSeq 2000 paired end sequencing; S. mansoni strain GH2 genomic DNA sequencing;S. mansoni strain GH2 genomic DNA sequencing	SRX212154	University of Perpignan	6183	WGS
+SRR648402	Illumina HiSeq 2000 paired end sequencing; S. mansoni strain GH2 genomic DNA sequencing;S. mansoni strain GH2 genomic DNA sequencing	SRX212154	University of Perpignan	6183	WGS
+SRR2533571	Illumina HiSeq 2500 paired end sequencing; Pool-Seq on cercariae of S.mansoni SmBRE from sympatric snail hosts;Pool-Seq on cercariae of S.mansoni SmBRE from sympatric snail hosts	SRX1292231		6183	WGS
+SRR2533572	Illumina HiSeq 2500 paired end sequencing; Pool-Seq on cercariae of S.mansoni SmBRE from allopatric snail hosts;Pool-Seq on cercariae of S.mansoni SmBRE from allopatric snail hosts	SRX1292232		6183	WGS
+ERR3304224	Illumina HiSeq 2500 paired end sequencing	ERX3330314	SC	6183	WGS
+ERR3304226	Illumina HiSeq 2500 paired end sequencing	ERX3330316	SC	6183	WGS
+ERR3304228	Illumina HiSeq 2500 paired end sequencing	ERX3330318	SC	6183	WGS
+ERR3304230	Illumina HiSeq 2500 paired end sequencing	ERX3330320	SC	6183	WGS
+ERR3304231	Illumina HiSeq 2500 paired end sequencing	ERX3330321	SC	6183	WGS
+ERR3304232	Illumina HiSeq 2500 paired end sequencing	ERX3330322	SC	6183	WGS
+ERR539843	Illumina HiSeq 2500 paired end sequencing	ERX505046	SC	6183	WGS
+ERR539844	Illumina HiSeq 2500 paired end sequencing	ERX505047	SC	6183	WGS
+ERR539849	Illumina HiSeq 2500 paired end sequencing	ERX505052	SC	6183	WGS
+ERR667120	Illumina HiSeq 2500 paired end sequencing	ERX622608	SC	6183	WGS
+ERR667144	Illumina HiSeq 2500 paired end sequencing	ERX622632	SC	6183	WGS
+ERR3304223	Illumina HiSeq 2500 paired end sequencing	ERX3330313	SC	6183	WGS
+ERR3304225	Illumina HiSeq 2500 paired end sequencing	ERX3330315	SC	6183	WGS
+ERR3304227	Illumina HiSeq 2500 paired end sequencing	ERX3330317	SC	6183	WGS
+ERR3304229	Illumina HiSeq 2500 paired end sequencing	ERX3330319	SC	6183	WGS
+ERR539842	Illumina HiSeq 2500 paired end sequencing	ERX505045	SC	6183	WGS
+ERR539845	Illumina HiSeq 2500 paired end sequencing	ERX505048	SC	6183	WGS
+ERR539846	Illumina HiSeq 2500 paired end sequencing	ERX505049	SC	6183	WGS
+SRR2533572	Illumina HiSeq 2500 paired end sequencing; Pool-Seq on cercariae of S.mansoni SmBRE from allopatric snail hosts;Pool-Seq on cercariae of S.mansoni SmBRE from allopatric snail hosts	SRX1292232		6183	WGS
+SRR2533571	Illumina HiSeq 2500 paired end sequencing; Pool-Seq on cercariae of S.mansoni SmBRE from sympatric snail hosts;Pool-Seq on cercariae of S.mansoni SmBRE from sympatric snail hosts	SRX1292231		6183	WGS
+SRR12780909	Illumina HiSeq 2500 sequencing; Genome of Schistosoma mansoni adults: F0 females (cross B  SmBRE2);Genome of Schistosoma mansoni adults: F0 females (cross B  SmBRE2)	SRX9250217	SUB8146048	6183	WGS
+SRR12780908	Illumina HiSeq 2500 sequencing; Genome of Schistosoma mansoni adults: F0 males (cross A  SmBRE4);Genome of Schistosoma mansoni adults: F0 males (cross A  SmBRE4)	SRX9250218	SUB8146048	6183	WGS
+SRR12780701	Illumina HiSeq 2500 sequencing; Genome of Schistosoma mansoni adults: F0 males (cross B  SmLE15);Genome of Schistosoma mansoni adults: F0 males (cross B  SmLE15)	SRX9250425	SUB8146048	6183	WGS
+ERR676582	Illumina MiSeq paired end sequencing	ERX631549	SC	6183	WGS
+ERR2720928	Illumina MiSeq paired end sequencing	ERX2734801	SC	6183	WGS
+ERR2720929	Illumina MiSeq paired end sequencing	ERX2734802	SC	6183	WGS
+ERR2720930	Illumina MiSeq paired end sequencing	ERX2734803	SC	6183	WGS
+ERR2720932	Illumina MiSeq paired end sequencing	ERX2734805	SC	6183	WGS
+ERR2720940	Illumina MiSeq paired end sequencing	ERX2734813	SC	6183	WGS
+ERR2720942	Illumina MiSeq paired end sequencing	ERX2734815	SC	6183	WGS
+ERR2720943	Illumina MiSeq paired end sequencing	ERX2734816	SC	6183	WGS
+ERR2720944	Illumina MiSeq paired end sequencing	ERX2734817	SC	6183	WGS
+ERR2720945	Illumina MiSeq paired end sequencing	ERX2734818	SC	6183	WGS
+ERR2720947	Illumina MiSeq paired end sequencing	ERX2734820	SC	6183	WGS
+ERR2720949	Illumina MiSeq paired end sequencing	ERX2734822	SC	6183	WGS
+ERR2720950	Illumina MiSeq paired end sequencing	ERX2734823	SC	6183	WGS
+ERR2720952	Illumina MiSeq paired end sequencing	ERX2734825	SC	6183	WGS
+ERR2720954	Illumina MiSeq paired end sequencing	ERX2734827	SC	6183	WGS
+ERR2720956	Illumina MiSeq paired end sequencing	ERX2734829	SC	6183	WGS
+ERR3293261	Illumina MiSeq paired end sequencing	ERX3319608	SC	6183	WGS
+ERR3293263	Illumina MiSeq paired end sequencing	ERX3319610	SC	6183	WGS
+ERR3293265	Illumina MiSeq paired end sequencing	ERX3319612	SC	6183	WGS
+ERR3293269	Illumina MiSeq paired end sequencing	ERX3319616	SC	6183	WGS
+ERR6798375	Illumina NovaSeq 6000 paired end sequencing	ERX6422050	SC	6183	WGS
+ERR6798376	Illumina NovaSeq 6000 paired end sequencing	ERX6422051	SC	6183	WGS
+ERR6798378	Illumina NovaSeq 6000 paired end sequencing	ERX6422053	SC	6183	WGS
+ERR6798379	Illumina NovaSeq 6000 paired end sequencing	ERX6422054	SC	6183	WGS
+ERR6798380	Illumina NovaSeq 6000 paired end sequencing	ERX6422055	SC	6183	WGS
+ERR6798384	Illumina NovaSeq 6000 paired end sequencing	ERX6422059	SC	6183	WGS
+ERR6798385	Illumina NovaSeq 6000 paired end sequencing	ERX6422060	SC	6183	WGS
+ERR6798387	Illumina NovaSeq 6000 paired end sequencing	ERX6422062	SC	6183	WGS
+ERR6798390	Illumina NovaSeq 6000 paired end sequencing	ERX6422065	SC	6183	WGS
+ERR6798391	Illumina NovaSeq 6000 paired end sequencing	ERX6422066	SC	6183	WGS
+ERR6798393	Illumina NovaSeq 6000 paired end sequencing	ERX6422068	SC	6183	WGS
+ERR6798396	Illumina NovaSeq 6000 paired end sequencing	ERX6422071	SC	6183	WGS
+ERR6798398	Illumina NovaSeq 6000 paired end sequencing	ERX6422073	SC	6183	WGS
+ERR6798399	Illumina NovaSeq 6000 paired end sequencing	ERX6422074	SC	6183	WGS
+ERR6798401	Illumina NovaSeq 6000 paired end sequencing	ERX6422076	SC	6183	WGS
+ERR6798404	Illumina NovaSeq 6000 paired end sequencing	ERX6422079	SC	6183	WGS
+ERR6798405	Illumina NovaSeq 6000 paired end sequencing	ERX6422080	SC	6183	WGS
+ERR6798406	Illumina NovaSeq 6000 paired end sequencing	ERX6422081	SC	6183	WGS
+ERR6798407	Illumina NovaSeq 6000 paired end sequencing	ERX6422082	SC	6183	WGS
+ERR6798415	Illumina NovaSeq 6000 paired end sequencing	ERX6422090	SC	6183	WGS
