@@ -10,6 +10,7 @@ source activate parasite_microbiome
 snakemake \
    --cores 48 \
    --use-conda \
+   --rerun-incomplete \
    --configfile config/config_Brugia_malayi.yaml
 
 echo Complete!
