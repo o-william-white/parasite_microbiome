@@ -6,8 +6,7 @@ mamba env create -n parasite_microbiome -f envs/conda_env.yaml
 
 ```
 
-Get list of SRA files to download. Performed a manual search on ENA, and copied the curl command below to replicate on the command line.
-Accessed 23/05/2023
+Get list of SRA files to download. Performed a manual search on ENA, and copied the curl command below to replicate on the command line. Accessed 23/05/2023
 
 ```
 # Brugia malayi wgs
@@ -22,14 +21,32 @@ curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -d 'result=rea
 |  55  | Brugia malayi       |
 | 1609 | Schistosoma mansoni |
 
+Some of the Schistosoma mansoni runs were found to be empty :( Check which runs have data. Accessed 29/05/2023.
+```
+source activate sra-tools
+head -n 1 config/samples_Schistosoma_mansoni.tsv > config/samples_Schistosoma_mansoni_present.tsv
+tail -n +2 config/samples_Schistosoma_mansoni.tsv | while read LINE; do 
+   ACC=$(echo -e "$LINE" | cut -f 1)
+   srapath $ACC > /dev/null
+   if [ $? -eq 0 ]; then
+      echo -e "$LINE"
+   fi    
+done >> config/samples_Schistosoma_mansoni_present.tsv
+
+# 1547 remaining
+tail -n +2 config/samples_Schistosoma_mansoni_present.tsv | wc -l
+```
+
 ```
 # subset Schistosoma mansoni runs
 # maximum of 20 runs with the same name
-head -n 1 config/samples_Schistosoma_mansoni.tsv > config/samples_Schistosoma_mansoni_subset.tsv 
-tail -n +2 config/samples_Schistosoma_mansoni.tsv | cut -f 2 | sort | uniq | while read EXP; do
-   grep -e "$EXP" -w config/samples_Schistosoma_mansoni.tsv | head -n 20
-done >> config/samples_Schistosoma_mansoni_subset.tsv
+head -n 1 config/samples_Schistosoma_mansoni_present.tsv > config/samples_Schistosoma_mansoni_subset.tsv 
+tail -n +2 config/samples_Schistosoma_mansoni_present.tsv | cut -f 2 | sort | uniq | while read EXP; do
+   grep -e "$EXP" -w config/samples_Schistosoma_mansoni_present.tsv | head -n 20
+done >> config/samples_Schistosoma_mansoni_subset.tsv 
 
+# 162 in subset
+tail -n +2 config/samples_Schistosoma_mansoni_subset.tsv | wc -l
 ```
 
 Run pipeline

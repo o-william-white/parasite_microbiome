@@ -22,10 +22,12 @@ rule all:
         # expand(output_dir+"/fastq_dl/{sample}_1.fastq.gz", sample=samples),
         #expand(output_dir+"/fastq_dl/{sample}_2.fastq.gz", sample=samples)
         # kraken
-        expand(output_dir+"/kraken_silva/{sample}.txt",           sample=samples),
-        expand(output_dir+"/kraken_silva/{sample}_report.txt",    sample=samples),
-        expand(output_dir+"/kraken_standard/{sample}.txt",        sample=samples),
-        expand(output_dir+"/kraken_standard/{sample}_report.txt", sample=samples)
+        #expand(output_dir+"/kraken_silva/{sample}.txt",           sample=samples),
+        #expand(output_dir+"/kraken_silva/{sample}_report.txt",    sample=samples),
+        #expand(output_dir+"/kraken_standard/{sample}.txt",        sample=samples),
+        #expand(output_dir+"/kraken_standard/{sample}_report.txt", sample=samples)
+        output_dir+"/kraken_silva_summary/plot_count.png",
+        output_dir+"/kraken_standard_summary/plot_count.png"
 
 # sra-tools
 rule fastq_dump:
@@ -117,4 +119,38 @@ rule kraken_standard:
             {input.rev} &> {log}
         """
 
+# create plots for silva
+rule plot_silva:
+    input:
+        expand(output_dir+"/kraken_silva/{sample}.txt",        sample=sample_data["run_accession"].tolist()),
+        expand(output_dir+"/kraken_silva/{sample}_report.txt", sample=sample_data["run_accession"].tolist())
+    output:
+        output_dir+"/kraken_silva_summary/plot_count.png",
+        output_dir+"/kraken_silva_summary/plot_heatmap.png",
+        output_dir+"/kraken_silva_summary/table_join.txt"
+    conda:
+        "envs/r_env.yaml"
+    log:
+        output_dir+"/logs/kraken_silva_summary/log"
+    shell:
+        """
+        Rscript scripts/summarise_kraken.R {output_dir}/kraken_silva/ {output_dir}/kraken_silva_summary/ &> {log}
+        """
 
+# create plots for standard
+rule plot_standard:
+    input:
+        expand(output_dir+"/kraken_standard/{sample}.txt",        sample=sample_data["run_accession"].tolist()),
+        expand(output_dir+"/kraken_standard/{sample}_report.txt", sample=sample_data["run_accession"].tolist())
+    output:
+        output_dir+"/kraken_standard_summary/plot_count.png", 
+        output_dir+"/kraken_standard_summary/plot_heatmap.png",
+        output_dir+"/kraken_standard_summary/table_join.txt"
+    conda:
+        "envs/r_env.yaml"
+    log:
+        output_dir+"/logs/kraken_standard_summary/log"
+    shell:
+        """
+        Rscript scripts/summarise_kraken.R {output_dir}/kraken_standard/ {output_dir}/kraken_standard_summary/ &> {log}
+        """
