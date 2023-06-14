@@ -1,12 +1,15 @@
 
 # path to sample sheet
-samples: config/samples_Schistosoma_mansoni_subset.tsv
+samples: config/samples_Schistosoma_mansoni_present.tsv
 
 # name of output directory
 output_dir: results_Schistosoma_mansoni
 
 # path of kraken standard db
-kraken_standard: /workspaces/groups/database/kraken2-standard-db/kraken2_standard
+# kraken_standard: /workspaces/groups/database/kraken2-standard-db/kraken2_standard
+
+# path of kraken nt db
+kraken_nt: /workspaces/groups/database/nt-2022-11-14_kraken/ncbi_nt/
 
 # path of kraken silva database
 kraken_silva: /workspaces/groups/database/silva132-2023-05-24-kraken/16S_SILVA132_k2db/

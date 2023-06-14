@@ -6,7 +6,7 @@ configfile: "config/config.yaml"
 # configfile parameters
 output_dir = config["output_dir"]
 kraken_silva = config["kraken_silva"]
-kraken_standard = config["kraken_standard"]
+kraken_nt = config["kraken_nt"]
 threads = config["threads"]
 
 # read sample data
@@ -24,10 +24,10 @@ rule all:
         # kraken
         #expand(output_dir+"/kraken_silva/{sample}.txt",           sample=samples),
         #expand(output_dir+"/kraken_silva/{sample}_report.txt",    sample=samples),
-        #expand(output_dir+"/kraken_standard/{sample}.txt",        sample=samples),
-        #expand(output_dir+"/kraken_standard/{sample}_report.txt", sample=samples)
+        #expand(output_dir+"/kraken_nt/{sample}.txt",        sample=samples),
+        #expand(output_dir+"/kraken_nt/{sample}_report.txt", sample=samples)
         output_dir+"/kraken_silva_summary/plot_count.png",
-        output_dir+"/kraken_standard_summary/plot_count.png"
+        output_dir+"/kraken_nt_summary/plot_count.png"
 
 # sra-tools
 rule fastq_dump:
@@ -56,19 +56,43 @@ rule gzip:
         fwd = output_dir+"/fastq_dump/{sample}_1.fastq",
         rev = output_dir+"/fastq_dump/{sample}_2.fastq"
     output:
-        fwd = output_dir+"/fastq_dump/{sample}_1.fastq.gz",
-        rev = output_dir+"/fastq_dump/{sample}_2.fastq.gz"
+        fwd = temp(output_dir+"/fastq_dump/{sample}_1.fastq.gz"),
+        rev = temp(output_dir+"/fastq_dump/{sample}_2.fastq.gz")
     shell:
         """
         gzip -c {input.fwd} > {output.fwd}
         gzip -c {input.rev} > {output.rev}
         """
 
-# kraken with silva db
-rule kraken_silva:
+# fastp
+rule fastp:
     input:
         fwd = output_dir+"/fastq_dump/{sample}_1.fastq.gz",
         rev = output_dir+"/fastq_dump/{sample}_2.fastq.gz"
+    output:
+        fwd = output_dir+"/fastp/{sample}_1.fastq.gz",
+        rev = output_dir+"/fastp/{sample}_2.fastq.gz",
+        html = output_dir+"/fastp/{sample}.html",
+        json = output_dir+"/fastp/{sample}.json"
+    log:
+        output_dir+"/logs/fastp/{sample}.log"
+    conda:
+        "envs/fastp.yaml"
+    threads: threads
+    shell:
+        """
+        fastp --in1 {input.fwd} --in2 {input.rev} \
+            --out1 {output.fwd} --out2 {output.rev} \
+            --html {output.html} --json {output.json} \
+            --disable_quality_filtering \
+            --thread {threads} &> {log}
+        """
+
+# kraken with silva db
+rule kraken_silva:
+    input:
+        fwd = output_dir+"/fastp/{sample}_1.fastq.gz",
+        rev = output_dir+"/fastp/{sample}_2.fastq.gz"
     output:
         out = output_dir+"/kraken_silva/{sample}.txt",
         rep = output_dir+"/kraken_silva/{sample}_report.txt"
@@ -92,23 +116,23 @@ rule kraken_silva:
         """
 
 
-# kraken with standard db
-rule kraken_standard:
+# kraken with nt db
+rule kraken_nt:
     input:
-        fwd = output_dir+"/fastq_dump/{sample}_1.fastq.gz",
-        rev = output_dir+"/fastq_dump/{sample}_2.fastq.gz"
+        fwd = output_dir+"/fastp/{sample}_1.fastq.gz",
+        rev = output_dir+"/fastp/{sample}_2.fastq.gz"
     output:
-        out = output_dir+"/kraken_standard/{sample}.txt",
-        rep = output_dir+"/kraken_standard/{sample}_report.txt"
+        out = output_dir+"/kraken_nt/{sample}.txt",
+        rep = output_dir+"/kraken_nt/{sample}_report.txt"
     conda:
         "envs/kraken2.yaml"
     log:
-        output_dir+"/logs/kraken_standard/{sample}.log"
+        output_dir+"/logs/kraken_nt/{sample}.log"
     threads: threads
     shell:
         """
         kraken2 \
-            --db {kraken_standard} \
+            --db {kraken_nt} \
             --paired \
             --gzip-compressed \
             --use-names \
@@ -137,20 +161,20 @@ rule plot_silva:
         Rscript scripts/summarise_kraken.R {output_dir}/kraken_silva/ {output_dir}/kraken_silva_summary/ &> {log}
         """
 
-# create plots for standard
-rule plot_standard:
+# create plots for nt
+rule plot_nt:
     input:
-        expand(output_dir+"/kraken_standard/{sample}.txt",        sample=sample_data["run_accession"].tolist()),
-        expand(output_dir+"/kraken_standard/{sample}_report.txt", sample=sample_data["run_accession"].tolist())
+        expand(output_dir+"/kraken_nt/{sample}.txt",        sample=sample_data["run_accession"].tolist()),
+        expand(output_dir+"/kraken_nt/{sample}_report.txt", sample=sample_data["run_accession"].tolist())
     output:
-        output_dir+"/kraken_standard_summary/plot_count.png", 
-        output_dir+"/kraken_standard_summary/plot_heatmap.png",
-        output_dir+"/kraken_standard_summary/table_join.txt"
+        output_dir+"/kraken_nt_summary/plot_count.png", 
+        output_dir+"/kraken_nt_summary/plot_heatmap.png",
+        output_dir+"/kraken_nt_summary/table_join.txt"
     conda:
         "envs/r_env.yaml"
     log:
-        output_dir+"/logs/kraken_standard_summary/log"
+        output_dir+"/logs/kraken_nt_summary/log"
     shell:
         """
-        Rscript scripts/summarise_kraken.R {output_dir}/kraken_standard/ {output_dir}/kraken_standard_summary/ &> {log}
+        Rscript scripts/summarise_kraken.R {output_dir}/kraken_nt/ {output_dir}/kraken_nt_summary/ &> {log}
         """
